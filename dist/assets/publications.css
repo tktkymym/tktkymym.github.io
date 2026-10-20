@@ -1,0 +1,21 @@
+.publication-stats{display:flex;gap:42px;margin:29px 0 23px;padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);align-items:baseline}
+.publication-stats>div{display:flex;align-items:baseline;gap:11px}
+.publication-stats strong{font-family:var(--serif);font-size:32px;line-height:1.2;font-weight:400;color:var(--ink)}
+.publication-stats .stat-total strong{font-size:43px;color:var(--accent)}
+.publication-stats span{font-size:11px;color:var(--body)}
+.publication-controls{display:flex;flex-wrap:wrap;gap:17px 28px;margin:0 0 20px;padding:17px 20px;background:var(--soft);border:1px solid var(--line);border-radius:3px}
+.select-field{display:flex;gap:13px;align-items:center}
+.select-field label{font-size:11px;font-weight:600;color:var(--body)}
+.select-field select{font:inherit;font-size:12px;color:var(--ink);background:white;border:1px solid #bdcdda;border-radius:3px;padding:7px 30px 7px 10px;min-width:160px;max-width:100%}
+.publication-year{margin-top:32px;scroll-margin-top:180px}
+.year-heading{display:flex;align-items:baseline;gap:16px;margin-bottom:10px}
+.year-heading h3{font-family:var(--serif);font-weight:400;font-size:31px;line-height:1.3;margin:0;color:var(--ink)}
+.year-heading p{font-size:10px;color:var(--muted);margin:0}
+.paper-type{display:block;font-weight:400;font-size:9px;color:var(--muted);margin-top:9px;line-height:1.6}
+.citation-details{font-size:10px;line-height:1.8;margin:0 0 7px;color:var(--muted);overflow-wrap:anywhere}
+.paper-award{display:inline-block;color:var(--accent);background:var(--soft);border-left:2px solid var(--accent);padding:4px 9px;margin:0 0 10px;font-size:10px;font-weight:600;line-height:1.6}
+.publication-years .paper{padding-top:20px;padding-bottom:21px}
+.publication-years .authors:last-child{margin-bottom:0}
+@media(max-width:850px){.publication-stats{gap:26px}.publication-stats>div{gap:7px}.publication-stats span{font-size:10px}.publication-stats strong{font-size:28px}.publication-stats .stat-total strong{font-size:37px}}
+@media(max-width:640px){.publication-stats{display:grid;grid-template-columns:1fr 1fr;gap:17px 22px;padding:19px 0;margin-top:24px}.publication-stats>div{align-items:center;gap:10px}.publication-stats strong{font-size:28px}.publication-stats .stat-total strong{font-size:33px}.publication-stats span{font-size:10px}.publication-controls{padding:14px;gap:13px}.select-field{width:100%;justify-content:space-between;gap:16px}.select-field label{font-size:10px}.select-field select{width:68%;min-width:0;font-size:11px}.publication-year{margin-top:27px}.year-heading h3{font-size:28px}.paper-type{margin-top:0;font-size:8px}.paper-venue{flex-wrap:wrap}.paper-award{font-size:9px;line-height:1.6}.publication-years .paper{padding-top:19px;padding-bottom:20px}}
+@media print{.publication-controls,.publication-stats{display:none}.publication-year{margin-top:20px}.year-heading{break-after:avoid}.publication-years .paper-venue .year{display:none}.paper-award{background:none}}

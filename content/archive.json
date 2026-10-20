@@ -1,0 +1,1234 @@
+[
+  {
+    "category": "学術論文",
+    "text": "西行健太, 日向匡史, 田博, 木下航一, 長谷川友紀, 山下隆義, 藤吉弘亘,  “ドライバ姿勢と動作のマルチタスク学習による高速かつ高精度なドライバ動作認識”, 人工知能学会論文誌, Vol.36, No.2, p. A-K93_1-10, 2021."
+  },
+  {
+    "category": "学術論文",
+    "text": "西行健太, 日向匡史, 田博, 木下航一, 長谷川友紀, 山下隆義, 藤吉弘亘,  “高速かつ省メモリなドライバ姿勢推定”, 人工知能学会論文誌, Vol.35, No.6, p. C-K53_1-10, 2020."
+  },
+  {
+    "category": "学術論文",
+    "text": "T. Ogura, A. Magassouba, K. Sugiura, T. Hirakawa, T. Yamashita, H. Fujiyoshi, H. Kawai,  “Alleviating the Burden of Labeling: Sentence Generation by Attention Branch Encoder–Decoder Network”, IEEE Robotics and Automation Letters, Vol. 5, No. 4, pp. 5945-5952, 2020."
+  },
+  {
+    "category": "学術論文",
+    "text": "K. Nishiyuki, J.-Y. Shiau, S. Nagae, T. Yabuuchi, K. Kinoshita, Y. Hasegawa, T. Yamashita, H. Fujiyoshi, \"Driver Drowsiness Estimation by Parallel Linked Time-Domain CNN with Novel Temporal Measures on Eye States\", IEICE TRANSACTIONS on Information and Systems, vol. E103-D, no. 6, pp. 1276-1286, 2020."
+  },
+  {
+    "category": "学術論文",
+    "text": "河合康平, 長谷川昂宏, 山下隆義, 藤吉弘亘,  “テンソル分解を用いた視点合成特徴量記述フィルタ群の畳み込み処理の効率化”, 電子情報通信学会論文誌, Vol.J103-D, No.2, pp.52-60, 2020."
+  },
+  {
+    "category": "学術論文",
+    "text": "堂前幸康, 川西亮輔, 白土浩司, 原口林太郎, 藤田正弘, 山内悠嗣, 山下隆義, 藤吉弘亘, 秋月秀一, 橋本学,  “挟持グリッパをベースとした混載商品を識別するピッキングロボットの開発”, 日本ロボット学会誌, Vol.38, No.1, pp.95–103, 2020."
+  },
+  {
+    "category": "学術論文",
+    "text": "坂下祐輔, 熊谷佳紀, 柴涼介, 竹野直樹, 山下隆義, 藤吉弘亘, \"Deep learningによるシングルショットOCT画像のノイズ除去\", 視覚の科学, No.4, pp. 104-110, 2019."
+  },
+  {
+    "category": "学術論文",
+    "text": "H. Fujiyoshi, T. Hirakawa, T. Yamashita, \"Deep learning-based image recognition for autonomous driving\", IATSS Research, Vol.43, Iss.4, pp.244-252, 2019."
+  },
+  {
+    "category": "学術論文",
+    "text": "内田祐介，山下隆義, \"物体認識のための畳み込みニューラルネットワークの研究動向\", 電子情報通信学会論文誌, Vol.J102-D,No.3, pp.203-225, 2019."
+  },
+  {
+    "category": "学術論文",
+    "text": "•平川翼, 山下隆義, 玉木徹, 藤吉弘亘, \"動画像を用いた経路予測手法の分類,\" 電子情報通信学会論文誌, Vol.J102-D, No.2, pp.53-67, 2019."
+  },
+  {
+    "category": "学術論文",
+    "text": "T. Hirakawa, T. Yamashita, T. Tamaki, H. Fujiyoshi, Y. Umezu, I. Takeuchi, S. Matsumoto, K. Yoda, “Can AI predict animal movements? Filling gaps in animal trajectories using inverse reinforcement learning”, Ecosphere, vol.9, no.10, pp.e02447, 2018."
+  },
+  {
+    "category": "学術論文",
+    "text": "荒木諒介, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 堂前幸康, 川西亮輔, 関真規人, “Graspabilityを導入したDCNNによる物体把持位置検出”, 日本ロボット学会誌, vol.36, no.8, pp.559-566, 2018."
+  },
+  {
+    "category": "学術論文",
+    "text": "Hiroshi Fukui, Takayoshi Yamashita, Yuji Yamauchi, Hironobu Fujiyoshi, Hiroshi Murase, “Training of CNN with Heterogeneous Learning for Multiple Pedestrian Attributes Recognition Using Rarity Rate”, IEICE TRANSACTIONS on Information and Systems, Vol.E101-D, No.5, pp.1222-1231, 2018."
+  },
+  {
+    "category": "学術論文",
+    "text": "長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 秋月秀一, 橋本学, 堂前幸康, 川西亮輔, “Convolutional Neural Networkによる把持位置に基づいたマルチクラス物体認識”, 日本ロボット学会誌, vol.36, no.5, pp.349-359,2018."
+  },
+  {
+    "category": "学術論文",
+    "text": "奥野薫子, 山下隆義, 福井宏, 山内悠嗣, 藤吉弘亘, 乘冨修蔵, 新 浩治, \"Heterogeneous Learningを導入したDeep Convolutional Neural Networkによる運転手の状態のモニタリング\", 精密工学会論文誌 Vol.83, No.12, pp.1101-1108, 2017."
+  },
+  {
+    "category": "学術論文",
+    "text": "若山涼至, 村田隆英, 木村昭悟, 山下隆義, 山内悠嗣, 藤吉弘亘, \"共変量シフト適応に基づくrandom forests の並列分散学習\", 電子情報通信学会論文誌, 2016."
+  },
+  {
+    "category": "学術論文",
+    "text": "福井宏, 山下隆義, 山内悠嗣, 藤吉弘亘, \"Random DropoutとEnsemble Inference Networksによる歩行者検出と標識認識の高精度化\", 情報処理学会, Vol.57, No.3, pp.910-921, 2016,(特選論文)."
+  },
+  {
+    "category": "学術論文",
+    "text": "S. Saito, T. Yamashita, Y. Aoki, \"Multiple Objects Extraction from Aerial Imagery with Convolutional Neural Networks\", Journal of Imaging Science and Technology, 2015."
+  },
+  {
+    "category": "学術論文",
+    "text": "T. Yamashita, T. Nakamura, H. Fukui, Y. Yamauchi, H. Fujiyoshi, \"Cost-Alleviative Learning for Deep Convolutional Neural Network-based Facial Part Labeling\", IPSJ Transactions on Computer Vision and Applications, Vol.7, pp.99-103, 2015."
+  },
+  {
+    "category": "学術論文",
+    "text": "Y. Yazawa, T. Yoshimi, T. Tsuzuki, T. Dohi, Y. Yamauchi, T. Yamashita, H. Fujiyoshi, \"FPGA Hardware with Target-Reconfigurable Object Detector\", IEICE TRANSACTIONS on Information and Systems, Vol.E98-D, No.9, pp.1637-1645, 2015."
+  },
+  {
+    "category": "学術論文",
+    "text": "Y. Mishina, R. Murata, Y. Yamauchi, T. Yamashita, H. Fujiyoshi, \"Boosted Random Forest\", IEICE TRANSACTIONS on Information and Systems, Vol.E98-D, No.9, pp.1630-1636, 2015."
+  },
+  {
+    "category": "学術論文",
+    "text": "長谷川昂宏，山内悠嗣，安倍満，吉田悠一，山下隆義，藤吉弘亘， \"Cascaded FASTによるキーポイント検出”， 電子情報通信学会論文誌, Vol.J98-D, No.4, pp.560-570, 2015."
+  },
+  {
+    "category": "学術論文",
+    "text": "山内悠嗣，山下隆義，藤吉弘亘， \"画像からの統計的学習手法に基づく人検出\"， 電子情報通信学会論文誌 D, Vol.J96-D, No.9, pp.2017-2040, 2013."
+  },
+  {
+    "category": "学術論文",
+    "text": "山下隆義，藤吉弘亘， \"空間的および時間的な属性情報を導入した特徴点ベースの物体追跡\"， 電子情報通信学会論文誌 D, Vol.J96-D, No.8, pp.1743-1752, 2013."
+  },
+  {
+    "category": "学術論文",
+    "text": "山下隆義，藤吉弘亘， \"追跡対象と周辺領域の関係性に注目した物体追跡\"， 電子情報通信学会論文誌 D, Vol.J96-D, No.7,pp.1627-1635, 2013."
+  },
+  {
+    "category": "学術論文",
+    "text": "山内悠嗣，金出武雄，山下隆義，藤吉弘亘， \"量子化残差に基づく遷移尤度モデルを導入した識別器の提案\"， 電子情報通信学会論文誌 D, Vol.J95-D, No.3, pp.666-674, 2011."
+  },
+  {
+    "category": "学術論文",
+    "text": "T. Yamashita, Y. Yamauchi and H. Fujiyoshi: \"A Single framework for Action Recognition based on Boosted Randomized Trees\", IPSJ Transactions on Computer Vision and Applications (CVA), Vol. 3,pp.160-171, 2011."
+  },
+  {
+    "category": "学術論文",
+    "text": "松島千佳, 山内悠嗣, 山下隆義, 藤吉弘亘, \"物体検出のためのRelational HOG 特徴量とワイルドカードを用いたバイナリのマスキング\", 電子情報通信学会論文誌 D, Vol.J94-D, No.8, pp.1172-1182, 2011."
+  },
+  {
+    "category": "学術論文",
+    "text": "L. Cai, L. He, T. Yamashita, Y. Xu, Y. Zhao and X. Yang, \"A new strategy to combine features in tracking object contour\", IEEE Transactions on Circuits and Systems for Video Technology, Vol.21, No.12, pp.1784-1794, 2011."
+  },
+  {
+    "category": "学術論文",
+    "text": "山下隆義, 池村翔, 藤吉弘亘, 岩堀祐之: \"距離情報を考慮したパーツ統合による人物検出の高精度化\", 電気学会論文誌, Vol.131, No.4, Sec.D, pp.475-481, 2011."
+  },
+  {
+    "category": "学術論文",
+    "text": "T. Tanaka, S. Yoshinaga, A. Shimada, R. Taniguchi, T. Yamashita and D. Arita: \"Object Detection based on Combining Multiple round Modelings\", IPSJ Transactions. on Computer Vision and Applications (CVA), Vol.3, No.8, pp.156-168, 2010."
+  },
+  {
+    "category": "学術論文",
+    "text": "山下隆義, 藤吉弘亘: \"Soft Decision Featureによる姿勢変化に対応した人物追跡\", 情報処理学会論文誌, Vol.51, No.9, pp.1940-1950, 2010."
+  },
+  {
+    "category": "学術論文",
+    "text": "山内悠嗣, 山下隆義,藤吉弘亘: \"Boostingに基づく特徴量の共起表現による人検出\", 電子情報通信学会論文誌, Vol. J92-D, No.8, pp.1125-1134, 2009."
+  },
+  {
+    "category": "学術論文",
+    "text": "山下隆義, 勞世紅, 川出 雅人: \"Online Real Boosting による人物追跡\", 情報処理学会論文誌 (CVIM), Vol.1, No.1, pp.73-82, 2008."
+  },
+  {
+    "category": "学術論文",
+    "text": "Y. Li, H. Ai, S. Lao, T. Yamashita and M. Kawade: \"Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Life Spans\" , IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.30, No.10, pp.1728-1740, 2008."
+  },
+  {
+    "category": "学術論文",
+    "text": "才木常正, 山下隆義, 北川洋一, 林昭博: \"漢字よりひらがなを小さく印刷するワードプロセッサ機能\", ヒューマンインタフェース学会論文誌, Vol.3, No.1, pp.25-30, 2001."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Shiraki, T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Acquisition of Optimal Connection Patterns for Skeleton-Based Action Recognition with Graph Convolutional Networks\", International Conference on Computer Vision Theory and Applications (VISAPP), 2020"
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Iesaki, T. Hirakawa, T. Yamashita, H. Fujiyoshi, Y. Ishii, K. Kozuka, R. Fujimura, \"Simultaneous Visual Context-aware Path Prediction\", International Conference on Computer Vision Theory and Applications (VISAPP), 2020"
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Inagaki, R. Araki, T. Yamashita, H. Fujiyoshi, \"Detecting layered structures of partially occluded objects for bin picking\", IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Mori, T. Hirakawa, T. Yamashita, H. Fujiyoshi , \"Coarse-to-Fine Deep Orientation Estimator for Local Image Matching\", 5th Asian Conference on Pattern Recognition (ACPR2019), pp.378-390, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Mori, H. Fukui, T. Hirakawa, J. Nishiyama, T. Yamashita, H. Fujiyoshi, \"Attention Neural Baby Talk: Captioning of Risk Factors While Driving\", The 22nd IEEE International Conference on Intelligent Transportation Systems (ITSC), 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Iesaki, S. Naruse, T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Automatic Creation of Path Information on Digital Map\", The 22nd IEEE International Conference on Intelligent Transportation Systems (ITSC), 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Itaya, T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Adaptive Selection of Auxiliary Tasks in UNREAL\", the 28th International Joint Conference on Artificial Intelligence (IJCAI) 2nd Scaling-Up Reinforcement Learning (SURL) Workshop, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, M. Nakagawa, H. Fujiyoshi, Y. Haikawa, \"Recognition of Listener's Nodding by LSTM Based on Movement of Facial Keypoints and Speech Intonation\", HCI International 2019, Vol.1033. pp.154-160, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Fukui, T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Attention Branch Network: Learning of Attention Mechanism for Visual Explanation\", The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 10705-10714, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Mori, H. Fukui, T. Murase, T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Visual Explanation by Attention Branch Network for End-to-end Learning-based Self-driving\", IEEE Intelligent Vehicle Symposium, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "R. Sobue, M. Nakazawa, Y. Chae, B. Stenger, T. Yamashita, H. Fujiyoshi, \"Cooking Video Summarization Guided By Matching with Step-By-Step Recipe Photos\", International Conference on Machine Vision Applications, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "S. Minami, T. Yamashita, H. Fujiyoshi, \"Gradual Sampling Gate for Bidirectional Knowledge Distillation\", International Conference on Machine Vision Applications, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Osumi, T. Yamashita, H. Fujiyoshi, \"Domain Adaptation using a Gradient Reversal Layer with Instance Weighting\", International Conference on Machine Vision Applications, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Mano, T. Hasegawa, T. Yamashita, H. Fujiyoshi, Y. Domae, \"Fast and Precise Detection of Object Grasping Positions with Eigenvalue Templates,\" International Conference on Robotics and Automation, pp. 4403--4409, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Hirakawa, T. Yamashita, H. Fujiyoshi, \"Scene Context-aware Rapidly-exploring Random Trees for Global Path Planning\", International Workshop on Behavior analysis and Recognition for Knowledge Discovery, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "R. Matsui, T. Yamashita, and H. Fujiyoshi, \"Simultaneous Estimation of Facial Landmark and Attributes with Separation Multi-task Networks\", International Conference on Computer Vision Theory and Applications(VISSAP), 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Adachi, H. Fukui, T. Yamashita and H. Fujiyoshi, \"Facial Image Generation by Generative Adversarial Networks using Weighted Conditions\", International Conference on Computer Vision Theory and Applications (VISSAP), pp. 139-145, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Minoura, T. Hirakawa, T. Yamashita and H. Fujiyoshi, \"Path predictions using object attributes and semantic environment\", International Conference on Computer Vision, Theory and Applications (VISAPP), pp. 19-26, 2019."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Kunisada, T. Yamashita and H. Fujiyoshi, \"Pedestrian-Detection Method Based on 1D-CNN During LiDAR Rotation\", The 21st IEEE International Conference on Intelligent Transportation Systems (ITSC), 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Kawai, T. Hasegawa, Y. Yamauchi, T. Yamashita and H. Fujiyoshi, gCOMPACTIFICATION OF AFFINE TRANSFORMATION FILTER USING TENSOR DECOMPOSITION\", The 25th IEEE International Conference on Image Processing (ICIP), 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, H. Furukawa and H. Fujiyoshi, \"MULTIPLE SKIP CONNECTIONS OF DILATED CONVOLUTION NETWORK FOR SEMANTIC SEGMENTATION\", The 25th IEEE International Conference on Image Processing (ICIP), 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita: \"Sensing, Perception and Decision for deep learning based Autonomous Driving\", International Conference on Human-Computer Interaction, 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Hirakawa, T. Yamashita, T. Tamaki, H. Fujiyoshi: \"Survey on Vison-based Path Prediction\", International Conference on Human-Computer Interaction, 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "R. Araki, T. Yamashita and H. Fujiyoshi: \"ARC2017 RGB-D Dataset for Object Detection and Segmentation\", Late Breaking Results Poster on International Conference on Robotics and Automation, 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "F. Okubo, T. Yamashita, A. Shimada, Y. Taniguchi, S. Konomi: \"On the Prediction of Students’ Quiz Score by Recurrent Neural Network\", The workshop on Multimodal Learning Analytics Across (Physical and Digital) Spaces (CrossMMLA2018) , 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "K. Okuno, T. Yamashita, H. Fukui, S. Noridomi, K. Arata, Y. Yamauchi and H. Fujiyoshi: \"Body Posture and Face Orientation Estimation by Convolutional Network with Heterogeneous Learning\", International Workshop on Advanced Image Technology, 2018."
+  },
+  {
+    "category": "国際会議",
+    "text": "F. Okubo, T. Yamashita, A. Shimada, S. Konomi: \"Students’ Performance Prediction Using Data of Multiple Courses by Recurrent Neural Network\", International Conference on Computers in Education, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Hirakawa, T. Yamashita, K. Yoda, T. Tamaki, H. Fujiyoshi: \"Travel Time-dependent Maximum Entropy Inverse Reinforcement Learning for Seabird Trajectory Prediction\", Asian Conference on Pattern Recognition, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Achiha, T. Yamashita, M. Nakazawa, S. Masuko, Y. Yamauchi, H. Fujiyoshi: \"Word Recognition by Combining Outline Emphasis and Synthesize Background\", The Workshop on E-Commerce and Entertainment Computing (ECEC) in conjunction with ICEC2017, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "R. Kamiya, T. Yamashita, M. Ambai, I. Sato, Y. Yamauchi and H. Fujiyoshi: \"Binary-decomposed DCNN for accelerating computation and compressing model without retraining\", The workshop on Compact and Efficient Feature Representation and Learning (CEFRL) in conjunction with ICCV2017, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, T. Kawaguchi, Y. Yamauchi, H. Fujiyoshi: \"Egomotion Recognition by Convolutional-Recurrent Neural Network\", The Second International Workshop on Egocentric Perception, Interaction and Computing in conjunction with ICCV2017, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Kurokawa, Y. Yamauchi, M. Ambai, T. Yamashita and H. Fujiyoshi: \"Accelerating Computation of Exemplar-SVM by Binary Approximation based on Matrix Decomposition\", British Machine Vision Conference, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, H. Furukawa, Y. Yamauchi, H. Fujiyoshi: \"Multiple Skip Connections and Dilated Convolutions for Semantic Segmentation\", The workshop on IEEE Intelligent Vehicle Symposium, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "M. Ueda, Y. Suzuki, A. Itai, T. Yamashita, N. Ishii: \"Report on Behavior Analysis Using Text Mining in Pair Programming Education\", The 6th International Conference on Learning Technologies and Learning Environments (LTLE2017)."
+  },
+  {
+    "category": "国際会議",
+    "text": "Masaya Uchi, Yuri Suzuki, Akitoshi Itai, Takayoshi Yamashita and Norio Ishii: \"Analysis of Effects of Cooperative Learning Due to Differences in Students’ Skills\", The 6th International Conference on Learning Technologies and Learning Environments (LTLE2017)."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Fujiyoshi, T. Yamashita, Y. Yamauchi, T. Hasegawa, M. Hashimoto, S. Akizuki, Y. Domae and R. Kawanishi, “Team C^2M: Two Cooperative Robots for Picking and Stowing in Amazon Picking Challenge 2016”, Warehouse Picking Automation Workshop on International Conference on Robotics and Automation, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Fukui, T. Yamashita, Y. Kato, R. Matsui, Y. Yamauchi, H. Fujiyoshi: \"Facial Image Analysis by CNN with Weighted Heterogeneous Learning\", International Workshop on Advanced Image Technology, 2017."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Hasegawa, R. Tomizawa, Y. Yamauchi, T. Yamashita and H. Fujiyoshi: \"Guided Filtering Using Reflected IR Image for Improving Quality of Depth Image\", Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP), vol. 3, pp. 33-39, 2016."
+  },
+  {
+    "category": "国際会議",
+    "text": "S. Saito, T. Yamashita, Y. Aoki: \"Multiple Objects Extraction from Aerial Imagery with Convolutional Neural Networks\", IS&T International Symposium on Electronic Imaging(EI2016), 2016."
+  },
+  {
+    "category": "国際会議",
+    "text": "M.Kaneko, T.Hasegawa, Y.Yamauchi, T.Yamashita, H.Fujiyoshi, H.Murase: \"Fast 3D Edge Detection by Using Decision Tree from Depth Image\", RSJ International Conference on Intelligent Robots and Systems (IROS), 2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, Y. Yamauchi, H. Fujiyoshi: \"Facial Point Detection Using Convolutional Neural Networks Transferred from a Heterogeneous Task\", IEEE International Conference on Image Processing(ICIP), 2015"
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, M. Kimura, Y. Yamauchi, H. Fujiyoshi: \"Facial Point Detection based on a Convolutional Neural Network with Optimal Mini-batch Procedure\", IEEE International Conference on Image Processing(ICIP), 2015"
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, M. Tanaka, Y. Yamauchi, H. Fujiyoshi: \"Swap Node : regularization approach for deep convolutional neural network\", IEEE International Conference on Image Processing(ICIP), 2015"
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Fukui, T. Yamashita, Y. Yamauchi, H. Fujiyoshi, H. Murase: \"Pedestrian Detection Based on Deep Convolutional Neural Networks with Ensemble Inference Network\", IEEE Intelligent Vehicles Symposium (IV2015), 2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Kurokawa, Y. Yamauchi, T. Yamashita, H. Fujiyoshi: \"Fast Discrimination by Early Judgment Using Linear Classifier\", IAPR International Conference on Machine Vision Applications, pp.234-237, 2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Murai, Y. Yamauchi, T. Yamashita, H. Fujiyoshi: \"Weighted Hough Forest for object detection\", IAPR International Conference on Machine Vision Applications, pp.122-125, 2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, T. Watasue, Y. Yamauchi, H. Fujiyoshi: \"Improving Quality of Training Samples Through Exhaustless Generation and Effective Selection for Deep Convolutional Neural Networks\", The 11th International Conference on Computer Vision Theory and Applications(VISAPP),2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "R. Murata, Y. Mishina, Y. Yamauchi, T. Yamashita, H. Fujiyoshi : \"Efficient Feature Selection Method Using Contribution Ratio by Random Forest\", 21th Korea-Japan Joint Workshop on Frontiers of Computer Vision (FCV2015), 2015."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Yamauchi, M. Ambai, I. Sato, Y. Yoshida, H. Fujiyoshi, T. Yamashita: \"Asymmetric Feature Representation for Object Recognition in Client Server System\", Asian Conference on Computer Vision(ACCV), 2014."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, T. Watasue: \"Hand Posture Recognition Based on Bottom-up Structured Deep Convolutional Neural Network with Curriculum Learning\", IEEE International Conference on Image Processing(ICIP), 2014."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Yamashita, M. Tanaka, E. Yoshida, Y. Yamauchi, H. Fujiyoshi: \"To be Bernoulli or to be Gaussian, for a Restricted Boltzmann Machine\", 22nd International Conference on Pattern Recognition(ICPR), 2014."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Fujiyoshi, M. Kimura, S. Shimizu, Y. Yamauchi, T. Yamashita: \"3-D Gaze Scan Path by Inside-out Camera System\", Workshop on Egocentric (First-Person) Vision in conjunction with CVPR, 2014."
+  },
+  {
+    "category": "国際会議",
+    "text": "M. Tsuchiya, Y. Yamauchi, H. Fujiyoshi, T. Yamashita: \"Hybrid Transfer Learning for Efficient Learning in Object Detection\", 2nd Asian Conference on Pattern Recognition(ACPR), 2013."
+  },
+  {
+    "category": "国際会議",
+    "text": "X. Ruan, K. Fukuda, T. Yamashita: \"Living without Menu Bar: A Shape Retrieval Based Word Editor\" 2nd Asian Conference on Pattern Recognition(ACPR), 2013."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, H. Fujiyoshi, \"Robust Object Tracking Using a Context Based on the Relation of Object and Background\", IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), pp.1788-1792, 2013."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Wang, A. Shimada, R. Taniguchi,T. Yamashita, \"Hand gesture recognition using subunit-based dynamic time warping\", International Symposium on Artificial Life and Robotics(ALBO), 2013."
+  },
+  {
+    "category": "国際会議",
+    "text": "A. Shimada, T. Yamashita, R. Taniguchi, \"Hand Gesture based TV Control System \"Towards Both User- and Machine-friendly Gesture Applications?\", 19th Korea-Japan Joint Workshop on Frontiers of Computer Vision (FCV2013), 2013."
+  },
+  {
+    "category": "国際会議",
+    "text": "Z. Liu, G. Duan, H. Ai, T. Yamashita, \"Adaptation of Boosted Pedestrian Detectors by Feature Reselection\", International Conference on Image Processing(ICPR), 2012."
+  },
+  {
+    "category": "国際会議",
+    "text": "A. Shimada, T. Yamashita, R. Taniguchi, \"How to Select Useful Hand Shapes for Hand Gesture Recognition System\", International Conference on Pattern Recognition Applications and Methods (ICPRAM), pp.394-399, 2012."
+  },
+  {
+    "category": "国際会議",
+    "text": "A. Shimada, T. Yamashita, R. Taniguchi, \"User-Customizable Hand Gesture Interface for Controlling TV\", 18th Japan-Korea Joint Workshop on Frontiers of Computer Vision, pp.129-132, 2012."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, Y. Yamauchi and H. Fujiyoshi: \"Human Detection for Multiple Pose by Boosted Randomized Trees\", 1st Asian Conference on Pattern Recognition(ACPR), 2011."
+  },
+  {
+    "category": "国際会議",
+    "text": "A. Irie, M. Takagiwa, K. Moriyama and T. Yamashita: \"Improvements to Facial Contour Detection by Hierarchical Fitting and Regression\", 1st Asian Conference on Pattern Recognition(ACPR), 2011."
+  },
+  {
+    "category": "国際会議",
+    "text": "G. Duan, H. Ai, T. Yamashita and S. Lao: \"Human Centric Object Detection in Highly Crowded Scenes\", 1st Asian Conference on Pattern Recognition(ACPR), 2011."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Yamauchi, C. Matsushima, T. Yamashita, and H. Fujiyoshi: \"Relational HOG Feature withWild-Card for Object Detection\", IEEE International Workshop on Visual Surveillance(in conjunction with ICCV2011), 2011."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Su, H. Ai, T. Yamashita and S. Lao: \"Human Pose Estimation Using Examplars and Part Based Refinement\", Asian Conference on Computer Vision(ACCV), 2010."
+  },
+  {
+    "category": "国際会議",
+    "text": "S. Wang,H. Ai,T. Yamashita and S.Lao: \"Combined Top-Down/Bottom-Up Human Articulated Pose Estimation Using AdaBoost Learning\", International Conference on Pattern Recognition(ICPR), 2010."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Yamauchi, M. Takaki, T. Yamashita and H. Fujiyoshi: \"Feature Co-occurrence Representation Based on Boosting for Object Detection\", International Workshop on Socially Intelligent Surveillance and Monitoring, 2010."
+  },
+  {
+    "category": "国際会議",
+    "text": "H. Wei, T. Yamashita, H. Lu and S. Lao: \"SURF Tracking\", IEEE International Conference on Computer Vision(ICCV), 2009."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Tanaka,A. Shimada, R.Taniguchi, T. Yamashita and D.Arita: \"Towards Robust Object Detection: Integrated Background Modeling Based on Spatio-temporal Features\", Asian Conference on Computer Vision(ACCV), pp.201-212, 2009."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, H. Fujiyoshi, S. Lao and M. Kawade: \"Human tracking based on Soft Decision Feature and online real boosting\", International Conference on Pattern Recognition(ICPR), 2008."
+  },
+  {
+    "category": "国際会議",
+    "text": "C. Huang, H. Ai, T. Yamashita, S. Lao and M. Kawade: \"Incremental Learning of Boosted Face Detector\", IEEE International Conference on Computer Vision(ICCV), 2007."
+  },
+  {
+    "category": "国際会議",
+    "text": "Y. Li, H. Ai, S. Lao, T. Yamashita and M.Kawade: \"Tracking in Low Frame Rate Video: A Cascade Particle Filter with Discriminative Observers of Different Life spans\", IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2007."
+  },
+  {
+    "category": "国際会議",
+    "text": "X. Li, T. Yamashita, S. Lao and M. Kawade: \"Online Real Boosting for Object Tracking Under Severe Appearance Changes and Occlusion\", IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP), pp.925-928, 2007."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, H, Saito, A. Hirano, S. Lao and M. Kawade: \"Face Detecting Camera for Surveillance\", IEEE Conference on Computer Vision and Pattern Recognition(CVPR), demo session, 2006."
+  },
+  {
+    "category": "国際会議",
+    "text": "T. Yamashita, S. Lao, N. Tabata, H. Saito and M. Kawade: \"A Fast Omni-direction Face Detection System\", IEEE International Conference on Computer Vision(ICCV), demo session, 2005."
+  },
+  {
+    "category": "国際会議",
+    "text": "S. Lao, T. Okamoto, T. Yamashita, N. Tabata, T. Kozuru, H.Saito and M. Kawade: \"A Fast Rotation Invariant Multi-View Face Detection System\", IEEE Conference on Computer Vision and Pattern Recognition(CVPR), demo session, 2005."
+  },
+  {
+    "category": "国際会議",
+    "text": "S. Lao, T. Kozuru, T. Okamoto, T. Yamashita, N. Tabata and M. Kawade: \"A fast 360-degree rotation invariant face detection system\", IEEE International Conference on Computer Vision(ICCV), demo session, 2003."
+  },
+  {
+    "category": "国内発表",
+    "text": "近藤良太, 平川翼, 山下隆義, 藤吉弘亘, \"Binary-decomposed DCNNにおけるハイパーパラメータの自動最適化\", ビジョン技術の実利用ワークショップ, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "後藤圭汰, 平川翼, 山下隆義, 藤吉弘亘, \"カメラ間の整合性を考慮した全周囲画像のセグメンテーション\", ビジョン技術の実利用ワークショップ, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "正木翔大, 後藤圭汰, 平川翼, 山下隆義, 藤吉弘亘, \"セマンティックセグメンテーションを用いた信号機認識\", ビジョン技術の実利用ワークショップ, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "稲垣雄介, 荒木諒介, 平川翼, 山下隆義, 藤吉弘亘, \"多品種ばら積みピッキングにおける物体間の上下関係の予測とデータセットの提案\", 第３７回日本ロボット学会学術講演会, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "荒木諒介, 大西剛史, 平川翼, 山下隆義, 藤吉弘亘, \"Multi-task DSSDによる物体位置と物体把持位置の同時推定”, 第３７回日本ロボット学会学術講演会, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "大西剛史, 平川翼, 山下隆義, 藤吉弘亘, \"面セグメンテーションに基づく6D-PoseNetによる位置姿勢推定\", 第３７回日本ロボット学会学術講演会, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "今枝航, 足立浩規, 平川翼, 山下隆義, 藤吉弘亘, \"Attention機構を導入したCycleGANによる識別に有効なスタイル変換\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "塚原拓也, 福井宏, 平川翼, 山下隆義, 藤吉弘亘, \"不確実性の導入によるAttention Branch Networkの信頼性の向上\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "石井 育規, 山下 隆義, \"異なる条件に対応した秘匿画像を復元する条件付き変分オートエンコーダ\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "坂下祐輔, 山下隆義, 藤吉弘亘, \"疾患分類に基づくConditional GANによる病変予測の基礎検討\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "南蒼馬, 平川翼, 山下隆義, 藤吉弘亘, \"複数ネットワークの共同学習における知識転移グラフの自動最適化\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "三津原将弘, 福井宏, 坂下祐輔, 緒方貴紀, 平川翼, 山下隆義, 藤吉弘亘, \"Attention mapを介したDeep Neural Networkへの人の知見の組み込み\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "森啓介, 福井宏, 平川翼, 山下隆義, 藤吉弘亘, \"回帰型Attention Branchによる一貫学習ベースの自動運転における判断根拠の可視化\", 第２２回画像の認識・理解シンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "瀬尾俊貴, 福井宏, 平川翼, 山下隆義, 藤吉弘亘, \"FlowNetCを導入したD&Tによる物体検出の高精度化\", 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "白木克俊, 平川翼, 山下隆義, 藤吉弘亘, \"Graph Convolutional Networksを用いた動作認識における最適な接続パターンの獲得\", 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "森優樹, 福井宏, 平川翼, 西山乘, 山下隆義, 藤吉弘亘, \"Neural Baby Talkによる注意喚起を目的とした運転シーンのキャプション自動生成\", 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "成瀬柊平, 家崎遥, 平川翼, 山下隆義, 藤吉弘亘, \"SC-RRT*を用いた自動運転のための経路生成\" , 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "岡田拓郎, 大西忠和, 芦田強, 森本勉, 山下隆義, \"超音波厚さ測定の効率化のためのエコー検出手法\" , 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "岡本陽, 尾﨑圭太, 芦田強, 飛田正俊, 山下隆義, \"深層学習を用いた初層溶接自動化技術 - 溶け込み判定 - \" , 第２６回画像センシングシンポジウム, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "板谷英典, 平川翼, 山下隆義, 藤吉弘亘, “UNREALにおける補助タスクの適応的選択“, 人工知能学会 第３３回全国大会, 2019."
+  },
+  {
+    "category": "国内発表",
+    "text": "阿知破千浩, 福井宏, 山下隆義, 藤吉弘亘, “フローヒストグラムを用いたRecurrent Neural Networkによる自己移動量推定”, ビジョン技術の実利用ワークショップ, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "小芝 駿王, 福井 宏, 山下 隆義, 藤吉 弘亘, 村瀬 洋, “Pair-wise AttentionNetによる歩行者候補領域の高精度化”, ビジョン技術の実利用ワークショップ, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "山田皐平, 山下隆義, 藤吉弘亘, “セマンティックセグメンテーションを用いた三次元点群の位置合わせ”, ビジョン技術の実利用ワークショップ, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "平川翼, 山下隆義, 藤吉弘亘, \"シーンコンテキストを考慮したRRTによる経路生成\", 第３６回日本ロボット学会学術講演会, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "森啓介, 福井宏, 丸山祐矢, 平川翼, 山下隆義, 藤吉弘亘, \"Attention Branch Networkによる一貫学習・強化学習におけるアテンションの獲得\", 第３６回日本ロボット学会学術講演会, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "福井宏, 平川翼, 山下隆義, 藤吉弘亘, \"Attention機構を導入したA3Cの提案\", 第３６回日本ロボット学会学術講演会, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "山崎雅幸, 山下隆義, 山内悠嗣, 藤吉弘亘, 堂前幸康, 白土浩司, \"マルチモーダル学習を用いた力覚センサによる把持物体の識別\", 第３６回日本ロボット学会学術講演会, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "福井宏, 西山乘, 山下隆義, 藤吉弘亘, \"Global Average Poolingの特性を用いたAttention Branch Network\", 第２１回画像の認識・理解シンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "大角耕介, 福井宏, 山下隆義, 藤吉弘亘 , \"Instance Weightingを用いたGradient Reversal Layerによるドメイン適応の高精度化\", 第２１回画像の認識・理解シンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "荒木諒介, 中瀬架, 福井宏, 山下隆義, 藤吉弘亘, \"マルチタスク学習を導入したDeconvolutional Single Shot Detectorによる物体検出とセグメンテーションの高精度化\", 第２１回画像の認識・理解シンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "足立浩規, 福井宏, 山下隆義, 藤吉弘亘, \"重みを導入したConditional Generative Adversarial Networkによる顔画像生成の高品質化\", 第２１回画像の認識・理解シンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "古川弘憲, 山下隆義, 安倍満, 藤吉弘亘, \"Residual NetworkへのSparse Coding導入\", 第２１回画像の認識・理解シンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "真野航輔, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 川西亮輔, 関真規人, 堂前幸康, \"固有値テンプレートによる高分解能把持姿勢推定\", 第２５回画像センシングシンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "河合康平, 長谷川昂宏, 山下隆義, 藤吉弘亘, \"テンソル分解による視点合成フィルタ群のコンパクト化\", 第２５回画像センシングシンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "後藤圭汰, 山下隆義, 藤吉弘亘, 成岡健一, 堀田隆介, 玉津幸政, \"情報伝搬ネットワークによる全周囲のセマンティックセグメンテーション” , 第２５回画像センシングシンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "國貞祐貴, 山下隆義, 藤吉弘亘, \"1次元畳み込みニューラルネットワーク(1D-CNN)による全方位LIDARからの歩行者検出\", 第２５回画像センシングシンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "箕浦大晃, 平川翼, 山下隆義, 藤吉弘亘, \"移動対象の属性と環境情報を導入したLSTMによる経路予測” , 第２５回画像センシングシンポジウム, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "稲盛有那, 平川翼, 山下隆義, 藤吉弘亘, 柏原良太, 稲葉正樹, 二反田直己, \"事前知識を活用したMemory Reinforcement Learningによる行動獲得\", 第３５回人工知能学会全国大会, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "荒木諒介, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 橋本学, 堂前幸康, “Objectnessを導入したSSDによる未知クラスアイテムの認識” , 動的画像処理実利用化ワークショップ, pp. 176--181, 2018."
+  },
+  {
+    "category": "国内発表",
+    "text": "真野航輔, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 堂前幸康, 川西亮輔, 関真規人, \"固有値テンプレートによるFast Graspability Evaluationの高速化\", 第３５回日本ロボット学会学術講演会, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "丸山祐矢, 古川弘憲, 村瀬卓也, 山内悠嗣, 山下隆義, 藤吉弘亘, \"セマンティックセグメンテーションを用いた深層強化学習による自律移動の獲得\", 第３５回日本ロボット学会学術講演会, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "長谷川昂宏, 安倍満, 上瀧剛, 山内悠嗣, 山下隆義, 藤吉弘亘, \"2D-QRNNを導入したDCNNによるセマンティックセグメンテーションの高精度化と高速化\", 第２０回画像の認識・理解シンポジウム, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "古川弘憲, 山下隆義, 山内悠嗣, 藤吉弘亘, 石井育規, 羽川令子, \"アフィン変換特徴記述子と下界算出に基づく距離計算によるキーポイントマッチング\", 第２０回画像の認識・理解シンポジウム, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "山崎雅幸, 山下隆義, 山内悠嗣, 藤吉弘亘, 堂前幸康, 白土浩司, \"LSTMによる力覚データを用いた把持物体の識別\", 第２４回画像センシングシンポジウム, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 山内悠嗣, 藤吉弘亘, \"Multiple Dilated Convolutional Blocksによる セマンティックセグメンテーション\", 第２４回画像センシングシンポジウム, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "阿知波千浩, 山下隆義, 中澤満, 益子宗, 山内悠嗣, 藤吉弘亘, \"単語画像の輪郭強調と複雑背景の合成による単語認識の高精度化\", 第２４回画像センシングシンポジウム, 2017."
+  },
+  {
+    "category": "国内発表",
+    "text": "中川茉耶, 神谷龍司, 山下隆義, 田中正行, 山内悠嗣, 藤吉弘亘, \"Deep Convolutional Neural Networkによる認知症リスクの推定\", ビジョン技術の実利用ワークショップ, 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "奥野薫子，山下隆義，福井宏，山内悠嗣，藤吉弘亘，乘冨修蔵，新浩治, \"Heterogeneous Learning を導入したDeep Convolutional Neural Networkによる運転手の骨格検出と顔向き推定\", ビジョン技術の実利用ワークショップ, 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "荒木諒介, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘, 堂前幸康, 川西亮輔, 関真規人, \"Graspabilityを導入したDCNNによる物体把持位置検出\", 日本ロボット学会学術講演会, 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "猪子弘康,山内悠嗣, 山下隆義, 藤吉弘亘, \"クラウド型顔画像解析エンジンにおけるレイテンシを考慮したDCNNの自動分割\", 日本ロボット学会学術講演会, 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "日向匡史, 木下航一, 青位初美, 濱走秀人, 山下隆義, 藤吉弘亘, 諏訪正樹, 川出雅人, \"時系列Deep Learningを用いたドライバの運転復帰可否レベル推定\", 第18回画像の認識・理解シンポジウム(MIRU2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "長谷川昂宏, 安倍満, 石川康太, 上瀧剛, 山内悠嗣, 山下隆義, 藤吉弘亘, \"画像マッチングのための因子分解による局所特徴量表現\", 第18回画像の認識・理解シンポジウム(MIRU2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "安倍満, 松本拓也, 山下隆義, 藤吉弘亘, \"整数基底分解によるDeep Neural Networkの時間・空間計算量削減\", 第18回画像の認識・理解シンポジウム(MIRU2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "河畑凌, 橋本幹基, 島田敬士, 山下隆義, 内山英昭, 谷口倫一郎, \"長時間動作計測に基づく低偽陽性ジェスチャの設計\", 第18回画像の認識・理解シンポジウム(MIRU2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "齋藤俊太, 山下隆義, 青木義満, \"Convolutional Neurall Networkを用いた航空画像からの道路・建物抽出\", 第22回画像センシングシンポジウム(SSII2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "長谷川昂宏, Xuanyi Sheing, 荒木諒介, 山内悠嗣, 山下隆義, 藤吉弘亘, \"Heterogeneous Learningによるオブジェクトネスと物体把持位置の検出\", 第22回画像センシングシンポジウム(SSII2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "神谷龍司, 川口俊樹, 福井宏, 石井育規, 小塚和紀, 羽川令子, 築澤宗太郎, 山下隆義, 山内悠嗣, 藤吉弘亘, \"Convolutional-Recurrent Neural Network による自己運動識別\", 第22回画像センシングシンポジウム(SSII2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "福井宏, 加藤優, 神谷龍司, 山下隆義, 山内悠嗣, 藤吉弘亘, \"プライバシーに配慮したDeep Convolutional Neural Networkによるクラウド型顔照合システム\", 第22回画像センシングシンポジウム(SSII2016), 2016."
+  },
+  {
+    "category": "国内発表",
+    "text": "山内悠嗣，山下隆義，藤吉弘亘: \"生活支援ロボットのためのクラウドロボティクス\", 日本ロボット学会 学術講演会，2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "T.Yamashita, T.Nakamura, H.Fukui, Y.Yamauchi, H.Fujiyoshi: \"Cost-Alleviative Learning for Deep Convolutional Neural Network-based Facial Part Labeling\", 第17回画像の認識・理解シンポジウム(MIRU2015), 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "加藤 優, 福井 宏, 山下 隆義, 山内 悠嗣, 藤吉 弘亘: \"Heterogeneous Learningと重み付き誤差関数の導入による顔画像解析\", 第17回画像の認識・理解シンポジウム(MIRU2015), 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "黒川貴都，山内悠嗣，安倍満，山下隆義，藤吉弘亘: \"相関の高い行列のグルーピングによる効率的な行列分解\", 第17回画像の認識・理解シンポジウム(MIRU2015), 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 福井宏, 村瀬将之, 山内悠嗣, 藤吉弘亘: \"回帰型Deep Convolutional Neural Networkによる人検出と部位の位置推定\", 第21回画像センシングシンポジウム, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 木村真稔, 福井宏, 山内悠嗣, 藤吉弘亘: \"Deep Convolutional Neural Networkによる顔器官点検出における最適なミニバッチ作成方法\", 第21回画像センシングシンポジウム, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "齋藤 俊太, 山下 隆義, 青木義満: \"Convolutional Neural Networkを用いた航空画像からの道路・建物抽出\", 第21回画像センシングシンポジウム, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "山内悠嗣, 佐藤慎也, 黒川貴都, 山下隆義, 藤吉弘亘: \"Exemplar-RFによる物体検出の高速化\", 第21回画像センシングシンポジウム, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "長谷川昂宏, 富澤凌二, 山内悠嗣, 山下隆義, 藤吉弘亘: \"IR反射強度画像を用いたガイデットフィルタによる距離画像の高品質化\", 第21回画像センシングシンポジウム, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "金子将也, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘: \"決定木を用いた距離画像からの高速な三次元エッジ検出\", ロボティクスシンポジア, 2015."
+  },
+  {
+    "category": "国内発表",
+    "text": "村井佑輔, 小関亮介, 松浦康寿, 山内悠嗣, 山下隆義, 藤吉弘亘: \"事例型MI-Hough Forestによる物体把持判定\", ビジョン技術の実利用ワークショップ, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "福井宏, 山下隆義, 綿末太郎, 山内悠嗣, 藤吉弘亘, 村瀬洋: \"Drop and Median Inferenceによる歩行者検出の高精度化\", ビジョン技術の実利用ワークショップ, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "T. Yamashita, T. Watasue, Y. Yamauchi, H. Fujiyoshi: \"Bottom-up Structured Deep Convolutional Neural Network with Curriculum Learning for Classification Task\", 第17回画像の認識・理解シンポジウム(MIRU2014), 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "黒川貴都, 山内悠嗣, 安倍満, 山下隆義, 藤吉 弘亘: \"高速な多クラス物体検出のための行列分解と早期棄却\", 第17回画像の認識・理解シンポジウム(MIRU2014), 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "山内悠嗣, 宮下卓也, 山下隆義, 藤吉弘亘: \"直線成分に基づくHOL特徴量による誤検出の抑制\", 第20回画像センシングシンポジウム(SSII2014),IS1-5, pp.1-6, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "村井佑輔, 三品陽平, 小関亮介, 松浦康寿, 山内悠嗣, 山下隆義, 藤吉弘亘: \"MI-Hough Forestによる類似物の影響を受けない特定物体検出\", 第20回画像センシングシンポジウム(SSII2014),IS1-9, pp.1-6, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "三品陽平, 村田隆英, 山内悠嗣, 山下隆義, 藤吉弘亘: \"Random Forestを用いた事例型追加学習\", 第20回画像センシングシンポジウム(SSII2014),IS1-16, pp.1-6, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "金子将也, 長谷川昂宏, 山内悠嗣, 山下隆義, 藤吉弘亘: \"決定木を用いた距離画像からの高速なエッジ検出\", 第20回画像センシングシンポジウム(SSII2014),IS1-28, pp.1-6, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 綿末太郎, 山内悠嗣, 藤吉弘亘: \"Deep Convolutional Neural Network による手形状領域の抽出\", 第20回画像センシングシンポジウム(SSII2014),IS2-16, pp.1-6, 2014."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 綿末太郎: \"大規模データの自動生成を導入したDeep Learning による手形状認識\", 第19回画像センシングシンポジウム(SSII2013), 2013."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 藤吉弘亘: \"属性情報を導入した隠れに頑健な特徴点ベース物体追跡\", 第15回画像の認識・理解シンポジウム(MIRU2012), 2012."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 綿末太郎, 森山孝三: \"インタラクティブな自動撮影を実現するピースサイン認識\", 第18回画像センシングシンポジウム(SSII2012), 2012."
+  },
+  {
+    "category": "国内発表",
+    "text": "阮翔, 山下隆義, 田中清明, 森山孝三: \"直感的操作による検索キー表現が可能な画像検索システム\", 第18回画像センシングシンポジウム(SSII2012),特別展示, 2012."
+  },
+  {
+    "category": "国内発表",
+    "text": "島田敬士, 山下隆義, 谷口倫一郎: \"カスタマイズ可能なハンドジェスチャインタフェース\", 第18回画像センシングシンポジウム(SSII2012), 特別展示, 2012."
+  },
+  {
+    "category": "国内発表",
+    "text": "島田敬士, 山下隆義, 谷口倫一郎: \"ハンドジェスチャアプリケーションに有効な手の動き選定方法\", ビジョン技術の実利用ワークショップ(ViEW2011), pp.157-161, 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 藤吉弘亘: \"追跡対象と周辺領域の関係性を利用した協調的な物体追跡\", 第14回画像の認識・理解シンポジウム(MIRU2011), pp.56-63, 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "山内悠嗣，金出武雄，山下隆義，藤吉弘亘: \"量子化残差に基づく特徴量の遷移尤度モデルを導入した識別器の提案\", 第14回画像の認識・理解シンポジウム(MIRU2011), pp.373-380, 2011．"
+  },
+  {
+    "category": "国内発表",
+    "text": "入江淳, 高際睦起, 森山孝三, 山下隆義: \"回帰を用いた階層的フィッティングによる顔輪郭検出の高精度化\", 第17回画像センシングシンポジウム(SSII2011), 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "青木博松, 森山孝三, 山下隆義: \"色分布を用いた唇領域抽出に基づく美顔補正技術\", 第17回画像センシングシンポジウム(SSII2011), 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "島田敬士, 山下隆義, 谷口 倫一郎: \"ハンドジェスチャ認識における手指形状の選定方法\", 第17回画像センシングシンポジウム(SSII2011), 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "入江淳, 田中清明, 高際睦起, 森山孝三, 山下隆義: \"高速な視線および目開閉推定による人のモニタリング\", 第17回画像センシングシンポジウム(SSII2011), 特別展示, 2011."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 山内悠嗣, 藤吉弘亘: \"Boosted Randomized Trees による人物検出と行動の同時認識\", 第13回画像の認識・理解シンポジウム(MIRU2010), 2010."
+  },
+  {
+    "category": "国内発表",
+    "text": "松島千佳, 山内悠嗣, 山下隆義. 藤吉弘亘: \"Relational Binarized HOG特徴量とReal AdaBoostによるバイナリ選択を用いた物体検出\", 第13回画像の認識・理解シンポジウム(MIRU2010), 2010."
+  },
+  {
+    "category": "国内発表",
+    "text": "田中達也, 島田敬士, 谷口倫一郎, 山下隆義, 有田 大作: \"時空間特徴を考慮した動的背景モデル構築とそれに基づく物体検出\", 第12回画像の認識・理解シンポジウム(MIRU2009), 2009."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 勞世紅: \"高速な人体トラッキングシステム\", 第15回画像センシングシンポジウム(SSII09), 特別展示, 2009."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 藤吉弘亘, 勞世紅, 川出雅人: \"姿勢変化に対応したSoft Decision FeatureとOnline Real Boostingによる人物追跡\", 第11回画像の認識・理解シンポジウム(MIRU2008), 2008."
+  },
+  {
+    "category": "国内発表",
+    "text": "山内悠嗣, 藤吉弘亘, 山下隆義: \"Boostingに基づく共起表現による人検出\", 第11回画像の認識・理解シンポジウム(MIRU2008), 2008."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 勞世紅: \"既設の監視カメラを用いた高精度な人数カウント\", 第14回画像センシングシンポジウム(SSII08), デモ発表, 2008."
+  },
+  {
+    "category": "国内発表",
+    "text": "山本基夫, 山下隆義, 川出雅人: \"顔認証のためのユーザインタラクションを利用したなりすまし防止\", インタラクション2007, No.4, pp41-42, 2007."
+  },
+  {
+    "category": "国内発表",
+    "text": "山下隆義, 斎藤宏, 平野綾子, 勞世紅, 川出雅人: \"組込み環境で動作可能な顔検出システム\", 第9回画像の認識・理解シンポジウム(MIRU2006), デモ発表, 2006"
+  },
+  {
+    "category": "国内発表",
+    "text": "勞世紅, 山下隆義, 岡本卓也, 川出雅人: \"高速全方向顔検出\", 第7回画像の認識・理解シンポジウム(MIRU2004), 2004."
+  },
+  {
+    "category": "研究会発表",
+    "text": "松井涼, 山下隆義, 藤吉弘亘, “Separation Multi-task Networksによる顔器官点と顔属性の同時推定” , パターン認識・メディア理解研究会, 2018."
+  },
+  {
+    "category": "研究会発表",
+    "text": "内田祐介, 山下隆義, “[サーベイ論文] 畳み込みニューラルネットワークの研究動向”, パターン認識・メディア理解研究会, 2017."
+  },
+  {
+    "category": "研究会発表",
+    "text": "西行健太, 山下隆義, 藤吉弘亘, “階層型Knowledge DistillationによるDNNのコンパクト化”, パターン認識・メディア理解研究会, 2017."
+  },
+  {
+    "category": "研究会発表",
+    "text": "平川翼, 山下隆義, 玉木徹, 藤吉弘亘, \"[サーベイ論文] 動画像を用いた経路予測手法の分類\", パターン認識・メディア理解研究会, 2017."
+  },
+  {
+    "category": "研究会発表",
+    "text": "村瀬卓也, 平川翼, 山下隆義, 藤吉弘亘, “自己状態を付与したCNNによる自動運転制御の高精度化”, パターン認識・メディア理解研究会, 2017."
+  },
+  {
+    "category": "研究会発表",
+    "text": "日比野眞也, 木村昭悟, 山下隆義, 山内悠嗣, 藤吉弘亘, “AutoEncoderを導入したRegression Forestsによるノイズ発見”, パターン認識・メディア理解研究会, vol. 116, no. 528, pp. 209-214, 2017."
+  },
+  {
+    "category": "研究会発表",
+    "text": "村田隆英, 木村昭悟, 牛久祥孝, 山下隆義, 山内悠嗣, 藤吉弘亘: \"教師あり学習の導入によるMondrian Forestsの効率化\" パターン認識・メディア理解研究会(PRMU), vol.115, No.517, pp.191-196, 2016."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山内悠嗣，加藤優，山下隆義，藤吉弘亘: \"クラウドロボティクスのための画像認識エンジンの提案\" パターン認識・メディア理解研究会(PRMU), Vol.115, No.456, pp.91-96, 2016."
+  },
+  {
+    "category": "研究会発表",
+    "text": "宇佐見剛司,山内悠嗣,山下隆義,藤吉弘亘: \"DPMのスコア回帰を用いたオクルージョン対応による人検出性能の高精度化\" コンピュータビジョンとイメージメディア研究会(CVIM), vol.2015, 25, pp.1-6, 2015."
+  },
+  {
+    "category": "研究会発表",
+    "text": "若山涼至, 木村昭悟, 山下隆義, 山内悠嗣, 藤吉弘亘: \"並列分散処理における共変量シフトを導入したRandom Forestsの学習\" 電子情報通信学会 研究報告(PRMU) 技術報告, 2015."
+  },
+  {
+    "category": "研究会発表",
+    "text": "黒川貴都, 山内悠嗣, 安倍満, 山下隆義, 藤吉弘亘: \"行列分解と早期棄却による多クラス物体検出の高速化\" 情報処理学会研究報告(コンピュータビジョンとイメージメディア), vol.2015-CVIM-195, no.2, 2015."
+  },
+  {
+    "category": "研究会発表",
+    "text": "土屋成光, 弓場竜, 山内悠嗣, 山下隆義, 藤吉弘亘: \"共変量シフトに基づくTransfer Forest\" 電子情報通信学会 研究報告(PRMU) 技術報告, Vol.114, No.90, pp.113-126, 2014."
+  },
+  {
+    "category": "研究会発表",
+    "text": "土屋成光, 山内悠嗣, 山下隆義, 藤吉弘亘: \"ハイブリッド型転移学習による物体検出における学習の効率化\" 電子情報通信学会 研究報告(PRMU) 技術報告, Vol. 112, No. 385, pp.329-334, 2013"
+  },
+  {
+    "category": "研究会発表",
+    "text": "王妍蓉, 島田敬士, 山下隆義, 谷口倫一郎: \"動作を構成する共通サブユニットを利用したハンドジェスチャ認識\", 電子情報通信学会 研究報告(PRMU) 技術報告, No. 198, pp.35-40, 2012."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山内悠嗣，山下隆義，藤吉弘亘: \"[サーベイ論文] 統計的学習手法による人検出\", 電子情報通信学会 研究報告(PRMU) 技術報告, No. 197, pp. 113-126, 2012."
+  },
+  {
+    "category": "研究会発表",
+    "text": "王妍蓉, 島田敬士, 山下隆義, 谷口倫一郎: \"ハンドジェスチャアプリケーションのための指検出\", 電気関係学会九州支部第64回連合大会, 2011."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 藤吉弘亘: \"Online Real Boostingによる物体追跡のための特徴選択 \", 電子情報通信学会 研究報告(PRMU), Vol.11, No.193, pp.67-pp.73, 2011."
+  },
+  {
+    "category": "研究会発表",
+    "text": "T. Yamashita and H. Fujiyoshi: \"Object Tracking based on Online Learning and Local Features\", 情報処理学会 研究報告(CVIM), Vol.2011-CVIM-177, No.34, pp.1-16, 2011."
+  },
+  {
+    "category": "研究会発表",
+    "text": "玉木徹, 植松裕子, 近藤一晃, 酒井智弥, 島田敬士, 出口大輔, 山下隆義: \"若手が国際的に活躍するために\", 電子情報通信学会 研究報告(PRMU), No.148, pp.59-60, 2009."
+  },
+  {
+    "category": "研究会発表",
+    "text": "松島千佳, 山内悠嗣, 山下隆義, 藤吉弘亘: \"人検出のためのReal AdaBoostに基づくHOG特徴量の効率的な削減法\", 情報処理学会 研究報告(CVIM), Vol.2009-CVIM-167, No.32, 2009."
+  },
+  {
+    "category": "研究会発表",
+    "text": "藤吉弘亘, 山内悠嗣, 三井相和, 池村翔, 山下隆義: \"複数の特徴量間の関連性に着目したJoint-HOGによる物体検出\", 電気学会 一般産業研究会(GID), pp.51-56, 2008."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山内悠嗣, 藤吉弘亘, 山下隆義: \"複数の特徴量間の関連性に着目したBoostingによる物体検出\", 精密工学会・映像情報メディア学会 サマーセミナー2008, pp. 85-88, 2008."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 野田 隆史, 勞世紅, 川出 雅人: \"Real AdaBoost を利用した Online Boosting による人物追跡\", 情報処理学会 研究報告(CVIM), No.158, pp.85-92, 2007."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 野田隆史, 勞世紅, 川出雅人: \"顔検出情報を統合したテンプレート更新による頭部追跡\", 精密工学会 画像応用技術専門委員会(DIA2007), 2007."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 勞世紅, 田畑尚弘, 川出雅人: \"顔検出の高性能化のための誤検出除去手法\", 電子情報通信学会 研究報告(PRMU). No.102, pp.55-60, 2004."
+  },
+  {
+    "category": "研究会発表",
+    "text": "渡邉勝正, 相良かおる, 山下隆義, 中西正樹, 堀山貴史: \"ことばによる手話単語の記述と三次元表現\", 福祉工学シンポジウム講演論文集, No.2, pp.189-192, 2002."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 木村晋二, 渡邉勝正: \"Web 上で利用可能な手話単語アニメーションシステムの検討\", ヒューマンインタフェース学会 第16回ヒューマンインタフェース学会研究会, vol.4, no.1, pp. 49-54, 2002."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 木村晋二, 渡邉勝正: \"Web上で利用可能な手話単語アニメーションシステムの検討\", 日本人間工学会 関西支部大会, pp. 43-46, 2001."
+  },
+  {
+    "category": "研究会発表",
+    "text": "渡邉勝正, 相良かおる, 山下隆義, 木村晋二: \"不完全な記述からの推測による手指動作の 3 次元アニメーション表示\", 電子情報通信学会, 第 3 回手話情報学研究会, pp. 25-32, 2000."
+  },
+  {
+    "category": "研究会発表",
+    "text": "才木常正, 山下隆義, 北川洋一, 一森和之, 林 昭博: \"ワープロ文章における漢字とひらがなの文字大きさによる好感度\", 電子情報通信学会総合大会講演論文集,基礎・境界, p.334,1999."
+  },
+  {
+    "category": "研究会発表",
+    "text": "山下隆義, 林昭博, 才木常正: \"日本語文章における文字大きさによる文字重心間隔ゆらぎ\", 電子情報通信学会関西支部 第4回学生研究発表,1999."
+  },
+  {
+    "category": "解説論文",
+    "text": "藤吉弘亘, 山下隆義, “深層学習による画像認識” , 日本ロボット学会誌，vol.35, no.3, pp.180-185, 2017."
+  },
+  {
+    "category": "解説論文",
+    "text": "山下隆義: \"顔画像センシング技術の最新動向\", システム制御情報学会, 「システム/制御/情報」, Vol.59, No.2, 2015"
+  },
+  {
+    "category": "解説論文",
+    "text": "島田敬士, 谷口倫一郎, 山下隆義: \"部分動作の共有化に基づくハンドジェスチャ認識法\", 日本工業出版, 画像ラボ, Vol.24, No.8, pp.1-6, 2013."
+  },
+  {
+    "category": "解説論文",
+    "text": "藤吉弘亘, 山下隆義: \"画像特徴量[V] -勾配に着目した画像特徴量と人物追跡-\" , 電子情報通信学会誌, Vol.94, No.3, pp.239-244, 2011."
+  },
+  {
+    "category": "解説論文",
+    "text": "山下隆義, 藤吉弘亘: \"画像特徴量[IV] -勾配に着目した画像特徴量と顔・人体検出-\", 電子情報通信学会誌, Vol.94, No.2, pp.147-152, 2011."
+  },
+  {
+    "category": "解説論文",
+    "text": "山下隆義: \"統計的学習手法を用いた物体認識における特徴量の進化\", 日本工業出版, 画像ラボ, Vol.20, No.1, pp.53-58, 2009."
+  },
+  {
+    "category": "解説論文",
+    "text": "山下隆義, 井尻善久, 木下航一, 川出雅人: \"シャッタチャンスを逃さない 顔の検出・表情の認識技術(次世代ディジタルカメラ/ディジタルムービーを予測する)\", 映像情報メディア学会誌, Vol. 62, No. 5 pp.708-713, 2008."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"ディープラーニングによる物体認識の基礎と実践に向けて\", STARアドバンストセミナー：画像認識の最前線, 2015.11."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"ディープラーニングによる画像認識と応用事例\", ET/IoT総合技術展 IoTテクニカルセッション, 2015.11."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"Deep Convolutional Neural Networkの基礎と実装\", Deep Learningの基礎と最新動向(日経エレクトロニクス協力セミナー), 2015.8."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"ディープラーニングによる画像認識と応用事例\", NVIDIA主催 ディープラーニングセミナー2015, 2015.8."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"Deep Learningとは？ -ハードウエア化の現状と必要性-\", 第32回低消費電力・高速LSI技術懇談会, 2015.3."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"Deep Learningによる画像認識と最近の動向\", 第4回バイオメトリクスと認識・認証シンポジウム招待講演, 2014.11."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"Deep Learning ～使いこなすために知っておきたいこと～\", 第17回画像の認識・理解シンポジウム(MIRU2014)技術チュートリアル1, 2014.8."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"話題のDeep Learningとは? ～使いこなすために知っておきたいこと～\", 第20回画像センシングシンポジウム(SSII2014)OS2-1, 2014.6."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"局所特徴量を用いた物体検出\", STRC主催アドバンスド講座 第48回 進化する画像認識技術セミナー, 2013.11."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"局所特徴量を用いた物体検出\", 日本鉄鋼協会 計測・制御・システム工学部会シンポジウム, 2012.10."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"物体認識における特徴量の発展 ～今からでも遅くない！物体認識～\", 第15回画像センシングシンポジウム(SSII09), 2009.6."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義, 藤吉弘亘: \"特定物体認識に有効な特徴量\", 情報処理学会 研究報告(CVIM), No.165, pp. 221-236, 2008.2."
+  },
+  {
+    "category": "チュートリアル/講演",
+    "text": "山下隆義: \"統計的学習手法を用いた物体認識における特徴量の進化\", 第14回画像センシングシンポジウム(SSII08), オーガナイズドセッション(OS-04), 2008.6."
+  },
+  {
+    "category": "書籍",
+    "text": "山下隆義(単著): \"イラストで学ぶディープラーニング 改訂第2版 \", 講談社, ISBN:978-4065133316, 2018."
+  },
+  {
+    "category": "書籍",
+    "text": "山下隆義(単著): \"イラストで学ぶディープラーニング\", 講談社, ISBN:978-4061538252, 2016."
+  },
+  {
+    "category": "書籍",
+    "text": "山下隆義他(共著): \"顔の百科事典\", 丸善出版, ISBN:978-4-621-08958-7, 2015."
+  },
+  {
+    "category": "書籍",
+    "text": "藤吉弘亘, 山下隆義, 岡田和典, 前田英作, ノジク・ヴァンソン, 石川尋代, ドゥソルビエ・フランソワ: “コンピュータビジョン最先端ガイド2”, アドコムメディア, ISBN:978-4915851-37-7, 2010."
+  },
+  {
+    "category": "書籍",
+    "text": "山下隆義 (5章担当): \"映像情報メディア工学大事典 基礎編 第4部門 画像処理\", オーム社, ISBN:978-4274208-69-0, 2010."
+  },
+  {
+    "category": "特許",
+    "text": "US PATENT No.7940956 Tracking apparatus that tracks a face position in a dynamic picture image using ambient information"
+  },
+  {
+    "category": "特許",
+    "text": "EP PATENT No.EP2234388 OBJECT CHECKING APPARATUS AND METHOD"
+  },
+  {
+    "category": "特許",
+    "text": "EP PATENT No.EP2164041 TRACKING METHOD AND DEVICE ADOPTING A SERIES OF OBSERVATION MODELS WITH DIFFERENT LIFESPANS"
+  },
+  {
+    "category": "特許",
+    "text": "EP PATENT No.EP2164025 DETECTING DEVICE OF SPECIAL SHOT OBJECT AND LEARNING DEVICE AND METHOD THEREOF"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04438443 画像取得装置及び捜索装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04547897 ドア制御装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04609253 なりすまし検出装置及び顔認証装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04784709 物体追跡装置、物体追跡方法、および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04793179 認証装置及び携帯端末"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04830650 追跡装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04870231 物体検出装置、方法"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04893862 画像処理装置および画像処理方法"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号04893863 画像処理装置および画像処理方法"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号05045128 顔認証装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号05052670 生存期間が異なる複数の観測モデルを融合する追跡方法及び追跡装置"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号05061563 検出装置、方法およびプログラム"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号05077164 追跡装置及び追跡方法"
+  },
+  {
+    "category": "特許",
+    "text": "登録番号5197737 特定被写体検出装置及びその学習装置と学習方法"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2008－257327 照合装置"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2008－090452 検出装置、方法およびプログラム"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2010－540018 物体検出装置、方法"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2011－192092 対象物追跡装置、対象物追跡方法、および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2012－190349 画像処理装置、画像処理方法および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2013－196045 画像処理装置、画像処理方法、制御プログラムおよび記録媒体"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2013－191105 画像処理装置、画像処理方法、制御プログラムおよび記録媒体"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2013－065107 画像処理装置、画像処理方法、制御プログラムおよび記録媒体"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2014－048936 ジェスチャ認識装置、その制御方法、表示機器、および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2014－048937 ジェスチャ認識装置、その制御方法、表示機器、および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "特許公開2014－048938 ジェスチャ認識装置、その制御方法、表示機器、および制御プログラム"
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20070113099 Authentication apparatus and portable"
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20070013791 Tracking apparatus"
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20100195870 Tracking method and device adopting a series of observation models with different life spans"
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20100202681 Detecting device of special shot object and learning device and method thereof."
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20110007974 Object detection apparatus and method"
+  },
+  {
+    "category": "特許",
+    "text": "USPTO Application No.20110221890 Object tracking apparatus, object tracking method, and control program"
+  },
+  {
+    "category": "特許",
+    "text": "EP Application No.11861275 IMAGE PROCESSING DEVICE AND IMAGE PROCESSING METHOD"
+  },
+  {
+    "category": "特許",
+    "text": "EP Application No.11861215 IMAGE PROCESSING DEVICE, IMAGE PROCESSING METHOD AND CONTROL PROGRAM"
+  },
+  {
+    "category": "特許",
+    "text": "EP Application No.11860858 IMAGE PROCESSING DEVICE AND IMAGE PROCESSING METHOD"
+  },
+  {
+    "category": "特許",
+    "text": "EP Application No.11860480 OBJECT TRACKING DEVICE, OBJECT TRACKING METHOD, AND CONTROL PROGRAM"
+  },
+  {
+    "category": "特許",
+    "text": "EP Application No.10196697 Object tracking apparatus, object tracking method, and control program"
+  }
+]

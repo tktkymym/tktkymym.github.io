@@ -1,0 +1,15 @@
+# Local Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# Local credentials and packaging output
+.env
+.env.*
+*.zip
+.openai/
+
+# dist/assets contains source CSS, JavaScript, and images.
+# Keep dist/assets and the generated HTML under version control.

@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "icpr2026-few-shot-open-set",
+    "title": "Few-Shot Adaptive Open-Set Object Detection with Personalized Scene Generation",
+    "authors": [
+      "Yuzuru Nakamura",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "ICPR",
+    "year": 2026,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-31666-0_10",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-3-032-31666-0_10",
+      "https://icpr2026.org/acceptedPapersTrack.html"
+    ],
+    "category": "vision",
+    "featured": 1,
+    "award": "Best Industry Related Paper Award",
+    "summary_ja": "少数の対象画像を使ったシーン生成により、未知クラスを含む新しい環境への物体検出モデルの適応を研究しています。",
+    "summary_en": "Adapting object detectors to new domains and unseen classes using scene generation from a small set of target images."
+  },
+  {
+    "id": "p2gs",
+    "title": "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction",
+    "authors": [
+      "Kota Shimomura",
+      "Hidehisa Arai",
+      "Tsubasa Takahashi",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "CVPR",
+    "year": 2026,
+    "category": "driving",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.html",
+    "summary_ja": "露出や明るさの異なる車載画像から、一貫した光表現を持つ3Dシーンを再構成。自動運転シミュレーションの高品質化を目指す。",
+    "summary_en": "Reconstructs photometrically consistent urban scenes from driving images with varying exposure and illumination, supporting realistic autonomous-driving simulation.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2026/html/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.html",
+      "https://mprg.jp/publications/c20260605_shimomura-pdf",
+      "https://mprg.jp/data/MPRG/C_group/C20260605_shimomura.pdf"
+    ],
+    "type": "conference",
+    "featured": 2
+  },
+  {
+    "id": "adaptive-ig-odam",
+    "title": "Adaptive IG-ODAM: Efficient Attribution Maps for Object Detection via Spatial-Guided Sampling",
+    "authors": [
+      "Yuma Nakai",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "VISAPP",
+    "year": 2026,
+    "category": "vision",
+    "url": "https://www.scitepress.org/PublishedPapers/2026/144854/",
+    "code": "https://github.com/machine-perception-robotics-group/Adaptive_IG-ODAM",
+    "summary_ja": "勾配と検出位置の変化に応じて計算点を適応的に配置。少ないサンプルで、物体検出モデルが何を根拠に判断したかを鮮明に可視化。",
+    "summary_en": "Adaptively samples integrated gradients using gradient and spatial changes to produce clearer object-specific explanations with fewer samples.",
+    "sources": [
+      "https://www.scitepress.org/PublishedPapers/2026/144854/",
+      "https://www.scitepress.org/Papers/2026/144854/144854.pdf",
+      "https://visapp.scitevents.org/Abstract.aspx?idEvent=7hOChUxYoLg%3D",
+      "https://github.com/machine-perception-robotics-group/Adaptive_IG-ODAM"
+    ],
+    "type": "conference",
+    "featured": 3
+  },
+  {
+    "id": "automated-hypothesis-validation",
+    "title": "A Modular Framework for Automated Hypothesis Validation and Refinement in Scientific Research",
+    "authors": [
+      "Chenhao Chen",
+      "Taiga Masuda",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Information",
+    "year": 2026,
+    "type": "journal",
+    "url": "https://www.mdpi.com/2078-2489/17/3/244",
+    "sources": [
+      "https://www.mdpi.com/2078-2489/17/3/244"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "capture-calibrate-coach",
+    "title": "Capture-Calibrate-Coach: A Graph-Based Framework for Knowledge Monitoring Estimation and Adaptive Feedback",
+    "authors": [
+      "Gen Li",
+      "Li Chen",
+      "Cheng Tang",
+      "Boxuan Ma",
+      "Yuncheng Jiang",
+      "Daisuke Deguchi",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "AIED",
+    "year": 2026,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-29755-6_2",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-3-032-29755-6_2"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "frequency-domain-ai-image-detection",
+    "title": "Frequency-Domain Detection of AI-Generated Images via Radial Spectrum Templates",
+    "authors": [
+      "Yuta Sato",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Tsubasa Hirakawa"
+    ],
+    "venue": "VISAPP",
+    "year": 2026,
+    "type": "conference",
+    "url": "https://www.scitepress.org/PublishedPapers/2026/142508/",
+    "sources": [
+      "https://www.scitepress.org/PublishedPapers/2026/142508/",
+      "https://thirakawa.github.io/pub_conf_en/",
+      "https://www.scitepress.org/Papers/2026/142508/142508.pdf"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "normal-variation-aware-clip",
+    "title": "Normal-Variation-Aware Cross-Domain Zero-Shot Anomaly Detection via Multi-Prompt Learning With CLIP",
+    "authors": [
+      "Masahiro Tsuchiya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Access",
+    "year": 2026,
+    "type": "journal",
+    "url": "https://doi.org/10.1109/ACCESS.2026.3696584",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/11534630/",
+      "https://www.researchgate.net/publication/405259712_Normal-Variation-Aware_Cross-Domain_Zero-Shot_Anomaly_Detection_via_Multi-Prompt_Learning_With_CLIP",
+      "https://dblp.org/pid/64/5510.html"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "learning-behavior-anomaly",
+    "title": "Unsupervised Anomaly Detection of Learning Behaviors Considering Contextual Information",
+    "authors": [
+      "Yoshihiro Yasuda",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Educational Data Mining (EDM)",
+    "year": 2026,
+    "type": "conference",
+    "url": "https://educationaldatamining.org/edm2026/proceedings/2026.EDM.poster-demo-papers.410/index.html",
+    "sources": [
+      "https://educationaldatamining.org/edm2026/proceedings/2026.EDM.poster-demo-papers.410/index.html",
+      "https://mprg.jp/en/publications/c20260702_yasuda"
+    ],
+    "category": "learning",
+    "venue_short": "EDM"
+  },
+  {
+    "id": "yukuiv2",
+    "title": "YUKUIv2: A Key-point Driven Diffusion Planner for Multi-shot Autonomous Parking",
+    "authors": [
+      "Jishu Miao",
+      "Han Chen",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEICE Transactions on Information and Systems (Advance Publication)",
+    "year": 2026,
+    "type": "journal",
+    "url": "https://doi.org/10.1587/transinf.2026DRL0001",
+    "sources": [
+      "https://doi.org/10.1587/transinf.2026DRL0001",
+      "https://www.jstage.jst.go.jp/article/transinf/advpub/0/advpub_2026DRL0001/_article/-char/en"
+    ],
+    "category": "driving",
+    "venue_short": "IEICE Trans. IS"
+  },
+  {
+    "id": "od-rase",
+    "title": "OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving",
+    "authors": [
+      "Kota Shimomura",
+      "Masaki Nambata",
+      "Atsuya Ishikawa",
+      "Ryota Mimura",
+      "Koki Inoue",
+      "Takayoshi Yamashita",
+      "Takayuki Kawabuchi"
+    ],
+    "venue": "ICCV",
+    "year": 2025,
+    "category": "driving",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Shimomura_OD-RASE_Ontology-Driven_Risk_Assessment_and_Safety_Enhancement_for_Autonomous_Driving_ICCV_2025_paper.html",
+    "project": "https://kotashimomura.github.io/odrase/",
+    "summary_ja": "道路画像と交通オントロジーを用いて事故要因を推定し、改善案と改善後画像を生成。道路インフラ側から自動運転の安全性を支える。",
+    "summary_en": "Combines road images and a traffic ontology to identify infrastructure risks and generate improvement proposals with visualizations of the improved road environment.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/html/Shimomura_OD-RASE_Ontology-Driven_Risk_Assessment_and_Safety_Enhancement_for_Autonomous_Driving_ICCV_2025_paper.html",
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Shimomura_OD-RASE_Ontology-Driven_Risk_Assessment_and_Safety_Enhancement_for_Autonomous_Driving_ICCV_2025_paper.pdf",
+      "https://kotashimomura.github.io/odrase/"
+    ],
+    "type": "conference",
+    "featured": 4
+  },
+  {
+    "id": "mouse-geneformer",
+    "title": "Mouse-Geneformer: A deep learning model for mouse single-cell transcriptome and its cross-species utility",
+    "authors": [
+      "Keita Ito",
+      "Tsubasa Hirakawa",
+      "Shuji Shigenobu",
+      "Hironobu Fujiyoshi",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "PLOS Genetics",
+    "year": 2025,
+    "category": "biology",
+    "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011420",
+    "code": "https://github.com/machine-perception-robotics-group/Mouse-Geneformer",
+    "summary_ja": "約2,100万細胞のデータからマウスの遺伝子発現を学習。細胞種分類や遺伝子摂動の解析に加え、ヒトへの種間応用の可能性を検証。",
+    "summary_en": "Learns from 21 million mouse single-cell transcriptomes to support cell-type classification and in silico perturbation analysis, with an investigation of cross-species transfer to human data.",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011420",
+      "https://github.com/machine-perception-robotics-group/Mouse-Geneformer"
+    ],
+    "type": "journal",
+    "featured": 5
+  },
+  {
+    "id": "class-specific-lidar-pruning",
+    "title": "Weight Pruning to Mitigate Class-Specific Accuracy Degradation for LiDAR-Based 3D Object Detection",
+    "authors": [
+      "Tenshi Ito",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://doi.org/10.1109/IV64158.2025.11097784",
+    "sources": [
+      "https://doi.org/10.1109/IV64158.2025.11097784",
+      "https://thirakawa.github.io/pub_conf_en/",
+      "https://ieeexplore.ieee.org/document/11097784/"
+    ],
+    "category": "driving",
+    "featured": 6,
+    "venue_short": "IEEE IV"
+  },
+  {
+    "id": "2cm-gpt",
+    "title": "2D Motion Generation Using Joint Spatial Information with 2CM-GPT",
+    "authors": [
+      "Ryota Inoue",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "VISAPP",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://www.scitepress.org/PublishedPapers/2025/131796/",
+    "sources": [
+      "https://mprg.jp/en/publications/c20250226_inoue",
+      "https://thirakawa.github.io/pub_conf_en/",
+      "https://www.scitepress.org/PublishedPapers/2025/131796/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "bidirectional-action-sequence",
+    "title": "Bidirectional Action Sequence Learning for Long-term Action Anticipation with Large Language Models",
+    "authors": [
+      "Yuji Sato",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "MVA",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://doi.org/10.23919/MVA65244.2025.11175120",
+    "sources": [
+      "https://doi.org/10.23919/MVA65244.2025.11175120",
+      "https://mva-org.jp/mva2025/",
+      "https://www.ieice.org/publications/proceedings/summary.php?expandable=13&iconf=MVA&number=P1-2&session_num=P1&year=2025"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "crnli",
+    "title": "CRNLI: A Textual Entailment Dataset in the Chemistry Domain",
+    "authors": [
+      "Chenhao Chen",
+      "Taiga Masuda",
+      "Yoshitaka Ushiku",
+      "Shohei Tanaka",
+      "Kuniaki Saito",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "TSD",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-02551-7_9",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-3-032-02551-7_9"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "distilling-diverse-knowledge",
+    "title": "Distilling Diverse Knowledge for Deep Ensemble Learning",
+    "authors": [
+      "Naoki Okamoto",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Access",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://ieeexplore.ieee.org/document/11028994",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/11028994",
+      "https://thirakawa.github.io/pub_journal_en/",
+      "https://mprg.jp/en/publications/b20250609_okamoto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "navigation-graph-attention",
+    "title": "Enhancing Navigation Text Generation and Visual Explanation Using Spatio-Temporal Scene Graphs with Graph Attention Networks",
+    "authors": [
+      "Hayato Suzuki",
+      "Kota Shimomura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE International Conference on Intelligent Transportation Systems (ITSC)",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://mprg.jp/en/publications/c20250916_suzukih",
+    "sources": [
+      "https://mprg.jp/en/publications/c20250916_suzukih"
+    ],
+    "category": "driving",
+    "venue_short": "ITSC"
+  },
+  {
+    "id": "reflections-to-motifs",
+    "title": "From Reflections to Motifs: A Graph-Based Analysis of Learners’ Knowledge Construction",
+    "authors": [
+      "Gen Li",
+      "Li Chen",
+      "Cheng Tang",
+      "Daisuke Deguchi",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "AIED",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-98465-5_38",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-3-031-98465-5_38"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "grade-learning-log-relationship",
+    "title": "Grade Prediction Considering Learning Log Relationship",
+    "authors": [
+      "Taiga Yamamoto",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "ICLEA",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://library.apsce.net/index.php/ICLEA/article/view/5540",
+    "sources": [
+      "https://library.apsce.net/index.php/ICLEA/article/view/5540",
+      "https://mprg.jp/en/publications/c20250906_yamamoto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "grade-fasttext-differential-pattern",
+    "title": "Grade Prediction Using fastText Features Weighted Through Differential Pattern Mining",
+    "authors": [
+      "Ryota Tachi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "LAK Companion Proceedings (Poster)",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://mprg.jp/en/publications/c20250303_tachi",
+    "sources": [
+      "https://mprg.jp/en/publications/c20250303_tachi",
+      "https://www.solaresearch.org/wp-content/uploads/2025/02/LAK25-CompanionProceedings.pdf"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "ig-odam",
+    "title": "IG-ODAM: Instance-Aware Visual Explanations for Object Detection with Integrated Gradients",
+    "authors": [
+      "Yuma Nakai",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "MVA",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://doi.org/10.23919/MVA65244.2025.11175114",
+    "sources": [
+      "https://doi.org/10.23919/MVA65244.2025.11175114",
+      "https://mprg.jp/en/publications/c20250726_nakai",
+      "https://thirakawa.github.io/pub_conf_en/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "frequency-aware-spatial-attention",
+    "title": "Learning Frequency-Aware Spatial Attention by Reconstructing Images With Different Frequency Responses",
+    "authors": [
+      "Keisuke Sano",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Access",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://doi.org/10.1109/ACCESS.2025.3577932",
+    "sources": [
+      "https://doi.org/10.1109/ACCESS.2025.3577932",
+      "https://mprg.jp/en/publications/b20250609_sano",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "optimizing-knowledge-transfer-graph",
+    "title": "Optimizing Knowledge Transfer Graph for Deep Collaborative Learning",
+    "authors": [
+      "Soma Minami",
+      "Naoki Okamoto",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Access",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://doi.org/10.1109/ACCESS.2025.3579344",
+    "sources": [
+      "https://doi.org/10.1109/ACCESS.2025.3579344",
+      "https://mprg.jp/en/publications/b20250612_okamoto",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "llm-student-reflection-assessment",
+    "title": "Single-agent vs. Multi-agent LLM Strategies for Automated Student Reflection Assessment",
+    "authors": [
+      "Gen Li",
+      "Li Chen",
+      "Cheng Tang",
+      "Valdemar Švábenský",
+      "Daisuke Deguchi",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "PAKDD",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-96-8186-0_24",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-981-96-8186-0_24"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "action-query-transformer",
+    "title": "Visual Explanation With Action Query Transformer in Deep Reinforcement Learning and Visual Feedback via Augmented Reality",
+    "authors": [
+      "Hidenori Itaya",
+      "Wantao Yin",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "IEEE Access",
+    "year": 2025,
+    "type": "journal",
+    "url": "https://ieeexplore.ieee.org/document/10938565",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/10938565",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "vllm-human-like-guidance",
+    "title": "VLLM Guided Human-Like Guidance Navigation Generation",
+    "authors": [
+      "Masaki Nambata",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Takehito Teraguchi",
+      "Shota Okubo",
+      "Takuya Nanri"
+    ],
+    "venue": "VISAPP",
+    "year": 2025,
+    "type": "conference",
+    "url": "https://www.scitepress.org/PublishedPapers/2025/131911/",
+    "sources": [
+      "https://mprg.jp/en/publications/c20250226_nambata",
+      "https://www.scitepress.org/PublishedPapers/2025/131911/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "debiformer",
+    "title": "DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention",
+    "authors": [
+      "NguyenHuu BaoLong",
+      "Chenyu Zhang",
+      "Yuzhi Shi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Tohgoroh Matsui",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "ACCV",
+    "year": 2024,
+    "category": "vision",
+    "url": "https://openaccess.thecvf.com/content/ACCV2024/html/BaoLong_DeBiFormer_Vision_Transformer_with_Deformable_Agent_Bi-level_Routing_Attention_ACCV_2024_paper.html",
+    "code": "https://github.com/maclong01/DeBiFormer",
+    "summary_ja": "画像内の重要領域を柔軟に選ぶ注意機構により、情報の選択と集約を改善。分類・物体検出・領域分割に使える汎用画像モデルを構築。",
+    "summary_en": "Uses deformable agent queries and bi-level routing to focus attention on informative image regions, providing a general-purpose backbone for classification, detection, and segmentation.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ACCV2024/html/BaoLong_DeBiFormer_Vision_Transformer_with_Deformable_Agent_Bi-level_Routing_Attention_ACCV_2024_paper.html",
+      "https://mprg.jp/data/MPRG/C_group/C20241212_zhang.pdf",
+      "https://github.com/maclong01/DeBiFormer"
+    ],
+    "type": "conference",
+    "featured": 7
+  },
+  {
+    "id": "ssocl-faster-convergence",
+    "title": "Faster convergence and Uncorrelated gradients in Self-Supervised Online Continual Learning",
+    "authors": [
+      "Koyo Imai",
+      "Naoto Hayashi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "ACCV",
+    "year": 2024,
+    "category": "learning",
+    "url": "https://openaccess.thecvf.com/content/ACCV2024/html/Imai_Faster_convergence_and_Uncorrelated_gradients_in_Self-Supervised_Online_Continual_Learning_ACCV_2024_paper.html",
+    "summary_ja": "変化し続けるラベルなしデータから効率的に学ぶ継続学習。収束を速める損失と多様なデータ選択により、分布変化への適応を改善。",
+    "summary_en": "Combines faster self-supervised learning with diverse replay-buffer selection to improve continual representation learning from changing, unlabeled data streams.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ACCV2024/html/Imai_Faster_convergence_and_Uncorrelated_gradients_in_Self-Supervised_Online_Continual_Learning_ACCV_2024_paper.html",
+      "https://mprg.jp/data/MPRG/C_group/c20241212_imai.pdf"
+    ],
+    "type": "conference",
+    "featured": 8
+  },
+  {
+    "id": "active-domain-false-negative",
+    "title": "Active Domain Adaptation with False Negative Prediction for Object Detection",
+    "authors": [
+      "Yuzuru Nakamura",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "CVPR",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Nakamura_Active_Domain_Adaptation_with_False_Negative_Prediction_for_Object_Detection_CVPR_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024/html/Nakamura_Active_Domain_Adaptation_with_False_Negative_Prediction_for_Object_Detection_CVPR_2024_paper.html"
+    ],
+    "category": "learning",
+    "featured": 9
+  },
+  {
+    "id": "lrp-resnet",
+    "title": "Layer-Wise Relevance Propagation with Conservation Property for ResNet",
+    "authors": [
+      "Seitaro Otsuki",
+      "Tsumugi Iida",
+      "Félix Doublet",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "ECCV",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5997_ECCV_2024_paper.php",
+    "sources": [
+      "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5997_ECCV_2024_paper.php",
+      "https://5ei74r0.github.io/lrp-for-resnet.page/"
+    ],
+    "category": "vision",
+    "featured": 10,
+    "project": "https://5ei74r0.github.io/lrp-for-resnet.page/",
+    "summary_ja": "ResNetのスキップ接続に対応したLRPを提案し、関連度の保存則を満たす形でモデルの判断根拠を可視化します。",
+    "summary_en": "Extending layer-wise relevance propagation to ResNet with relevance splitting that preserves the conservation property of explanations."
+  },
+  {
+    "id": "adaptive-auxiliary-task-selection",
+    "title": "Adaptive Selection of Auxiliary Tasks Using Deep Reinforcement Learning for Video Game Strategy",
+    "authors": [
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IIEEJ Transactions on Image Electronics and Visual Computing",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://www.iieej.org/journal/trans-on-ievc-vol-12-no-1/",
+    "sources": [
+      "https://www.iieej.org/journal/trans-on-ievc-vol-12-no-1/",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "learning",
+    "venue_short": "IIEEJ Trans. IEVC"
+  },
+  {
+    "id": "attention-student-performance",
+    "title": "Attention-Based Artificial Neural Network for Student Performance Prediction Based on Learning Activities",
+    "authors": [
+      "Sukrit Leelaluk",
+      "Cheng Tang",
+      "Tsubasa Minematsu",
+      "Yuta Taniguchi",
+      "Fumiya Okubo",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "IEEE Access",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3429554",
+    "sources": [
+      "https://doi.org/10.1109/ACCESS.2024.3429554",
+      "https://kyushu-u.elsevierpure.com/en/publications/attention-based-artificial-neural-network-for-student-performance/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "auxiliary-selection",
+    "title": "Auxiliary selection: optimal selection of auxiliary tasks using deep reinforcement learning",
+    "authors": [
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IIEEJ International Conference on Image Electronics and Visual Computing (IEVC)",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://mprg.jp/en/publications/c20230312_itaya",
+    "sources": [
+      "https://mprg.jp/en/publications/c20230312_itaya"
+    ],
+    "category": "learning",
+    "venue_short": "IEVC"
+  },
+  {
+    "id": "binary-decomposed-vit",
+    "title": "Binary-Decomposed Vision Transformer: Compressing and Accelerating Vision Transformer by Binary Decomposition",
+    "authors": [
+      "Ryota Kondo",
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "ICIP",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://cmsworkshops.com/ICIP2024/view_paper.php?PaperNum=1151",
+    "sources": [
+      "https://cmsworkshops.com/ICIP2024/view_session.php?SessionID=1084&bare=1",
+      "https://thirakawa.github.io/pub_conf_en/",
+      "https://cmsworkshops.com/ICIP2024/view_paper.php?PaperNum=1151"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "caption-guided-video-anomaly",
+    "title": "Caption-guided Interpretable Video Anomaly Detection Based on Memory Similarity",
+    "authors": [
+      "Yuzhi Shi",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Hironobu Fujiyoshi",
+      "Mitsuru Nakazawa",
+      "Yeongnam Chae",
+      "Björn Stenger"
+    ],
+    "venue": "IEEE Access",
+    "year": 2024,
+    "category": "vision",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3396219",
+    "summary_ja": "代表的な映像と説明文をメモリに保持し、その類似度から異常を検出。文章を用いて、異常判断の根拠を理解できるようにする。",
+    "summary_en": "Stores representative video features and captions in memory and detects anomalies through similarity, using semantic descriptions to make the predictions interpretable.",
+    "sources": [
+      "https://mprg.jp/en/publications/b20240504_shi"
+    ],
+    "type": "journal"
+  },
+  {
+    "id": "class-weighted-focal-loss",
+    "title": "Class Weighted Focal Loss for Improving Class Imbalance in Semi-Supervised Object Detection",
+    "authors": [
+      "Shinichi Hoketsu",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "VISAPP",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://www.scitepress.org/PublishedPapers/2024/123516/",
+    "sources": [
+      "https://mprg.jp/en/publications/c20240228_hoketsu",
+      "https://thirakawa.github.io/pub_conf_en/",
+      "https://www.scitepress.org/PublishedPapers/2024/123516/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "fisheye-heatmap-calibration",
+    "title": "Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption",
+    "authors": [
+      "Nobuhiko Wakai",
+      "Satoshi Sato",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "CVPR",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Wakai_Deep_Single_Image_Camera_Calibration_by_Heatmap_Regression_to_Recover_CVPR_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024/html/Wakai_Deep_Single_Image_Camera_Calibration_by_Heatmap_Regression_to_Recover_CVPR_2024_paper.html"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "diverse-data-unsupervised-continual",
+    "title": "Diverse Data Selection Considering Data Distribution for Unsupervised Continual Learning",
+    "authors": [
+      "Naoto Hayashi",
+      "Naoki Okamoto",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "VISAPP",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://www.scitepress.org/Papers/2024/123693/123693.pdf",
+    "sources": [
+      "https://www.scitepress.org/Papers/2024/123693/123693.pdf",
+      "https://mprg.jp/data/MPRG/C_group/C20240228_hayashi.pdf",
+      "https://mprg.jp/en/publications/c20240228_hayashi"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "efficient-action-spotting",
+    "title": "Efficient Action Spotting Using Saliency Feature Weighting",
+    "authors": [
+      "Yuzhi Shi",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Hironobu Fujiyoshi",
+      "Mitsuru Nakazawa",
+      "Yeongnam Chae",
+      "Björn Stenger"
+    ],
+    "venue": "IEICE Transactions on Information and Systems",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://doi.org/10.1587/transinf.2022EDP7210",
+    "sources": [
+      "https://doi.org/10.1587/transinf.2022EDP7210",
+      "https://globals.ieice.org/en_transactions/information/10.1587/transinf.2022EDP7210/_p"
+    ],
+    "category": "vision",
+    "venue_short": "IEICE Trans. IS"
+  },
+  {
+    "id": "grade-adjusted-attention",
+    "title": "Enhancing the Accuracy of Predicting Students Grades in Open-Ended Questions through Adjustments to Attention Weights",
+    "authors": [
+      "Masaki Koike",
+      "Hirokazu Kohama",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Educational Data Mining (EDM)",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://doi.org/10.5281/zenodo.12729979",
+    "sources": [
+      "https://doi.org/10.5281/zenodo.12729979",
+      "https://mprg.jp/en/publications/c20240714_koike"
+    ],
+    "category": "learning",
+    "venue_short": "EDM"
+  },
+  {
+    "id": "bifpn-in-vehicle-multitask",
+    "title": "High-Precision for Multi-Task Learning from In-Vehicle Camera using BiFPN",
+    "authors": [
+      "Chenyu Zhang",
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://mprg.jp/en/publications/c20240603_zhang",
+    "sources": [
+      "https://mprg.jp/en/publications/c20240603_zhang"
+    ],
+    "category": "driving",
+    "venue_short": "IEEE IV"
+  },
+  {
+    "id": "human-like-spatio-temporal-navigation",
+    "title": "Human-like Guidance by Generating Navigation Using Spatial-Temporal Scene Graph",
+    "authors": [
+      "Hayato Suzuki",
+      "Kota Shimomura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Shota Okubo",
+      "Takuya Nanri",
+      "Siyuan Wang"
+    ],
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/document/10588867",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/10588867",
+      "https://mprg.jp/en/publications/b20240603_suzukiha",
+      "https://kotashimomura.github.io/",
+      "https://dblp.org/rec/conf/ivs/SuzukiSHYFOTS24"
+    ],
+    "category": "driving",
+    "venue_short": "IEEE IV"
+  },
+  {
+    "id": "larval-hostplant-multi-label-abn",
+    "title": "Larval Hostplant Prediction from Luehdorfia japonica Image using Multi-label ABN",
+    "authors": [
+      "Tsubasa Hirakawa",
+      "Takaaki Arai",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Yuichi Oba",
+      "Hiromichi Fukui",
+      "Masaya Yago"
+    ],
+    "venue": "ECCV Workshop on Computer Vision for Ecology",
+    "year": 2024,
+    "type": "workshop",
+    "url": "https://mprg.jp/en/publications/c20240930_hirakawa",
+    "sources": [
+      "https://mprg.jp/en/publications/c20240930_hirakawa?year_menu=2018",
+      "https://mprg.jp/data/MPRG/C_group/C20240930_hirakawa.pdf"
+    ],
+    "category": "biology",
+    "venue_short": "ECCV Workshop"
+  },
+  {
+    "id": "orthonormal-multimodal-distributions",
+    "title": "Learning Intra-Class Multimodal Distributions With Orthonormal Matrices",
+    "authors": [
+      "Jumpei Goto",
+      "Yohei Nakata",
+      "Kiyofumi Abe",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "WACV",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://openaccess.thecvf.com/content/WACV2024/html/Goto_Learning_Intra-Class_Multimodal_Distributions_With_Orthonormal_Matrices_WACV_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/WACV2024/html/Goto_Learning_Intra-Class_Multimodal_Distributions_With_Orthonormal_Matrices_WACV_2024_paper.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "llm-ontology-student-performance",
+    "title": "LLM-Driven Ontology Learning to Augment Student Performance Analysis in Higher Education",
+    "authors": [
+      "Gen Li",
+      "Cheng Tang",
+      "Li Chen",
+      "Daisuke Deguchi",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "KSEM",
+    "year": 2024,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-97-5498-4_5",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-981-97-5498-4_5"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "mask-attention-a3c",
+    "title": "Mask-Attention A3C: Visual Explanation of Action–State Value in Deep Reinforcement Learning",
+    "authors": [
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "IEEE Access",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://ieeexplore.ieee.org/document/10560007",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/10560007",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "nearest-neighbor-future-captioning",
+    "title": "Nearest neighbor future captioning: generating descriptions for possible collisions in object placement tasks",
+    "authors": [
+      "Takumi Komatsu",
+      "Motonari Kambara",
+      "Shumpei Hatanaka",
+      "Haruka Matsuo",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "Advanced Robotics",
+    "year": 2024,
+    "type": "journal",
+    "url": "https://doi.org/10.1080/01691864.2024.2388114",
+    "sources": [
+      "https://doi.org/10.1080/01691864.2024.2388114",
+      "https://thirakawa.github.io/pub_journal_en/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "overlap-suppression-tracking",
+    "title": "Overlap Suppression Clustering for Offline Multi-Camera People Tracking",
+    "authors": [
+      "Ryuto Yoshida",
+      "Junichi Okubo",
+      "Junichiro Fujii",
+      "Masazumi Amakata",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "CVPR Workshops (AI City Challenge)",
+    "year": 2024,
+    "type": "workshop",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Yoshida_Overlap_Suppression_Clustering__for_Offline_Multi-Camera_People_Tracking_CVPRW_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Yoshida_Overlap_Suppression_Clustering__for_Offline_Multi-Camera_People_Tracking_CVPRW_2024_paper.html"
+    ],
+    "category": "vision",
+    "venue_short": "CVPR Workshop"
+  },
+  {
+    "id": "potential-risk-blind-spot",
+    "title": "Potential Risk Localization via Weak Labeling out of Blind Spot",
+    "authors": [
+      "Kota Shimomura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "CVPR Workshops (WAD)",
+    "year": 2024,
+    "type": "workshop",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Shimomura_Potential_Risk_Localization_via_Weak_Labeling_out_of_Blind_Spot_CVPRW_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Shimomura_Potential_Risk_Localization_via_Weak_Labeling_out_of_Blind_Spot_CVPRW_2024_paper.html"
+    ],
+    "category": "driving",
+    "venue_short": "CVPR Workshop"
+  },
+  {
+    "id": "one-shot-prompt-feature-alignment",
+    "title": "Prompt Learning with One-Shot Setting based Feature Space Analysis in Vision-and-Language Models",
+    "authors": [
+      "Yuki Hirohashi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "CVPR Workshops (LIMIT)",
+    "year": 2024,
+    "type": "workshop",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/html/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2024W/LIMIT/html/Hirohashi_Prompt_Learning_with_One-Shot_Setting_based_Feature_Space_Analysis_in_CVPRW_2024_paper.html"
+    ],
+    "category": "learning",
+    "venue_short": "CVPR Workshop"
+  },
+  {
+    "id": "single-shot-pruning",
+    "title": "Single-Shot Pruning for Pre-Trained Models: Rethinking the Importance of Magnitude Pruning",
+    "authors": [
+      "Hirokazu Kohama",
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "ICCV Workshop on Resource Efficient Deep Learning for Computer Vision",
+    "year": 2023,
+    "category": "learning",
+    "url": "https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Kohama_Single-Shot_Pruning_for_Pre-Trained_Models_Rethinking_the_Importance_of_Magnitude_ICCVW_2023_paper.html",
+    "summary_ja": "事前学習モデルの重みを追加学習なしで評価し、一度の枝刈りで圧縮。微調整前の小型化によって精度低下と学習負荷の抑制を図る。",
+    "summary_en": "Evaluates pretrained weights without additional training and prunes the model in a single step before fine-tuning, aiming to retain accuracy while reducing model size.",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ICCV2023W/RCV/html/Kohama_Single-Shot_Pruning_for_Pre-Trained_Models_Rethinking_the_Importance_of_Magnitude_ICCVW_2023_paper.html",
+      "https://mprg.jp/publications/f20231002_kohama",
+      "https://mprg.jp/publications?y=2023"
+    ],
+    "type": "workshop",
+    "featured": 11,
+    "venue_short": "ICCV Workshop"
+  },
+  {
+    "id": "c20230220-suzukit",
+    "title": "1D-SalsaSAN: Semantic Segmentation of LiDAR Point Cloud with Self-Attention",
+    "authors": [
+      "Takahiro Suzuki",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230220_suzukit",
+    "sources": [
+      "https://mprg.jp/publications/c20230220_suzukit",
+      "https://mprg.jp/publications/?y=2023&page=2"
+    ],
+    "category": "driving",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "hirosawa2023-sensors",
+    "title": "Action Quality Assessment Model Using Specialists’ Gaze Location and Kinematics Data—Focusing on Evaluating Figure Skating Jumps",
+    "authors": [
+      "Seiji Hirosawa",
+      "Takaaki Kato",
+      "Takayoshi Yamashita",
+      "Yoshimitsu Aoki"
+    ],
+    "venue": "Sensors, 23(22), 9282",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://www.mdpi.com/1424-8220/23/22/9282",
+    "sources": [
+      "https://www.mdpi.com/1424-8220/23/22/9282",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10675807/",
+      "https://keio.elsevierpure.com/en/publications/action-quality-assessment-model-using-specialists-gaze-location-a/"
+    ],
+    "category": "vision",
+    "venue_short": "Sensors"
+  },
+  {
+    "id": "b20230619-itot",
+    "title": "Analyzing the Accuracy, Representations, and Explainability of Various Loss Functions for Deep Learning",
+    "authors": [
+      "Tenshi Ito",
+      "Hiroki Adachi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Joint Conference on Neural Networks (IJCNN)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/b20230619_itot",
+    "sources": [
+      "https://mprg.jp/publications/b20230619_itot",
+      "https://mprg.jp/publications?y=2023"
+    ],
+    "category": "learning",
+    "venue_short": "IJCNN"
+  },
+  {
+    "id": "b20221104-suraj",
+    "title": "Automatic data collection for object detection and grasp-position estimation with mobile robots and invisible markers",
+    "authors": [
+      "Suraj Prakash Pattar",
+      "Thomas Killus",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Tetsuya Sawanobori",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Advanced Robotics, 37(4), pp. 241–256",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://doi.org/10.1080/01691864.2022.2136504",
+    "sources": [
+      "https://mprg.jp/publications/b20221104_suraj",
+      "https://mprg.jp/publications?y=2022",
+      "https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2136504"
+    ],
+    "category": "vision",
+    "venue_short": "Advanced Robotics"
+  },
+  {
+    "id": "c20230220-iwayoshi-2",
+    "title": "Complement Objective Mining Branch for Optimizing Attention Map",
+    "authors": [
+      "Takaaki Iwayoshi",
+      "Hiroki Adachi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230220_iwayoshi-2",
+    "sources": [
+      "https://mprg.jp/publications/c20230220_iwayoshi-2",
+      "https://mprg.jp/publications/?y=2023&page=3"
+    ],
+    "category": "vision",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "c20231106-nitta",
+    "title": "Detecting Data Drift with KS Test Using Attention Map",
+    "authors": [
+      "Tsunemi Nitta",
+      "Yuzhi Shi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Asian Conference on Pattern Recognition (ACPR)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-47634-1_6",
+    "sources": [
+      "https://mprg.jp/publications/c20231106_nitta",
+      "https://mprg.jp/publications?y=2023",
+      "https://link.springer.com/chapter/10.1007/978-3-031-47634-1_6"
+    ],
+    "category": "learning",
+    "venue_short": "ACPR"
+  },
+  {
+    "id": "b20231122-noguchi",
+    "title": "Embedding Human Knowledge into Spatio-Temproal Attention Branch Network in Video Recognition via Temporal Attention",
+    "authors": [
+      "Saki Noguchi",
+      "Yuzhi Shi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "British Machine Vision Conference (BMVC)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://papers.bmvc2023.org/0207.pdf",
+    "sources": [
+      "https://mprg.jp/publications/b20231122_noguchi",
+      "https://mprg.jp/publications?y=2023",
+      "https://papers.bmvc2023.org/0207.pdf"
+    ],
+    "category": "vision",
+    "venue_short": "BMVC"
+  },
+  {
+    "id": "hirosawa2023-expert-gaze-iacss",
+    "title": "Expert’s Gaze-Based Prediction Model for Assessing the Quality of Figure Skating Jumps",
+    "authors": [
+      "Seiji Hirosawa",
+      "Takayoshi Yamashita",
+      "Yoshimitsu Aoki"
+    ],
+    "venue": "International Symposium on Computer Science in Sport (IACSS), Lecture Notes on Data Engineering and Communications Technologies, 209, pp. 42–52",
+    "year": 2023,
+    "type": "conference",
+    "category": "vision",
+    "url": "https://link.springer.com/chapter/10.1007/978-981-97-2898-5_5",
+    "doi": "10.1007/978-981-97-2898-5_5",
+    "publication_year": 2024,
+    "publication_date": "2024-05-23",
+    "sources": [
+      "https://link.springer.com/chapter/10.1007/978-981-97-2898-5_5",
+      "https://link.springer.com/book/10.1007/978-981-97-2898-5",
+      "https://keio.elsevierpure.com/en/publications/experts-gaze-based-prediction-model-for-assessing-the-quality-of-/"
+    ],
+    "venue_short": "IACSS"
+  },
+  {
+    "id": "c20230929-nambata",
+    "title": "Human-like Guidance with Gaze Estimation and Classification-based Text Generation",
+    "authors": [
+      "Masaki Nambata",
+      "Kota Shimomura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE International Conference on Intelligent Transportation Systems (ITSC)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230929_nambata",
+    "sources": [
+      "https://mprg.jp/publications/c20230929_nambata",
+      "https://mprg.jp/publications?y=2023"
+    ],
+    "category": "driving",
+    "venue_short": "ITSC"
+  },
+  {
+    "id": "b20230630-hattori",
+    "title": "Learning from AI: An Interactive Learning Method Using a DNN Model Incorporating Expert Knowledge as a Teacher",
+    "authors": [
+      "Kohei Hattori",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Artificial Intelligence in Education (AIED), Posters and Late Breaking Results, pp. 435–446",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-031-36336-8_68",
+    "sources": [
+      "https://mprg.jp/publications/b20230630_hattori",
+      "https://mprg.jp/publications?y=2023",
+      "https://link.springer.com/chapter/10.1007/978-3-031-36336-8_68",
+      "https://arxiv.org/abs/2306.02257"
+    ],
+    "category": "learning",
+    "venue_short": "AIED"
+  },
+  {
+    "id": "c20230220-adachi-2",
+    "title": "Masking and Mixing Adversarial Training",
+    "authors": [
+      "Hiroki Adachi",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Yasunori Ishii",
+      "Kazuki Kozuka"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230220_adachi-2",
+    "sources": [
+      "https://mprg.jp/publications/c20230220_adachi-2",
+      "https://mprg.jp/publications/?y=2023&page=2"
+    ],
+    "category": "learning",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "zhang2023-palf",
+    "title": "PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds",
+    "authors": [
+      "Yucheng Zhang",
+      "Masaki Fukuda",
+      "Yasunori Ishii",
+      "Kyoko Ohshima",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "International Conference on Machine Vision Applications (MVA), pp. 1–5",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://ieeexplore.ieee.org/document/10216156",
+    "sources": [
+      "https://ieeexplore.ieee.org/document/10216156",
+      "https://tech-ai.panasonic.com/en/publications.html",
+      "https://arxiv.org/abs/2304.08591"
+    ],
+    "category": "driving",
+    "venue_short": "MVA"
+  },
+  {
+    "id": "c20231206-kohama",
+    "title": "Recommending Learning Actions Using Neural Network",
+    "authors": [
+      "Hirokazu Kohama",
+      "Yuki Ban",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Akitoshi Itai",
+      "Hiroyasu Usami"
+    ],
+    "venue": "International Conference on Computers in Education (ICCE)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://library.apsce.net/index.php/ICCE/article/view/946",
+    "sources": [
+      "https://mprg.jp/publications/c20231206_kohama",
+      "https://mprg.jp/publications?y=2023",
+      "https://library.apsce.net/index.php/ICCE/article/view/946",
+      "https://doi.org/10.58459/icce.2023.946"
+    ],
+    "category": "learning",
+    "venue_short": "ICCE"
+  },
+  {
+    "id": "c20230502-ukai-2",
+    "title": "This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers",
+    "authors": [
+      "Yuki Ukai",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230502_ukai-2",
+    "sources": [
+      "https://mprg.jp/publications/c20230502_ukai-2",
+      "https://mprg.jp/publications/?y=2023&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "ICLR"
+  },
+  {
+    "id": "b20230619-ukai",
+    "title": "Toward Prototypical Part Interpretable Similarity Learning With ProtoMetric",
+    "authors": [
+      "Yuki Ukai",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Access, 11, pp. 62986–62997",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://ieeexplore.ieee.org/document/10155427",
+    "sources": [
+      "https://mprg.jp/publications/b20230619_ukai",
+      "https://mprg.jp/publications?y=2023",
+      "https://ieeexplore.ieee.org/document/10155427"
+    ],
+    "category": "vision",
+    "venue_short": "IEEE Access"
+  },
+  {
+    "id": "c20230220-minoura",
+    "title": "Understanding of Feature Representation in Convolutional Neural Networks and Vision Transformer",
+    "authors": [
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20230220_minoura",
+    "sources": [
+      "https://mprg.jp/publications/c20230220_minoura",
+      "https://mprg.jp/publications/?y=2023&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "b20220307-minoura",
+    "title": "Utilizing Human Social Norms for Multimodal Trajectory Forecasting via Group-Based Forecasting Module",
+    "authors": [
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Yusuke Sugano",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Transactions on Intelligent Vehicles, 8(1), pp. 836–850",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://ieeexplore.ieee.org/document/9729607",
+    "sources": [
+      "https://mprg.jp/publications/b20220307_minoura",
+      "https://mprg.jp/publications/?y=2022&page=2",
+      "https://ieeexplore.ieee.org/document/9729607"
+    ],
+    "category": "driving",
+    "venue_short": "IEEE T-IV"
+  },
+  {
+    "id": "tsuzuki2023-revetment-anomaly",
+    "title": "VAEを用いた教師なし深層学習による変状種別に依存しない河川護岸の異常検知",
+    "authors": [
+      "都築幸乃",
+      "吉田龍人",
+      "大久保順一",
+      "藤井純一郎",
+      "山下隆義"
+    ],
+    "venue": "土木学会論文集, 79(15), 22-15057",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://doi.org/10.2208/jscejj.22-15057",
+    "sources": [
+      "https://doi.org/10.2208/jscejj.22-15057",
+      "https://www.jstage.jst.go.jp/browse/jscejj/79/15/_contents/-char/ja?from=1",
+      "https://www.yachiyo-eng.co.jp/riips/assets/pdf/R2023008.pdf"
+    ],
+    "category": "vision",
+    "venue_short": "土木学会論文集"
+  },
+  {
+    "id": "b20230622-itaya",
+    "title": "Visual Explanation for Cooperative Behavior in Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Hidenori Itaya",
+      "Tom Sagawa",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Joint Conference on Neural Networks (IJCNN)",
+    "year": 2023,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/b20230622_itaya",
+    "sources": [
+      "https://mprg.jp/publications/b20230622_itaya",
+      "https://mprg.jp/publications?y=2023"
+    ],
+    "category": "learning",
+    "venue_short": "IJCNN"
+  },
+  {
+    "id": "ishii2023-lensless-face",
+    "title": "レンズレスマルチピンホールカメラによるプライバシーを配慮した顔認識",
+    "authors": [
+      "石井育規",
+      "佐藤智",
+      "山下隆義"
+    ],
+    "venue": "電子情報通信学会誌, 106(1), pp. 47–51",
+    "year": 2023,
+    "type": "journal",
+    "url": "https://app.journal.ieice.org/trial/106_1/index.html",
+    "sources": [
+      "https://app.journal.ieice.org/trial/106_1/index.html",
+      "https://research-db.chubu.ac.jp/chbhp/KgApp/k05/resid/S002210/868?lang=ja"
+    ],
+    "category": "vision",
+    "venue_short": "電子情報通信学会誌"
+  },
+  {
+    "id": "c20220824-shi",
+    "title": "Action Spotting in Soccer Videos Using Multiple Scene Encoders",
+    "authors": [
+      "Yuzhi Shi",
+      "Hiroaki Minoura",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Hironobu Fujiyoshi",
+      "Mitsuru Nakazawa",
+      "Yeongnam Chae",
+      "Bjorn Stenger"
+    ],
+    "venue": "International Conference on Pattern Recognition (ICPR)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20220824_shi",
+    "sources": [
+      "https://mprg.jp/publications/c20220824_shi",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "vision",
+    "venue_short": "ICPR"
+  },
+  {
+    "id": "b20221001-takada",
+    "title": "Attention Pairwise Rankingによるスキル優劣判定における視覚的説明と高精度化",
+    "authors": [
+      "高田雅之",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会論文誌D, J105-D(10), pp. 628–638",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20221001_takada",
+    "sources": [
+      "https://mprg.jp/publications/b20221001_takada",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "vision",
+    "venue_short": "電子情報通信学会論文誌D"
+  },
+  {
+    "id": "c20221019-liu",
+    "title": "Class-wise FM-NMS for Knowledge Distillation of Object Detection",
+    "authors": [
+      "Lyuzhuang Liu",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20221019_liu",
+    "sources": [
+      "https://mprg.jp/publications/c20221019_liu",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "learning",
+    "venue_short": "ICIP"
+  },
+  {
+    "id": "c20221025-okamoto",
+    "title": "Deep Ensemble Learning by Diverse Knowledge Distillation for Fine-Grained Object Classification",
+    "authors": [
+      "Naoki Okamoto",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20221025_okamoto",
+    "sources": [
+      "https://mprg.jp/publications/c20221025_okamoto",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "learning",
+    "venue_short": "ECCV"
+  },
+  {
+    "id": "minoura2022-trajectory-survey",
+    "title": "Deep Learningを用いた移動物体間のインタラクションを考慮した経路予測の研究動向",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会論文誌D, J105-D(5), pp. 372–404",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://search.ieice.org/bin/summary.php?id=j105-d_5_372",
+    "sources": [
+      "https://search.ieice.org/bin/summary.php?id=j105-d_5_372",
+      "https://doi.org/10.14923/transinfj.2021JDR0003"
+    ],
+    "category": "driving",
+    "venue_short": "電子情報通信学会論文誌D"
+  },
+  {
+    "id": "nakamura2022-cross-domain-cutmix",
+    "title": "Few-shot Adaptive Object Detection with Cross-Domain CutMix",
+    "authors": [
+      "Yuzuru Nakamura",
+      "Yasunori Ishii",
+      "Yuki Maruyama",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "Asian Conference on Computer Vision (ACCV)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://openaccess.thecvf.com/content/ACCV2022/html/Nakamura_Few-shot_Adaptive_Object_Detection_with_Cross-Domain_CutMix_ACCV_2022_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ACCV2022/html/Nakamura_Few-shot_Adaptive_Object_Detection_with_Cross-Domain_CutMix_ACCV_2022_paper.html",
+      "https://tech-ai.panasonic.com/en/publications.html"
+    ],
+    "category": "vision",
+    "venue_short": "ACCV"
+  },
+  {
+    "id": "b20220302-araki",
+    "title": "MT-DSSD: multi-task deconvolutional single shot detector for object detection, segmentation, and grasping detection",
+    "authors": [
+      "Ryosuke Araki",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Advanced Robotics, 36(8), pp. 373–387",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20220302_araki",
+    "sources": [
+      "https://mprg.jp/publications/b20220302_araki",
+      "https://mprg.jp/publications/?y=2022&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "Advanced Robotics"
+  },
+  {
+    "id": "c20220823-iwata",
+    "title": "Refining Design Spaces in Knowledge Distillation for Deep Collaborative Learning",
+    "authors": [
+      "Sachi Iwata",
+      "Soma Minami",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Pattern Recognition (ICPR)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20220823_iwata",
+    "sources": [
+      "https://mprg.jp/publications/c20220823_iwata",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "learning",
+    "venue_short": "ICPR"
+  },
+  {
+    "id": "wakai2022-generic-camera-models",
+    "title": "Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion",
+    "authors": [
+      "Nobuhiko Wakai",
+      "Satoshi Sato",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "European Conference on Computer Vision (ECCV)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4185_ECCV_2022_paper.php",
+    "sources": [
+      "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4185_ECCV_2022_paper.php",
+      "https://github.com/panasonic-ai/rethinking-generic-camera-models",
+      "https://tech-ai.panasonic.com/en/publications.html"
+    ],
+    "category": "vision",
+    "venue_short": "ECCV"
+  },
+  {
+    "id": "leelaluk2022-at-risk-students",
+    "title": "Scaled-Dot Product Attention for Early Detection of At-risk Students",
+    "authors": [
+      "Sukrit Leelaluk",
+      "Tsubasa Minematsu",
+      "Yuta Taniguchi",
+      "Fumiya Okubo",
+      "Takayoshi Yamashita",
+      "Atsushi Shimada"
+    ],
+    "venue": "IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE), pp. 316–322",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://doi.org/10.1109/TALE54877.2022.00059",
+    "sources": [
+      "https://doi.org/10.1109/TALE54877.2022.00059",
+      "https://kyushu-u.elsevierpure.com/en/publications/scaled-dot-product-attention-for-early-detection-of-at-risk-stude/"
+    ],
+    "category": "learning",
+    "venue_short": "TALE"
+  },
+  {
+    "id": "b20220901-pattar",
+    "title": "Single Suction Grasp Detection for Symmetric Objects Using Shallow Networks Trained with Synthetic Data",
+    "authors": [
+      "Suraj Prakash Pattar",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Tetsuya Sawanobori",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEICE Transactions on Information and Systems, E105-D(9), pp. 1600–1609",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20220901_pattar",
+    "sources": [
+      "https://mprg.jp/publications/b20220901_pattar",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "vision",
+    "venue_short": "IEICE Trans. IS"
+  },
+  {
+    "id": "c20220604-goto",
+    "title": "Solving the Deadlock Problem with Deep Reinforcement Learning Using Information from Multiple Vehicles",
+    "authors": [
+      "Tsuyoshi Goto",
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20220604_goto",
+    "sources": [
+      "https://mprg.jp/publications/c20220604_goto",
+      "https://mprg.jp/publications/?y=2022&page=2"
+    ],
+    "category": "driving",
+    "venue_short": "IEEE IV"
+  },
+  {
+    "id": "iida2022-lambda-abn",
+    "title": "Visual Explanation Generation Based on Lambda Attention Branch Networks",
+    "authors": [
+      "Tsumugi Iida",
+      "Takumi Komatsu",
+      "Kanta Kaneda",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "Asian Conference on Computer Vision (ACCV)",
+    "year": 2022,
+    "type": "conference",
+    "url": "https://openaccess.thecvf.com/content/ACCV2022/html/Iida_Visual_Explanation_Generation_Based_on_Lambda_Attention_Branch_Networks_ACCV_2022_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ACCV2022/html/Iida_Visual_Explanation_Generation_Based_on_Lambda_Attention_Branch_Networks_ACCV_2022_paper.html",
+      "https://link.springer.com/chapter/10.1007/978-3-031-26284-5_29"
+    ],
+    "category": "vision",
+    "venue_short": "ACCV"
+  },
+  {
+    "id": "b20220701-adachi",
+    "title": "注視領域を考慮したGANによる識別に効果的なデータ増幅",
+    "authors": [
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会論文誌D, J105-D(7), pp. 470–479",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20220701_adachi",
+    "sources": [
+      "https://mprg.jp/publications/b20220701_adachi",
+      "https://mprg.jp/publications?y=2022"
+    ],
+    "category": "learning",
+    "venue_short": "電子情報通信学会論文誌D"
+  },
+  {
+    "id": "fujiyoshi2022-image-recognition-review",
+    "title": "深層学習が変えた画像認識へのアプローチ",
+    "authors": [
+      "藤吉弘亘",
+      "平川翼",
+      "山下隆義"
+    ],
+    "venue": "電子情報通信学会誌, 105(5), pp. 364–370",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://www.ieice.org/jpn_r/journal_backnumber/genre/tokushu.html",
+    "sources": [
+      "https://www.ieice.org/jpn_r/journal_backnumber/genre/tokushu.html",
+      "https://thirakawa.github.io/pub_other_jp/",
+      "https://research-db.chubu.ac.jp/chbhp/KgApp/k05/resid/S002210/868?lang=ja"
+    ],
+    "category": "vision",
+    "venue_short": "電子情報通信学会誌"
+  },
+  {
+    "id": "hirakawa2022-drl-explanation",
+    "title": "深層強化学習における視覚的説明",
+    "authors": [
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会誌, 40(3), pp. 212–217",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://www.jstage.jst.go.jp/article/jrsj/40/3/40_40_212/_article/-char/ja",
+    "sources": [
+      "https://www.jstage.jst.go.jp/article/jrsj/40/3/40_40_212/_article/-char/ja",
+      "https://doi.org/10.7210/jrsj.40.212"
+    ],
+    "category": "learning",
+    "venue_short": "日本ロボット学会誌"
+  },
+  {
+    "id": "b20220401-adachi",
+    "title": "重み付き条件を用いたGenerative Adversarial Networksによる認識に有効な顔画像生成",
+    "authors": [
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会論文誌D, J105-D(4), pp. 271–282",
+    "year": 2022,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20220401_adachi",
+    "sources": [
+      "https://mprg.jp/publications/b20220401_adachi",
+      "https://mprg.jp/publications/?y=2022&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "電子情報通信学会論文誌D"
+  },
+  {
+    "id": "c20211111-suzukit",
+    "title": "1D Self-Attention Network for Point Cloud Semantic Segmentation using Omnidirectional LiDAR",
+    "authors": [
+      "Takahiro Suzuki",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Asian Conference on Pattern Recognition (ACPR)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20211111_suzukit",
+    "sources": [
+      "https://mprg.jp/publications/c20211111_suzukit",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "driving",
+    "venue_short": "ACPR"
+  },
+  {
+    "id": "c20210210-miao",
+    "title": "3D Object Detection with Normal-map on Point Clouds",
+    "authors": [
+      "Jishu Miao",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210210_miao",
+    "sources": [
+      "https://mprg.jp/publications/c20210210_miao",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "c20210725-minoura",
+    "title": "Action Spotting and Temporal Attention Analysis in Soccer Videos",
+    "authors": [
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Mitsuru Nakazawa",
+      "Yeongnam Chae",
+      "Bjorn Stenger"
+    ],
+    "venue": "International Conference on Machine Vision Applications (MVA)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210725_minoura",
+    "sources": [
+      "https://mprg.jp/publications/c20210725_minoura",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "MVA"
+  },
+  {
+    "id": "b20211101-mitsuhara",
+    "title": "Attention mapを介したDeep Neural Networkへの人の知見の組み込み",
+    "authors": [
+      "三津原将弘",
+      "福井宏",
+      "坂下祐輔",
+      "緒方貴紀",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会論文誌D, J104-D(11), pp. 796–807",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20211101_mitsuhara",
+    "sources": [
+      "https://mprg.jp/publications/b20211101_mitsuhara",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "電子情報通信学会論文誌D"
+  },
+  {
+    "id": "c20210725-iwayoshi",
+    "title": "Attention Mining Branch for Optimizing Attention Map",
+    "authors": [
+      "Takaaki Iwayoshi",
+      "Masahiro Mitsuhara",
+      "Masayuki Takada",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Machine Vision Applications (MVA)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210725_iwayoshi",
+    "sources": [
+      "https://mprg.jp/publications/c20210725_iwayoshi",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "MVA"
+  },
+  {
+    "id": "c20210208-tsukahara",
+    "title": "Collaborative Learning of Generative Adversarial Networks",
+    "authors": [
+      "Takuya Tsukahara",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210208_tsukahara",
+    "sources": [
+      "https://mprg.jp/publications/c20210208_tsukahara",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "learning",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "wakai2021-fisheye-calibration",
+    "title": "Deep Single Fisheye Image Camera Calibration for Over 180-Degree Projection of Field of View",
+    "authors": [
+      "Nobuhiko Wakai",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "ICCV Workshop on Physics Based Vision Meets Deep Learning (PBDL), pp. 1174–1183",
+    "year": 2021,
+    "type": "workshop",
+    "url": "https://openaccess.thecvf.com/content/ICCV2021W/PBDL/html/Wakai_Deep_Single_Fisheye_Image_Camera_Calibration_for_Over_180-Degree_Projection_ICCVW_2021_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ICCV2021W/PBDL/html/Wakai_Deep_Single_Fisheye_Image_Camera_Calibration_for_Over_180-Degree_Projection_ICCVW_2021_paper.html",
+      "https://tech-ai.panasonic.com/en/publications.html",
+      "https://ieeexplore.ieee.org/document/9607805/"
+    ],
+    "category": "vision",
+    "venue_short": "ICCV Workshop"
+  },
+  {
+    "id": "b20210712-masaki",
+    "title": "Distant Traffic Light Recognition Using Semantic Segmentation",
+    "authors": [
+      "Shota Masaki",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Transportation Research Record, 2675(11), pp. 97–103",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://journals.sagepub.com/doi/10.1177/03611981211016467",
+    "sources": [
+      "https://mprg.jp/publications/b20210712_masaki",
+      "https://mprg.jp/publications/?y=2021&page=2",
+      "https://journals.sagepub.com/doi/10.1177/03611981211016467"
+    ],
+    "category": "driving",
+    "venue_short": "Transportation Research Record"
+  },
+  {
+    "id": "c20210210-mitsuhara",
+    "title": "Embedding Human Knowledge into Deep Neural Network via Attention Map",
+    "authors": [
+      "Masahiro Mitsuhara",
+      "Hiroshi Fukui",
+      "Yusuke Sakashita",
+      "Takanori Ogata",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Computer Vision Theory and Applications (VISAPP)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210210_mitsuhara",
+    "sources": [
+      "https://mprg.jp/publications/c20210210_mitsuhara",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "VISAPP"
+  },
+  {
+    "id": "c20210712-moriy",
+    "title": "Image Captioning for Near-Future Events from Vehicle Camera Images and Motion Information",
+    "authors": [
+      "Yuki Mori",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE Intelligent Vehicles Symposium (IV)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210712_moriy",
+    "sources": [
+      "https://mprg.jp/publications/c20210712_moriy",
+      "https://mprg.jp/publications/?y=2021&page=2",
+      "https://research-db.chubu.ac.jp/chbhp/KgApp/k05/resid/S002210/868?lang=en"
+    ],
+    "category": "driving",
+    "venue_short": "IEEE IV"
+  },
+  {
+    "id": "c20210929-araki",
+    "title": "Iterative Coarse-To-Fine 6D-Pose Estimation Using Back-Propagation",
+    "authors": [
+      "Ryosuke Araki",
+      "Kohsuke Mano",
+      "Tadanori Hirano",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210929_araki",
+    "sources": [
+      "https://mprg.jp/publications/c20210929_araki",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "IROS"
+  },
+  {
+    "id": "c20210920-masaki",
+    "title": "Multi-Domain Semantic-Segmentation using Multi-Head Model",
+    "authors": [
+      "Shota Masaki",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE International Conference on Intelligent Transportation Systems (ITSC)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210920_masaki",
+    "sources": [
+      "https://mprg.jp/publications/c20210920_masaki",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "ITSC"
+  },
+  {
+    "id": "c20211123-satake",
+    "title": "Performance Prediction and Importance Analysis Using Transformer",
+    "authors": [
+      "Akiyoshi Satake",
+      "Hironobu Fujiyoshi",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Atsushi Shimada"
+    ],
+    "venue": "International Conference on Computers in Education (ICCE), Vol. II, pp. 537–542",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://library.apsce.net/index.php/ICCE/article/view/4289",
+    "sources": [
+      "https://mprg.jp/publications/c20211123_satake",
+      "https://mprg.jp/publications?y=2021",
+      "https://library.apsce.net/index.php/ICCE/article/download/4289/4164/5252",
+      "https://kyushu-u.elsevierpure.com/en/publications/performance-prediction-and-importance-analysis-using-transformer/"
+    ],
+    "category": "learning",
+    "venue_short": "ICCE"
+  },
+  {
+    "id": "b20210416-hirakawa",
+    "title": "Predicting and Attending to Damaging Collisions for Placing Everyday Objects in Photo-Realistic Simulations",
+    "authors": [
+      "Aly Magassouba",
+      "Komei Sugiura",
+      "Angelica Nakayama",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Hisashi Kawai"
+    ],
+    "venue": "Advanced Robotics, 35(12), pp. 787–799",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20210416_hirakawa",
+    "sources": [
+      "https://mprg.jp/publications/b20210416_hirakawa",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "Advanced Robotics"
+  },
+  {
+    "id": "c20210725-miyata",
+    "title": "Relational Subgraph for Graph-based Path Prediction",
+    "authors": [
+      "Masaki Miyata",
+      "Katsutoshi Shiraki",
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "International Conference on Machine Vision Applications (MVA)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210725_miyata",
+    "sources": [
+      "https://mprg.jp/publications/c20210725_miyata",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "driving",
+    "venue_short": "MVA"
+  },
+  {
+    "id": "c20210920-tsutsui",
+    "title": "Semantic Segmentation And Change Detection By Multi-Task U-Net",
+    "authors": [
+      "Shungo Tsutsui",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "IEEE International Conference on Image Processing (ICIP)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210920_tsutsui",
+    "sources": [
+      "https://mprg.jp/publications/c20210920_tsutsui",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "vision",
+    "venue_short": "ICIP"
+  },
+  {
+    "id": "c20211110-fujii",
+    "title": "Super-class Mixup for Adjusting Training Data",
+    "authors": [
+      "Shungo Fujii",
+      "Naoki Okamoto",
+      "Toshiki Seo",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "Asian Conference on Pattern Recognition (ACPR)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20211110_fujii",
+    "sources": [
+      "https://mprg.jp/publications/c20211110_fujii",
+      "https://mprg.jp/publications?y=2021"
+    ],
+    "category": "learning",
+    "venue_short": "ACPR"
+  },
+  {
+    "id": "c20210720-itaya",
+    "title": "Visual Explanation using Attention Mechanism in Actor-Critic-based Deep Reinforcement Learning",
+    "authors": [
+      "Hidenori Itaya",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Komei Sugiura"
+    ],
+    "venue": "International Joint Conference on Neural Networks (IJCNN)",
+    "year": 2021,
+    "type": "conference",
+    "url": "https://mprg.jp/publications/c20210720_itaya",
+    "sources": [
+      "https://mprg.jp/publications/c20210720_itaya",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "learning",
+    "venue_short": "IJCNN"
+  },
+  {
+    "id": "b20210525-fujiyoshi",
+    "title": "アテンションマップによる深層学習モデルの判断根拠の可視化",
+    "authors": [
+      "藤吉弘亘",
+      "山下隆義",
+      "平川翼"
+    ],
+    "venue": "Medical Imaging Technology, 39(3), pp. 110–116",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://mprg.jp/publications/b20210525_fujiyoshi",
+    "sources": [
+      "https://mprg.jp/publications/b20210525_fujiyoshi",
+      "https://mprg.jp/publications/?y=2021&page=2"
+    ],
+    "category": "vision",
+    "venue_short": "Medical Imaging Technology"
+  },
+  {
+    "id": "okamoto2021-weld-pool-recognition",
+    "title": "ディープラーニングを用いた溶融池認識技術の開発：ロボットによる下向マグ裏波溶接の安定化",
+    "authors": [
+      "岡本陽",
+      "尾﨑圭太",
+      "芦田強",
+      "飛田正俊",
+      "山下隆義"
+    ],
+    "venue": "溶接技術, 69(2), pp. 48–53",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://researchmap.jp/ytakayosi",
+    "sources": [
+      "https://researchmap.jp/ytakayosi",
+      "https://research-db.chubu.ac.jp/chbhp/KgApp/k05/resid/S002210/868?lang=ja",
+      "https://www.kobelco.co.jp/r-d/technology-review/pdf/74_2/103-107.pdf"
+    ],
+    "category": "vision",
+    "venue_short": "溶接技術"
+  },
+  {
+    "id": "nishiyuki2021-driver-action",
+    "title": "ドライバ姿勢と動作のマルチタスク学習による高速かつ高精度なドライバ動作認識",
+    "authors": [
+      "西行健太",
+      "日向匡史",
+      "田崎博",
+      "木下航一",
+      "長谷川友紀",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "人工知能学会論文誌, 36(2), A-K93_1–10",
+    "year": 2021,
+    "type": "journal",
+    "url": "https://www.jstage.jst.go.jp/article/tjsai/36/2/36_36-2_A-K93/_article/-char/ja/",
+    "sources": [
+      "https://www.jstage.jst.go.jp/article/tjsai/36/2/36_36-2_A-K93/_article/-char/ja/",
+      "https://doi.org/10.1527/tjsai.36-2_A-K93"
+    ],
+    "category": "driving",
+    "venue_short": "人工知能学会論文誌"
+  },
+  {
+    "id": "attention-branch-network",
+    "title": "Attention Branch Network: Learning of Attention Mechanism for Visual Explanation",
+    "authors": [
+      "Hiroshi Fukui",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "CVPR",
+    "year": 2019,
+    "category": "vision",
+    "url": "https://openaccess.thecvf.com/content_CVPR_2019/html/Fukui_Attention_Branch_Network_Learning_of_Attention_Mechanism_for_Visual_Explanation_CVPR_2019_paper.html",
+    "code": "https://github.com/machine-perception-robotics-group/attention_branch_network",
+    "summary_ja": "判断根拠を示す注意マップを生成し、その情報を認識にも利用する分岐構造を提案。画像認識の精度と説明のわかりやすさを両立する。",
+    "summary_en": "Adds an attention branch that generates visual explanations and uses the resulting attention maps to improve image recognition within a jointly trained network.",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2019/html/Fukui_Attention_Branch_Network_Learning_of_Attention_Mechanism_for_Visual_Explanation_CVPR_2019_paper.html",
+      "https://arxiv.org/abs/1812.10025",
+      "https://github.com/machine-perception-robotics-group/attention_branch_network"
+    ],
+    "type": "conference",
+    "featured": 12
+  }
+]
