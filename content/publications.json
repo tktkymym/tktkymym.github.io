@@ -308,7 +308,8 @@
       "https://mva-org.jp/mva2025/",
       "https://www.ieice.org/publications/proceedings/summary.php?expandable=13&iconf=MVA&number=P1-2&session_num=P1&year=2025"
     ],
-    "category": "vision"
+    "category": "vision",
+    "award": "MVA 2025 Best Poster Award"
   },
   {
     "id": "crnli",
@@ -2375,7 +2376,8 @@
     "sources": [
       "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
     ],
-    "category": "vision"
+    "category": "vision",
+    "award": "MIRU2020 長尾賞"
   },
   {
     "id": "miru2020-os1-3a-3",
@@ -5209,7 +5211,8 @@
     "sources": [
       "https://mprg.jp/publications/f20200902_tsukahara"
     ],
-    "category": "learning"
+    "category": "learning",
+    "award": "PRMU月間ベストプレゼンテーション賞"
   },
   {
     "id": "f20200902-moriy",
@@ -5301,7 +5304,8 @@
     "sources": [
       "https://mprg.jp/publications/f20200610_itaya"
     ],
-    "category": "robotics"
+    "category": "robotics",
+    "award": "JSAI2020 学生奨励賞"
   },
   {
     "id": "f20200610-sakashita",
@@ -5319,7 +5323,8 @@
     "sources": [
       "https://mprg.jp/publications/f20200610_sakashita"
     ],
-    "category": "vision"
+    "category": "vision",
+    "award": "画像センシング技術研究会 2020年度 優秀学術賞（SSII）"
   },
   {
     "id": "f20200610-suzuki",

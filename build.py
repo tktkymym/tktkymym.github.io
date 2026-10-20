@@ -216,6 +216,8 @@ def main_page(lang):
     career_records = "".join("<li>" + e(x) + "</li>" for x in RECORDS["career"])
     awards_records = "".join("<li>" + e(x) + "</li>" for x in reversed(RECORDS["awards"]))
     awards = [
+        ("2025", "MVA 2025 Best Poster Award", "MVA 2025 Best Poster Award"),
+        ("2021", "SSII 優秀学術賞", "SSII Excellent Academic Paper Award"),
         ("2020", "電子情報通信学会 論文賞", "IEICE Best Paper Award"),
         ("2019 · 2020", "MIRU 長尾賞", "MIRU Nagao Award"),
         ("2019", "MIRU フロンティア賞", "MIRU Frontier Award"),
