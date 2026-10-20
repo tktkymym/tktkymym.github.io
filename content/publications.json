@@ -109,7 +109,7 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-3-032-29755-6_2"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "frequency-domain-ai-image-detection",
@@ -168,7 +168,7 @@
       "https://educationaldatamining.org/edm2026/proceedings/2026.EDM.poster-demo-papers.410/index.html",
       "https://mprg.jp/en/publications/c20260702_yasuda"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "EDM"
   },
   {
@@ -384,7 +384,7 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-3-031-98465-5_38"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "grade-learning-log-relationship",
@@ -403,7 +403,7 @@
       "https://library.apsce.net/index.php/ICLEA/article/view/5540",
       "https://mprg.jp/en/publications/c20250906_yamamoto"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "grade-fasttext-differential-pattern",
@@ -422,7 +422,7 @@
       "https://mprg.jp/en/publications/c20250303_tachi",
       "https://www.solaresearch.org/wp-content/uploads/2025/02/LAK25-CompanionProceedings.pdf"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "ig-odam",
@@ -504,7 +504,7 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-981-96-8186-0_24"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "action-query-transformer",
@@ -683,7 +683,7 @@
       "https://doi.org/10.1109/ACCESS.2024.3429554",
       "https://kyushu-u.elsevierpure.com/en/publications/attention-based-artificial-neural-network-for-student-performance/"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "auxiliary-selection",
@@ -848,7 +848,7 @@
       "https://doi.org/10.5281/zenodo.12729979",
       "https://mprg.jp/en/publications/c20240714_koike"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "EDM"
   },
   {
@@ -957,7 +957,7 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-981-97-5498-4_5"
     ],
-    "category": "learning"
+    "category": "education"
   },
   {
     "id": "mask-attention-a3c",
@@ -1298,7 +1298,7 @@
       "https://link.springer.com/chapter/10.1007/978-3-031-36336-8_68",
       "https://arxiv.org/abs/2306.02257"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "AIED"
   },
   {
@@ -1367,7 +1367,7 @@
       "https://library.apsce.net/index.php/ICCE/article/view/946",
       "https://doi.org/10.58459/icce.2023.946"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "ICCE"
   },
   {
@@ -1720,7 +1720,7 @@
       "https://doi.org/10.1109/TALE54877.2022.00059",
       "https://kyushu-u.elsevierpure.com/en/publications/scaled-dot-product-attention-for-early-detection-of-at-risk-stude/"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "TALE"
   },
   {
@@ -2141,7 +2141,7 @@
       "https://library.apsce.net/index.php/ICCE/article/download/4289/4164/5252",
       "https://kyushu-u.elsevierpure.com/en/publications/performance-prediction-and-importance-analysis-using-transformer/"
     ],
-    "category": "learning",
+    "category": "education",
     "venue_short": "ICCE"
   },
   {

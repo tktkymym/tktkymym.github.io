@@ -76,6 +76,11 @@ def icon(kind):
         <path d="M8 105h25V77H8zM14 73h12M211 78h25v28h-25zM218 68h12" stroke="#9bb4c8"/>
         <circle cx="205" cy="36" r="10" fill="#d2e4f2"/><path d="M205 46v17" stroke="#95b1c9"/>
         <path d="M142 48v-9m0 0-4 5m4-5 4 5" stroke="#326b93" stroke-width="1.5"/>'''
+    elif kind == "education":
+        shape = '''<path d="M12 108h226M12 108V20M12 20h0" stroke="#bbcede"/>
+        <path d="M22 92 62 70 102 78 142 44 182 52 228 24" stroke="#326b93" stroke-width="2.5" stroke-linejoin="round"/>
+        <g fill="#dceaf4" stroke="#a7c3d8"><rect x="34" y="82" width="16" height="26"/><rect x="74" y="64" width="16" height="44"/><rect x="114" y="70" width="16" height="38"/><rect x="154" y="46" width="16" height="62"/><rect x="194" y="38" width="16" height="70"/></g>
+        <g fill="#326b93"><circle cx="62" cy="70" r="5"/><circle cx="102" cy="78" r="5"/><circle cx="142" cy="44" r="5"/><circle cx="182" cy="52" r="5"/><circle cx="228" cy="24" r="5"/></g>'''
     elif kind == "learning":
         edges = ""
         for a in (28, 62, 96):
@@ -146,7 +151,8 @@ def section_title(num, label, title):
 def filter_bar(lang):
     labels = {"all": "All" if lang == "en" else "すべて", "vision": "Vision" if lang == "en" else "画像認識",
               "driving": "Driving" if lang == "en" else "自動運転", "learning": "Learning" if lang == "en" else "機械学習",
-              "biology": "Biology" if lang == "en" else "生命科学"}
+              "biology": "Biology" if lang == "en" else "生命科学",
+              "education": "Learning Analytics" if lang == "en" else "ラーニングアナリティクス"}
     return '<div class="filter-bar" role="group" aria-label="' + ("Research field" if lang == "en" else "論文の研究分野") + '">' + "".join(
         f'<button class="filter-chip" type="button" data-filter="{k}" aria-pressed="{"true" if k=="all" else "false"}">{v}</button>' for k,v in labels.items()) + '</div>'
 
@@ -180,7 +186,7 @@ def main_page(lang):
     description = ("I study computer vision and machine learning at MPRG, Chubu University. From autonomous driving to single-cell biology, my research connects learning algorithms with the challenges of the real world."
                    if en else "画像認識と機械学習を通じて、人と世界を理解するAIを研究しています。自動運転から生命科学まで、実世界の課題と学習アルゴリズムをつなぎます。")
     research = [
-        ("vision", "画像認識・理解", "Computer vision", "物体検出、動画像理解、視覚的な説明。画像から何が起きているかを捉え、AIの判断を人が理解できるようにします。", "Object detection, video understanding, and visual explanations: recognizing what is happening and making AI decisions understandable.", "Object detection · Vision Transformer"),
+        ("education", "教育支援・ラーニングアナリティクス", "Learning analytics", "学習ログや振り返りの分析から、学習状況の把握・成績予測・早期の支援につなげます。教育データを活かして、学び手と教員を支える技術に取り組みます。", "Analyzing learning logs and student reflections to understand learning progress, predict performance, and support learners early.", "Learning analytics · Educational data mining"),
         ("driving", "自動運転・環境理解", "Autonomous driving", "道路シーンの認識とリスク評価、3次元シーンの再構成。安全な自動運転を支える知覚・評価技術に取り組みます。", "Road-scene perception, risk assessment, and 3D reconstruction for safer autonomous systems and realistic simulation.", "Scene understanding · 3D reconstruction"),
         ("learning", "機械学習の効率化・適応", "Efficient & adaptive learning", "モデルの軽量化と継続学習。限られた計算資源を生かし、変化するデータから学び続ける仕組みを探究します。", "Model compression and continual learning: using limited computing resources effectively and learning from changing data.", "Model compression · Continual learning"),
         ("biology", "生命科学・遺伝子発現", "AI for biology", "単一細胞の遺伝子発現から細胞の状態を学習。Mouse-Geneformerを通じ、細胞種分類とin silico摂動解析に取り組みます。", "Learning from single-cell gene expression. Mouse-Geneformer supports cell-type classification, in silico perturbation analysis, and cross-species research.", "Single-cell analysis · Geneformer"),
