@@ -169,7 +169,7 @@ def render_paper(p, lang, archive=False):
     summary_html = '<p class="paper-summary">' + e(summary) + '</p>' if summary else ""
     award = '<p class="paper-award">' + e(p["award"]) + '</p>' if p.get("award") else ""
     paper_type = p.get("type", "conference")
-    type_names = {"journal": ("雑誌論文", "Journal article"), "conference": ("国際会議", "Conference paper"), "workshop": ("ワークショップ", "Workshop paper")}
+    type_names = {"journal": ("雑誌論文", "Journal article"), "conference": ("国際会議", "Conference paper"), "workshop": ("ワークショップ", "Workshop paper"), "domestic": ("国内学会", "Domestic conference"), "meeting": ("研究会", "Technical meeting")}
     type_label = type_names[paper_type][1 if lang == "en" else 0]
     heading = "h4" if archive else "h3"
     return f'''<article class="paper" id="{e(p["id"])}" data-category="{e(p["category"])}" data-year="{p["year"]}" data-type="{e(paper_type)}">
@@ -278,12 +278,12 @@ def archive_page(lang):
         rows = "".join(render_paper(p,lang,True) for p in year_papers)
         paper_html += f'<section class="publication-year" data-year="{year}" aria-labelledby="pub-year-{year}"><div class="year-heading"><h3 id="pub-year-{year}">{year}</h3><p><span class="year-count">{len(year_papers)}</span>{" papers" if en else "件"}</p></div><div class="paper-list">{rows}</div></section>'
     year_options = '<option value="all">' + ("All years" if en else "すべての年") + '</option>' + "".join(f'<option value="{year}">{year}</option>' for year in years)
-    type_options = [("all", "すべての種別", "All types"), ("journal", "雑誌論文・解説", "Journal & review articles"), ("conference", "国際会議", "Conference papers"), ("workshop", "ワークショップ", "Workshop papers")]
+    type_options = [("all", "すべての種別", "All types"), ("journal", "雑誌論文・解説", "Journal & review articles"), ("conference", "国際会議", "Conference papers"), ("workshop", "ワークショップ", "Workshop papers"), ("domestic", "国内学会", "Domestic conferences"), ("meeting", "研究会", "Technical meetings")]
     types_html = "".join(f'<option value="{key}">{english if en else japanese}</option>' for key,japanese,english in type_options)
     stats = type_options[1:]
     stats_html = "".join(f'<div><strong>{sum(p.get("type")==key for p in PAPERS)}</strong><span>{english if en else japanese}</span></div>' for key,japanese,english in stats)
-    description = ("Journal and review articles, international conference papers, and workshop papers, with expanded coverage of 2021–2026. Earlier publications, presentations, books, and patents are collected in the historical record below."
-                   if en else "2021〜2026年を中心に、雑誌論文・解説・国際会議・ワークショップの業績を掲載しています。これまでの論文・国内発表・書籍・特許は、下部の「過去の業績」にまとめています。")
+    description = ("Journal and review articles, international conference papers, workshop papers, and domestic conference and technical-meeting presentations from 2020–2026. Earlier publications, presentations, books, and patents are collected in the historical record below."
+                   if en else "2020〜2026年の雑誌論文・解説・国際会議・ワークショップ・国内学会・研究会の業績を掲載しています。2019年以前の論文・国内発表・書籍・特許は、下部の「過去の業績」にまとめています。")
     return f'''<main id="main"><section class="container archive-hero"><p class="eyebrow">TAKAYOSHI YAMASHITA / RESEARCH</p><h1>{"Publications & archive" if en else "研究業績"}</h1><p>{description}</p><div class="publication-stats"><div class="stat-total"><strong>{len(PAPERS)}</strong><span>{"Papers" if en else "掲載論文"}</span></div>{stats_html}</div><div class="archive-external">{external(LINKS["scholar"],"Google Scholar ↗")}{external(LINKS["dblp"],"DBLP ↗")}{external(LINKS["profile"],"University profile ↗" if en else "大学教員情報 ↗")}</div></section>
     <div class="search-panel"><div class="container"><div class="search-box"><label for="publication-search">{"Search" if en else "業績検索"}</label><input type="search" id="publication-search" placeholder="{"Title, author, venue, or year" if en else "論文名・著者・会議名・年で検索"}" autocomplete="off"><button type="button" id="reset-search">{"Reset" if en else "リセット"}</button></div><p id="search-status" class="search-status" role="status">{f"{len(PAPERS)} papers · {len(ARCHIVE)} historical records" if en else f"論文 {len(PAPERS)}件 ・ 過去の業績 {len(ARCHIVE)}件"}</p></div></div>
     <div class="container archive-main"><noscript><p class="no-js-note">{"All records are available below. Enable JavaScript to search and filter." if en else "すべての業績は下に掲載しています。検索・絞り込みにはJavaScriptを有効にしてください。"}</p></noscript><h2>{"Papers by year" if en else "論文一覧"}</h2><p class="subheading">{"Browse papers by year, publication type, and research field. Titles link to the published papers." if en else "発表年・論文種別・研究分野で絞り込めます。各タイトルから論文ページへ移動できます。"}</p>

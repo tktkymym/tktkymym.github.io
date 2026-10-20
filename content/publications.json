@@ -2339,5 +2339,3025 @@
     ],
     "type": "conference",
     "featured": 12
+  },
+  {
+    "id": "miru2020-os1-1b-1",
+    "title": "Spatial Temporal Attention Graphによる関節の重要度と関係性を考慮した動作認識",
+    "authors": [
+      "白木克俊",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2020-os1-3a-3",
+    "title": "Deep Q-Networkによるロボットの自律移動におけるAttention branchによる判断根拠の獲得",
+    "authors": [
+      "丸山祐矢",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2020-os2-2b-5",
+    "title": "画像生成ネットワークの逆伝播に基づく繰り返し処理による物体の6D姿勢推定",
+    "authors": [
+      "荒木諒介",
+      "大西剛史",
+      "平野正徳",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2020-os2-3a-1",
+    "title": "知識転移グラフによるアンサンブル学習",
+    "authors": [
+      "岡本直樹",
+      "南蒼馬",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2020-is1-1-2",
+    "title": "衝突インタラクションを考慮した経路予測における評価指標の提案",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2020-is1-1-15",
+    "title": "レンズレスマルチピンホールカメラからの行動識別",
+    "authors": [
+      "佐藤智",
+      "チャンシンヂォゥ",
+      "ポンサクラサン",
+      "石井育規",
+      "藤村亮太",
+      "山下隆義"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2020-is1-2-11",
+    "title": "Echo State Networkにおける機能分化の誘発",
+    "authors": [
+      "夏目知浩",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "山口裕",
+      "渡部大志",
+      "津田一郎"
+    ],
+    "venue": "MIRU2020（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2020",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0",
+    "sources": [
+      "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2021-s2-4",
+    "title": "Spatio-Temporal Attention Branch Networkによる時空間情報を考慮した視覚的説明",
+    "authors": [
+      "三津原将弘",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2021-i11-04",
+    "title": "CutDepth:エッジ特徴を意識したデプス貼り付けによるデータ拡張",
+    "authors": [
+      "石井育規",
+      "山下隆義"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2021-i12-04",
+    "title": "精度と頑健性のトレードオフ緩和を目的とした敵対学習",
+    "authors": [
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "石井育規",
+      "石坂隼",
+      "小塚和紀"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2021-i21-01",
+    "title": "Attention mining branchを導入したABNによるアテンションマップの最適化",
+    "authors": [
+      "岩吉孝明",
+      "三津原将弘",
+      "高田雅之",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2021-i21-06",
+    "title": "異なる画角画像の混合学習と特徴量補完 ～空撮画像は地上画像で補完できるのか？～",
+    "authors": [
+      "高橋悠太",
+      "藤井純一郎",
+      "天方匡純",
+      "山下隆義"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2021-i21-12",
+    "title": "Channel Attentionの識別性を利用した特徴集約によるSemantic Segmentationの改善",
+    "authors": [
+      "長内淳樹",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2021-i21-16",
+    "title": "スーパークラスを考慮したmixup",
+    "authors": [
+      "藤井駿伍",
+      "岡本直樹",
+      "瀬尾俊貴",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2021-i21-33",
+    "title": "関係性部分グラフを用いたGraph Convolutional Networkによる経路予測",
+    "authors": [
+      "宮田昌樹",
+      "白木克俊",
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2021-i22-32",
+    "title": "Action Spotting in Soccer Videos via Transformer with Past and Future Encoders",
+    "authors": [
+      "Yuzhi Shi",
+      "Hiroaki Minoura",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2021-l5-2",
+    "title": "詳細画像識別における知識転移グラフによるアンサンブル学習",
+    "authors": [
+      "岡本直樹",
+      "南蒼馬",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2021-s5-1",
+    "title": "Group-based Forecasting Moduleによる歩行者の社会的相互作用を考慮したマルチモーダルな軌跡予測",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "菅野裕介",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2021（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2021",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2021/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2021/program/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2022-ol1a-4",
+    "title": "Ultrasound-based Human Segmentation using Collaborative Learning Probabilistic U-Net",
+    "authors": [
+      "Risako Tanigawa",
+      "Yasunori Ishii",
+      "Kazuki Kozuka",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2022-ol2a-4",
+    "title": "クラス間距離を考慮した混合クラスの選択によるデータ拡張",
+    "authors": [
+      "藤井駿伍",
+      "小塚和紀",
+      "石井育規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2022-is1-20",
+    "title": "Recurrent Neural Network における移動エントロピーを用いた枝刈り",
+    "authors": [
+      "小濱大和",
+      "茅壁稜真",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2022-is1-24",
+    "title": "ViTの派生手法はどのような特徴表現を獲得しているか",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2022-is1-51",
+    "title": "特徴マップの幾何変換前後に着目した敵対サンプルの検出",
+    "authors": [
+      "土松千紗",
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2022-os2a-8",
+    "title": "Efficient Action spotting Based on Cosine Similarity to Focus on Keyframes",
+    "authors": [
+      "Yuzhi Shi",
+      "Takayoshi Yamashita",
+      "Tsubasa Hirakawa",
+      "Hironobu Fujiyoshi",
+      "Mitsuru Nakazawa",
+      "Yeongnam Chae",
+      "Bjorn Stenger"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2022-os3a-2",
+    "title": "Wavelet Transformer: Exploit Interpretable Attentions by Splitting Input Data into Human-Explainable Information",
+    "authors": [
+      "Takanori Ogata",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2022-is3-37",
+    "title": "Vision Transformerの相互学習による高精度化",
+    "authors": [
+      "鈴木渉起",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2022-is3-41",
+    "title": "Frame Shuffle: 時系列情報のシャッフルによる長期行動認識のためのデータ拡張",
+    "authors": [
+      "石坂隼",
+      "石井育規",
+      "Ehsan Adeli",
+      "山下隆義",
+      "小塚和紀"
+    ],
+    "venue": "MIRU2022（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2022",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://sites.google.com/view/miru2022/program",
+    "sources": [
+      "https://sites.google.com/view/miru2022/program"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-os1b-l1",
+    "title": "知識転移グラフによる最適な半教師あり共同学習の探索",
+    "authors": [
+      "村本佳隆",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-os2b-s8",
+    "title": "異常検知のためのSQ-VAEコードブックへのアプローチ",
+    "authors": [
+      "都築幸乃",
+      "吉田龍人",
+      "大久保順一",
+      "藤井純一郎",
+      "山下隆義"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-is1-21",
+    "title": "正規直交行列によるクラス内の多峰性を考慮したクラス分類",
+    "authors": [
+      "後藤潤平",
+      "中田洋平",
+      "安倍清史",
+      "石井育規",
+      "山下隆義"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2023-is1-29",
+    "title": "CNNとViTを組み合わせたモデルのノイズへの頑健性",
+    "authors": [
+      "若山浩之",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-is1-47",
+    "title": "画像分類タスクにおける損失関数と注視領域の傾向調査",
+    "authors": [
+      "伊藤天詞",
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2023-os3a-l5",
+    "title": "事前学習を考慮したシングルショット非構造枝刈り手法の提案",
+    "authors": [
+      "小濱大和",
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-is2-22",
+    "title": "Attention Branch Transformer：Top-down Attention機構を用いた頑健なViTの提案",
+    "authors": [
+      "鈴木雅司",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2023-is2-41",
+    "title": "特徴量の類似性に基づく混合クラスの選択を導入したデータ拡張",
+    "authors": [
+      "藤井駿伍",
+      "足立浩規",
+      "小塚和紀",
+      "石井育規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-os6b-s3",
+    "title": "Adversarial mixup: 敵対的な混合比を用いたmixupによるデータ拡張",
+    "authors": [
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-os6b-s4",
+    "title": "Binary-decomposed Vision Transformer：二値分解によるViTモデルの圧縮と推論の高速化",
+    "authors": [
+      "近藤良太",
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-is3-31",
+    "title": "SimSiamにおけるデータ拡張の効果とmixupの導入による向上",
+    "authors": [
+      "岩垣渚",
+      "岡本直樹",
+      "藤井駿伍",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2023-is3-37",
+    "title": "ドメイン間の物体領域合成による少量データ向けドメイン適応",
+    "authors": [
+      "中村譲",
+      "石井育規",
+      "丸山悠樹",
+      "山下隆義"
+    ],
+    "venue": "MIRU2023（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2023",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2023/program/",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2023/program/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-os-1b-01",
+    "title": "視覚言語モデルの特徴空間分析に基づく極少数サンプルによるプロンプトラーニング",
+    "authors": [
+      "広橋佑紀",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-is-1-063",
+    "title": "変分情報ボトルネックを導入したマルチラベル画像分類",
+    "authors": [
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2024-is-1-066",
+    "title": "Long-Tailed物体認識における最適な損失関数の組み合わせ調査",
+    "authors": [
+      "亀井靖人",
+      "伊藤天詞",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2024-is-1-096",
+    "title": "Attention weightの操作による注目領域に着目したグラフ図のキャプション生成",
+    "authors": [
+      "増田大河",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "足立浩規",
+      "田中翔平",
+      "齋藤邦章",
+      "牛久祥孝"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2024-os-2a-04",
+    "title": "事前学習モデルの特徴表現を維持したSingle-shot Foresight Pruning",
+    "authors": [
+      "新田常顧",
+      "小濱大和",
+      "伊藤天詞",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-os-2b-02",
+    "title": "物体特徴を捉えるためのFDSLとCGを組合せた事前学習",
+    "authors": [
+      "鈴木共生",
+      "前野一樹",
+      "橋本潔",
+      "石井育規",
+      "山下隆義"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-os-2c-05",
+    "title": "Reactive BiasのチューニングによるViTへの人の知見の組み込み",
+    "authors": [
+      "鈴木雅司",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "杉浦孔明"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2024-is-2-043",
+    "title": "Action Q-Transformerによる説明可能な強化学習",
+    "authors": [
+      "板谷英典",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "杉浦孔明"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-is-2-047",
+    "title": "周波数別再構成による注意機構の学習",
+    "authors": [
+      "佐野景介",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "小嶋信矢"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2024-is-2-062",
+    "title": "複数の点群データセットを用いたSelf-trainingによる3D物体検出の教師なしドメイン適応",
+    "authors": [
+      "小山渚",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2024-is-2-069",
+    "title": "多様性と学習不足を考慮したデータ選択による自己教師あり継続学習",
+    "authors": [
+      "林尚斗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "石井育規",
+      "加藤祐介",
+      "小塚和紀"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-is-2-078",
+    "title": "Wavelet Components Transformer",
+    "authors": [
+      "福井雅弥",
+      "緒方貴紀",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-is-2-162",
+    "title": "Ensemble PatchCoreとSQ-VAEによる多段階異常検知",
+    "authors": [
+      "都築幸乃",
+      "吉田龍人",
+      "大久保順一",
+      "藤井純一郎",
+      "岡野将大",
+      "緒方陸",
+      "山下隆義"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2024-is-3-059",
+    "title": "Contrastive Lossを導入したEMP-SSLによる自己教師ありオンライン継続学習",
+    "authors": [
+      "今井孝洋",
+      "林尚斗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2024（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2024",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2024/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2024/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-os1a-06",
+    "title": "ゼロショット異常検知のための学習可能ベクトルと階層構造への適応によるファインチューニング",
+    "authors": [
+      "七海友康",
+      "都築幸乃",
+      "吉田龍人",
+      "大久保順一",
+      "藤井純一郎",
+      "山下隆義"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-os1c-08",
+    "title": "Few-shot Adaptive Open-set Object Detection by Leveraging Vision-Language Models",
+    "authors": [
+      "Yuzuru Nakamura",
+      "Yasunori Ishii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2025-is1-069",
+    "title": "最適輸送コストを用いたモデルマージによるアンサンブル知識蒸留",
+    "authors": [
+      "藤吉零",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-is1-073",
+    "title": "多様性と学習不足を考慮したデータ選択と学習戦略に基づく自己教師あり継続学習",
+    "authors": [
+      "今井孝洋",
+      "林尚斗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "石井育規",
+      "加藤祐介",
+      "小塚和紀"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-os2a-08",
+    "title": "自律走行システムのためのオントロジー駆動のリスク評価と安全性向上施策",
+    "authors": [
+      "下村晃太",
+      "石川敦也",
+      "三村崚太",
+      "川渕貴之",
+      "山下隆義",
+      "藤吉弘亘",
+      "井上顧基"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2025-is2-039",
+    "title": "点群からの3D物体検出における特定クラスの精度低下を抑制する枝刈り",
+    "authors": [
+      "伊藤天詞",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2025-os3a-03",
+    "title": "画像特徴量の凝集性に着目した視覚言語モデルのアクティブプロンプトラーニング",
+    "authors": [
+      "広橋佑紀",
+      "山下隆義",
+      "平川翼",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-os3a-10",
+    "title": "事前学習済みモデルの知識維持と下流タスク適応を両立したSingle-shot Foresight Pruning",
+    "authors": [
+      "新田常顧",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-is3-053",
+    "title": "TikZAgent: LLMsによる科学ベクター図の自動生成",
+    "authors": [
+      "増田大河",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "田中翔平",
+      "齋藤邦章",
+      "牛久祥孝"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-is3-078",
+    "title": "CLIPにおけるモーダル間の知識蒸留による構造化枝刈り",
+    "authors": [
+      "西川実希",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-is3-097",
+    "title": "最適輸送を用いたAttentionヘッドの知識蒸留",
+    "authors": [
+      "岩野颯",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2025-is3-156",
+    "title": "点群データセット間の分布の補正に基づく3D物体検出の教師なしドメイン適応",
+    "authors": [
+      "小山渚",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2025（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2025",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://cvim.ipsj.or.jp/MIRU2025/timetable.html",
+    "sources": [
+      "https://cvim.ipsj.or.jp/MIRU2025/timetable.html"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2026-os1e-05",
+    "title": "YUKUIv2: Key-point-guided Diffusion Planner for Multi-shot Autonomous Parking",
+    "authors": [
+      "Jishu Miao",
+      "Tsubasa Hirakawa",
+      "Takayoshi Yamashita",
+      "Hironobu Fujiyoshi",
+      "Han Chen"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2026-os1e-06",
+    "title": "SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection",
+    "authors": [
+      "Tomoyasu Nanaumi",
+      "Yukino Tsuzuki",
+      "Junichi Okubo",
+      "Junichiro Fujii",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2026-is1-067",
+    "title": "双曲空間に基づく局所領域に注目したVLMの概念包含学習",
+    "authors": [
+      "井上貴斗",
+      "佐野景介",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2026-os2b-04",
+    "title": "事故統計に基づく優先度付き道路インフラ改善案推定ベンチマークの構築",
+    "authors": [
+      "下村晃太",
+      "井上顧基",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "miru2026-os2e-04",
+    "title": "文字様画像による通常画像不要なCLIPのクラス更新",
+    "authors": [
+      "広橋佑紀",
+      "山下隆義",
+      "平川翼",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "miru2026-os2f-09",
+    "title": "特徴表現を維持するViTのハイブリッド枝刈り：トークン枝刈りと構造化枝刈りの逐次交互最適化",
+    "authors": [
+      "篠田昂希",
+      "藤吉零",
+      "西川実希",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2026-is3-063",
+    "title": "SVD 初期化を用いた Progressive LoRA 蒸留",
+    "authors": [
+      "熊澤綱佑",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2026-is3-074",
+    "title": "べき乗変換と符号一貫性評価に基づく枝刈りスコア集約によるAFR構造化枝刈り",
+    "authors": [
+      "小林亮太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "石井育規",
+      "奥野智行",
+      "小塚和紀"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2026-is3-078",
+    "title": "Loss Landscape-Guided Pruning with Learning Rate Based Schedules for Time-Efficient Compression",
+    "authors": [
+      "Shin Nishimura",
+      "Hironobu Fujiyoshi",
+      "Takayoshi Yamashita"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "miru2026-is3-102",
+    "title": "複数モデルの勾配統合によるデータセット蒸留の転移性向上",
+    "authors": [
+      "市川翔",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "MIRU2026（画像の認識・理解シンポジウム）",
+    "venue_short": "MIRU2026",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://miru-committee.github.io/miru2026/program/timetable/",
+    "sources": [
+      "https://miru-committee.github.io/miru2026/program/timetable/"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20260826kobayashit",
+    "title": "Construction of Mamba-based Foundation Model for Mouse Single-cell Analysis",
+    "authors": [
+      "小林岳隼",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "2026年日本バイオインフォマティクス学会年会",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20260826kobayashit",
+    "sources": [
+      "https://mprg.jp/publications/f20260826kobayashit"
+    ],
+    "category": "biology"
+  },
+  {
+    "id": "f20260620-yasuda",
+    "title": "学習行動の文脈情報を考慮した教師なし異常行動検知",
+    "authors": [
+      "安田恭大",
+      "山下隆義",
+      "平川翼",
+      "藤吉弘亘"
+    ],
+    "venue": "第49回教育学習支援情報システム（CLE）研究発表会",
+    "year": 2026,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20260620_yasuda",
+    "sources": [
+      "https://mprg.jp/publications/f20260620_yasuda"
+    ],
+    "category": "education"
+  },
+  {
+    "id": "f20260612kawamoto",
+    "title": "時間的整合性を考慮したテキストからの2次元モーション生成",
+    "authors": [
+      "川本寛和",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第32回画像センシングシンポジウム",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20260612kawamoto",
+    "sources": [
+      "https://mprg.jp/publications/f20260612kawamoto"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20260612-okuya",
+    "title": "高密度LiDAR点群と反射強度を用いたセマンティックセグメンテーションによるフレア検出",
+    "authors": [
+      "奥谷俊宏",
+      "下村晃太",
+      "山下隆義",
+      "藤吉弘亘",
+      "平川翼",
+      "別府太郎",
+      "垣内晴也"
+    ],
+    "venue": "第32回画像センシングシンポジウム",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20260612_okuya",
+    "sources": [
+      "https://mprg.jp/publications/f20260612_okuya"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20260611-okochi",
+    "title": "マルチタスク学習による落雷検出のための疑似ラベル生成フレームワーク",
+    "authors": [
+      "大河内那樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "松井拓斗",
+      "山本和男"
+    ],
+    "venue": "第32回画像センシングシンポジウム",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20260611_okochi",
+    "sources": [
+      "https://mprg.jp/publications/f20260611_okochi"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20260610-satoka",
+    "title": "MLLMによるE2E自動運転のための因果分解型運転判断言語説明データセットの構築",
+    "authors": [
+      "佐藤克昭",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第32回画像センシングシンポジウム",
+    "year": 2026,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20260610_satoka",
+    "sources": [
+      "https://mprg.jp/publications/f20260610_satoka"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20260513noday",
+    "title": "スポーツ動作に対応したMTVCrafterのファインチューニング戦略",
+    "authors": [
+      "野田悠太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第246回CVIM研究発表会",
+    "year": 2026,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20260513noday",
+    "sources": [
+      "https://mprg.jp/publications/f20260513noday"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20260513-hazumi",
+    "title": "自己教師あり学習による脳MRI解析基盤モデルの構築と評価",
+    "authors": [
+      "羽澄直弥",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第246回CVIM研究発表会",
+    "year": 2026,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20260513_hazumi",
+    "sources": [
+      "https://mprg.jp/publications/f20260513_hazumi"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20260513-onishi",
+    "title": "自動運転向け道路インフラ改善画像データセットの自動生成パイプラインの提案",
+    "authors": [
+      "大西郁美",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第246回CVIM研究発表会",
+    "year": 2026,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20260513_onishi",
+    "sources": [
+      "https://mprg.jp/publications/f20260513_onishi"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20250919-kobayashi",
+    "title": "非構造的枝刈り手法の構造的手法への変換によるLLMの軽量化",
+    "authors": [
+      "小林亮太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "令和七年度 電気・電子・情報関係学会 東海支部連合大会",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250919_kobayashi",
+    "sources": [
+      "https://mprg.jp/publications/f20250919_kobayashi"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20250918-takamoto",
+    "title": "継続事前学習によるドメイン特化LLM 構築のためのMLM",
+    "authors": [
+      "高本涼馬",
+      "増田大河",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "令和七年度 電気・電子・情報関係学会 東海支部連合大会",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250918_takamoto",
+    "sources": [
+      "https://mprg.jp/publications/f20250918_takamoto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20250903-nishio",
+    "title": "Mix-Geneformer : Unified Representation Learning for Human and Mouse scRNA-seq Data",
+    "authors": [
+      "西尾優希",
+      "山下隆義",
+      "伊藤啓太",
+      "平川翼",
+      "藤吉弘亘"
+    ],
+    "venue": "2025年日本バイオインフォマティクスVer2.0",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250903_nishio",
+    "sources": [
+      "https://mprg.jp/publications/f20250903_nishio"
+    ],
+    "category": "biology"
+  },
+  {
+    "id": "f20250530-nakai",
+    "title": "IG-ODAM: Integrated Gradientsによる物体検出モデルの判断根拠の可視化",
+    "authors": [
+      "仲井悠真",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250530_nakai",
+    "sources": [
+      "https://mprg.jp/publications/f20250530_nakai"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20250528-suzukih",
+    "title": "時空間シーングラフを用いたGraph Attention Networks による案内文生成の高精度化と視覚的説明の実現",
+    "authors": [
+      "鈴木颯斗",
+      "下村晃太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250528_suzukih",
+    "sources": [
+      "https://mprg.jp/publications/f20250528_suzukih"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20250528-ochiai",
+    "title": "プロトタイプ法ProtoPFormerへの人の知見の組み込みによる精度向上",
+    "authors": [
+      "落合祐馬",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250528_ochiai",
+    "sources": [
+      "https://mprg.jp/publications/f20250528_ochiai"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20250305-komatsu",
+    "title": "変分情報ボトルネックを用いた画像分類による視覚的説明性に関する研究",
+    "authors": [
+      "小松翔太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "動的画像処理実利用化ワークショップ",
+    "year": 2025,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20250305_komatsu",
+    "sources": [
+      "https://mprg.jp/publications/f20250305_komatsu"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "c20241205-inoue",
+    "title": "二値分解を用いた物体検出モデルの近似計算による軽量化",
+    "authors": [
+      "井上涼太",
+      "大杉佳史",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/c20241205_inoue",
+    "sources": [
+      "https://mprg.jp/publications/c20241205_inoue"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20241115-koike",
+    "title": "講義に関する自由記述アンケートと成績の関連性調査",
+    "authors": [
+      "小池正基",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第44回教育学習支援情報システム研究発表会",
+    "year": 2024,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20241115_koike",
+    "sources": [
+      "https://mprg.jp/publications/f20241115_koike"
+    ],
+    "category": "education"
+  },
+  {
+    "id": "f20241115-tachi",
+    "title": "差分パターンマイニングによる重みづけを利用したfastText特徴による成績予測",
+    "authors": [
+      "舘良太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第44回教育学習支援情報システム研究発表会",
+    "year": 2024,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20241115_tachi",
+    "sources": [
+      "https://mprg.jp/publications/f20241115_tachi"
+    ],
+    "category": "education"
+  },
+  {
+    "id": "f20241025-nishioyus",
+    "title": "LiDAR・カメラのセンサフュージョンによる物体認識モデルの判断根拠の可視化",
+    "authors": [
+      "西尾友佑",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "自動車技術会秋季大会",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20241025_nishioyus",
+    "sources": [
+      "https://mprg.jp/publications/f20241025_nishioyus"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20241025-suzukiy",
+    "title": "歩行者が交差点に存在するシーンにおける物体検出モデルの精度評価",
+    "authors": [
+      "鈴木陽太郎",
+      "板谷秀典",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "自動車技術会秋季大会",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20241025_suzukiy",
+    "sources": [
+      "https://mprg.jp/publications/f20241025_suzukiy"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20240906-suzukik",
+    "title": "MaskDPによる事前学習のマルチドメイン拡張",
+    "authors": [
+      "鈴木佳三",
+      "板谷英典",
+      "村瀬卓也",
+      "佐々木一磨",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240906_suzukik",
+    "sources": [
+      "https://mprg.jp/publications/f20240906_suzukik"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20240904-noda",
+    "title": "Transformerモデルを用いたスケッチ指示による把持位置推定",
+    "authors": [
+      "野田修平",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240904_noda",
+    "sources": [
+      "https://mprg.jp/publications/f20240904_noda"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20240828-harada",
+    "title": "LLMによる対話を用いた講義動画検索",
+    "authors": [
+      "原田優輝",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "遠藤太一郎"
+    ],
+    "venue": "令和六年度 電気・電子・情報関係学会 東海支部連合大会",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240828_harada",
+    "sources": [
+      "https://mprg.jp/publications/f20240828_harada"
+    ],
+    "category": "education"
+  },
+  {
+    "id": "f20240613-inouer",
+    "title": "Variational AutoEncoderとその拡張手法に基づく異常検知の傾向調査",
+    "authors": [
+      "井上涼太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240613_inouer",
+    "sources": [
+      "https://mprg.jp/publications/f20240613_inouer"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20240612-suzukih",
+    "title": "Human-like Guidanceのための時空間シーングラフによる案内文生成",
+    "authors": [
+      "鈴木颯斗",
+      "下村晃太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "大久保翔太",
+      "南里卓也",
+      "王思源"
+    ],
+    "venue": "第30回画像センシングシンポジウム",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240612_suzukih",
+    "sources": [
+      "https://mprg.jp/publications/f20240612_suzukih"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20240612-nanbata",
+    "title": "Human-like GuidanceのためのMultimodal TranSalNetによる走行方向に合わせた視線情報を用いた顕著性マップ推定",
+    "authors": [
+      "難波田雅己",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "大久保翔太",
+      "南里卓也",
+      "王思源"
+    ],
+    "venue": "第30回画像センシングシンポジウム",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240612_nanbata",
+    "sources": [
+      "https://mprg.jp/publications/f20240612_nanbata"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20240515-ochiai",
+    "title": "人の注目領域を用いたProtoPFormerによる詳細画像識別の精度向上",
+    "authors": [
+      "落合祐馬",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第238回コンピュータビジョンとイメージメディア研究発表会（CVIM238）",
+    "year": 2024,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20240515_ochiai",
+    "sources": [
+      "https://mprg.jp/publications/f20240515_ochiai"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20240515-nakai",
+    "title": "マルチスケールな検出領域を用いた改良型ODAMによる可視化結果の解釈容易性向上",
+    "authors": [
+      "仲井悠真",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "第238回CVIM研究発表会",
+    "year": 2024,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20240515_nakai",
+    "sources": [
+      "https://mprg.jp/publications/f20240515_nakai"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20240304-funai",
+    "title": "SAMのプロンプトチューニングと繰り返し推論による細胞画像セグメンテーションの高精度化",
+    "authors": [
+      "舩井祥吾",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "動的画像処理実用化ワークショップ",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240304_funai",
+    "sources": [
+      "https://mprg.jp/publications/f20240304_funai"
+    ],
+    "category": "biology"
+  },
+  {
+    "id": "f20240229-itok",
+    "title": "マウス版Geneformerの構築と転移学習による細胞解析への応用",
+    "authors": [
+      "伊藤啓太",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "データ工学と情報マネジメントに関するフォーラム（DEIM）",
+    "year": 2024,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20240229_itok",
+    "sources": [
+      "https://mprg.jp/publications/f20240229_itok"
+    ],
+    "category": "biology"
+  },
+  {
+    "id": "f20230125-ohshika",
+    "title": "深層強化学習における状態遷移を考慮した内発的動機付けによる探索の効率化",
+    "authors": [
+      "大鹿海都",
+      "板谷英典",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "電子情報通信学会技術研究報告 パターン認識・メディア理解研究会",
+    "year": 2023,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20230125_ohshika",
+    "sources": [
+      "https://mprg.jp/publications/f20230125_ohshika"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20231207-zhang",
+    "title": "Next-ViTとBiFPNによる車載カメラ映像からのマルチタスクの高精度化",
+    "authors": [
+      "張陳雨",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20231207_zhang",
+    "sources": [
+      "https://mprg.jp/publications/f20231207_zhang"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20231116-hirakawa",
+    "title": "マルチラベル分類ABNを用いたギフチョウ斑紋画像からの食草分類に関する研究",
+    "authors": [
+      "平川翼",
+      "荒井嵩貴",
+      "山下隆義",
+      "藤吉弘亘",
+      "大場裕一",
+      "福井弘道",
+      "矢後勝也"
+    ],
+    "venue": "電子情報通信学会技術研究報告",
+    "year": 2023,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20231116_hirakawa",
+    "sources": [
+      "https://mprg.jp/publications/f20231116_hirakawa"
+    ],
+    "category": "biology"
+  },
+  {
+    "id": "f20230915-nakamurato",
+    "title": "点群データに対するセマンティックセグメンテーションにおけるCGデータによる事前学習の有効性検証",
+    "authors": [
+      "中村智也",
+      "大貫菜々美",
+      "山本真哉",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "土木学会全国大会",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230915_nakamurato",
+    "sources": [
+      "https://mprg.jp/publications/f20230915_nakamurato"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20230913-yin",
+    "title": "Transformerモデルによる自律移動の視覚的説明と拡張現実による提示",
+    "authors": [
+      "尹文韜",
+      "板谷英典",
+      "真野航輔",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230913_yin",
+    "sources": [
+      "https://mprg.jp/publications/f20230913_yin"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20230615-domatsu",
+    "title": "前処理を利用した血管3Dデータに対するセグメンテーションモデルの学習",
+    "authors": [
+      "土松千紗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230615_domatsu",
+    "sources": [
+      "https://mprg.jp/publications/f20230615_domatsu"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20230615-nitta",
+    "title": "アテンションマップを用いたKS検定によるデータのドリフト検知",
+    "authors": [
+      "新田常顧",
+      "史宇植",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230615_nitta",
+    "sources": [
+      "https://mprg.jp/publications/f20230615_nitta"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20230615-nakamurata",
+    "title": "マルチドメインに対応した半教師あり学習によるセマンティックセグメンテーション",
+    "authors": [
+      "中村泰智",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230615_nakamurata",
+    "sources": [
+      "https://mprg.jp/publications/f20230615_nakamurata"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "c20230615-iwayoshi",
+    "title": "Attention Mining Branch を用いたアテンションマップの最適化と高精度化",
+    "authors": [
+      "岩吉孝明",
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/c20230615_iwayoshi",
+    "sources": [
+      "https://mprg.jp/publications/c20230615_iwayoshi"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20230614-noguchi",
+    "title": "動画像認識におけるST-ABNを用いた人の知見の組み込みによる説明性の向上と高精度化",
+    "authors": [
+      "野口紗季",
+      "史宇植",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230614_noguchi",
+    "sources": [
+      "https://mprg.jp/publications/f20230614_noguchi"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20230614-minoura",
+    "title": "Vision Transformer の応用と今後の動向予想",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230614_minoura",
+    "sources": [
+      "https://mprg.jp/publications/f20230614_minoura"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20230614-nambata",
+    "title": "視線情報を埋め込んだテンポラルシーングラフを用いたナビゲーション文章生成によるHuman-like Guidance",
+    "authors": [
+      "難波田雅己",
+      "宮田昌樹",
+      "大久保翔太",
+      "南里卓",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230614_nambata",
+    "sources": [
+      "https://mprg.jp/publications/f20230614_nambata"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "c20230524-itaya",
+    "title": "車載カメラを用いた物体検出における実環境とCG環境の一致性検証",
+    "authors": [
+      "山下隆義",
+      "板谷英典",
+      "平川翼",
+      "藤吉弘亘",
+      "長瀬功児",
+      "小山翔太郎",
+      "井上秀雄"
+    ],
+    "venue": "自動車技術会春季大会",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/c20230524_itaya",
+    "sources": [
+      "https://mprg.jp/publications/c20230524_itaya"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20230524-hoketsu",
+    "title": "車載カメラ映像からの物体検出における半教師あり学習の有効性の検証",
+    "authors": [
+      "法華津伸一",
+      "山下隆義",
+      "藤吉弘亘",
+      "平川翼"
+    ],
+    "venue": "自動車技術会春季大会",
+    "year": 2023,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20230524_hoketsu",
+    "sources": [
+      "https://mprg.jp/publications/f20230524_hoketsu"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20221207-isa",
+    "title": "サッカーのトレーニングにおける中盤選手の注視点比較と視線推定 -プロサッカー選手と大学生サッカー選手を対象として-",
+    "authors": [
+      "伊佐稜",
+      "堀尾郷介",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "メディア工学研究会",
+    "year": 2022,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20221207_isa",
+    "sources": [
+      "https://mprg.jp/publications/f20221207_isa"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20220908-honda",
+    "title": "Mask-attention機構を導入したPPOによる物体把持動作の視覚的説明",
+    "authors": [
+      "本多航也",
+      "板谷英典",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20220908_honda",
+    "sources": [
+      "https://mprg.jp/publications/f20220908_honda"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20220616-muramoto",
+    "title": "知識転移グラフによる最適な半教師あり学習の探索",
+    "authors": [
+      "村本佳隆",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20220616_muramoto",
+    "sources": [
+      "https://mprg.jp/publications/f20220616_muramoto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20220609-mihara",
+    "title": "Self-Attentionを用いたPointPillarsによる3次元物体検出の高精度化",
+    "authors": [
+      "三原一真",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20220609_mihara",
+    "sources": [
+      "https://mprg.jp/publications/f20220609_mihara"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20220608-takada",
+    "title": "Multiple Instance Learningを用いた優劣差に着目するスキル優劣判定",
+    "authors": [
+      "高田雅之",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20220608_takada",
+    "sources": [
+      "https://mprg.jp/publications/f20220608_takada"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20220608-hayakawa",
+    "title": "Grid-wise-attentionによる物体検出の視覚的説明",
+    "authors": [
+      "木村秋斗",
+      "早川和希",
+      "森巧磨",
+      "長内淳樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2022,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20220608_hayakawa",
+    "sources": [
+      "https://mprg.jp/publications/f20220608_hayakawa"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20220310-hattori",
+    "title": "AIから学ぶ：エキスパートの知見を導入したDNNモデルを教師とする学習者のためのインタラクティブ学習法の提案",
+    "authors": [
+      "服部幸平",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2022,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20220310_hattori",
+    "sources": [
+      "https://mprg.jp/publications/f20220310_hattori"
+    ],
+    "category": "education"
+  },
+  {
+    "id": "f20220310-adachi",
+    "title": "[サーベイ論文] Adversarial Training",
+    "authors": [
+      "足立浩規",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2022,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20220310_adachi",
+    "sources": [
+      "https://mprg.jp/publications/f20220310_adachi"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20211203-liu",
+    "title": "物体クラスを考慮したFM-NMSによる物体検出の知識蒸留",
+    "authors": [
+      "劉履壮",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20211203_liu",
+    "sources": [
+      "https://mprg.jp/publications/f20211203_liu"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20211014-kimura",
+    "title": "Pixel-wise-AttentionによるPoint型歩行者検出の判断根拠の可視化",
+    "authors": [
+      "木村秋斗",
+      "長内淳樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "自動車技術会秋季大会",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20211014_kimura",
+    "sources": [
+      "https://mprg.jp/publications/f20211014_kimura"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20211013-suzukit",
+    "title": "全方位LiDARを用いた1D Self-Attention Networkによるセマンティックセグメンテーション",
+    "authors": [
+      "鈴木貴大",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "自動車技術会秋季大会",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20211013_suzukit",
+    "sources": [
+      "https://mprg.jp/publications/f20211013_suzukit"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20210910-kawai",
+    "title": "配置物体を考慮したAttention機構マルチモーダルネットワークによる衝突予測",
+    "authors": [
+      "河合竹彦",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "杉浦孔明"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210910_kawai",
+    "sources": [
+      "https://mprg.jp/publications/f20210910_kawai"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20210825-hamaji",
+    "title": "Hessian-Free法を用いたEcho State Networkの構造探索",
+    "authors": [
+      "濱地優輝",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "山口裕",
+      "津田一郎"
+    ],
+    "venue": "情報科学技術フォーラム",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210825_hamaji",
+    "sources": [
+      "https://mprg.jp/publications/f20210825_hamaji"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20210611-yamada",
+    "title": "運転計測情報を用いたデータ選択と半教師あり学習によるセマンティックセグメンテーション",
+    "authors": [
+      "山田裕大",
+      "正木翔大",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210611_yamada",
+    "sources": [
+      "https://mprg.jp/publications/f20210611_yamada"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20210611-muramoto",
+    "title": "Refined Consistencyによる知識蒸留を用いた半教師あり学習",
+    "authors": [
+      "村本佳隆",
+      "岡本直樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210611_muramoto",
+    "sources": [
+      "https://mprg.jp/publications/f20210611_muramoto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20210611-iwata",
+    "title": "Human-in-the-loopによる設計空間の絞り込み法を導入した知識転移グラフの探索",
+    "authors": [
+      "岩田幸",
+      "南蒼馬",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210611_iwata",
+    "sources": [
+      "https://mprg.jp/publications/f20210611_iwata"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20210611-masaki",
+    "title": "Multi Head構造を導入したマルチドメイン・セマンティックセグメンテーション",
+    "authors": [
+      "正木翔大",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210611_masaki",
+    "sources": [
+      "https://mprg.jp/publications/f20210611_masaki"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20210610-komatsu",
+    "title": "2次元空間での奥行きベクトル場を考慮した人物の3次元姿勢推定",
+    "authors": [
+      "小松悠斗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210610_komatsu",
+    "sources": [
+      "https://mprg.jp/publications/f20210610_komatsu"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20210304-tsutsui",
+    "title": "セマンティックセグメンテーションによる超高解像度画像からの変化点検出",
+    "authors": [
+      "筒井駿吾",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "動的画像処理実利用化ワークショップ",
+    "year": 2021,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20210304_tsutsui",
+    "sources": [
+      "https://mprg.jp/publications/f20210304_tsutsui"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20201204-imaeda",
+    "title": "Generative Adversarial Networksを用いたからあげピッキングにおける前処理としての画像変換",
+    "authors": [
+      "今枝航",
+      "真野航輔",
+      "大島彩佳里",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20201204_imaeda",
+    "sources": [
+      "https://mprg.jp/publications/f20201204_imaeda"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20201203-morik",
+    "title": "視線情報を利用した一貫学習ベースによる自動運転制御の高精度化",
+    "authors": [
+      "森啓介",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20201203_morik",
+    "sources": [
+      "https://mprg.jp/publications/f20201203_morik"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20201203-miao",
+    "title": "法線情報を追加した点群からの3次元物体検出の高精度化",
+    "authors": [
+      "繆継樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20201203_miao",
+    "sources": [
+      "https://mprg.jp/publications/f20201203_miao"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20201203-tanabe",
+    "title": "Self-Attention Networksによる神経信号からの動作識別",
+    "authors": [
+      "田邉稜",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "ビジョン技術の実利用ワークショップ",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20201203_tanabe",
+    "sources": [
+      "https://mprg.jp/publications/f20201203_tanabe"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20201009-minoura",
+    "title": "[サーベイ論文] Deep Learningを用いた経路予測の研究動向",
+    "authors": [
+      "箕浦大晃",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2020,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20201009_minoura",
+    "sources": [
+      "https://mprg.jp/publications/f20201009_minoura"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20201009-araki",
+    "title": "画像生成ネットワークの逆伝播に基づく繰り返し更新による物体姿勢推定を用いた物体把持",
+    "authors": [
+      "荒木諒介",
+      "真野航輔",
+      "大西剛史",
+      "平野正徳",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "日本ロボット学会学術講演会",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20201009_araki",
+    "sources": [
+      "https://mprg.jp/publications/f20201009_araki"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20201009-seo",
+    "title": "複数解像度間の整合性を考慮した顕著性予測のモデル効率化",
+    "authors": [
+      "瀬尾俊貴",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2020,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20201009_seo",
+    "sources": [
+      "https://mprg.jp/publications/f20201009_seo"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20200902-tsukahara",
+    "title": "Generative Adversarial Networksの共同学習",
+    "authors": [
+      "塚原拓也",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2020,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20200902_tsukahara",
+    "sources": [
+      "https://mprg.jp/publications/f20200902_tsukahara"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20200902-moriy",
+    "title": "車載カメラ映像と動き情報による近未来キャプション生成",
+    "authors": [
+      "森優樹",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "パターン認識・メディア理解研究会",
+    "year": 2020,
+    "type": "meeting",
+    "url": "https://mprg.jp/publications/f20200902_moriy",
+    "sources": [
+      "https://mprg.jp/publications/f20200902_moriy"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20200612-komatsu",
+    "title": "3次元ベクトル場を導入したCNNによる人体の3次元姿勢推定",
+    "authors": [
+      "小松悠斗",
+      "白木克俊",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200612_komatsu",
+    "sources": [
+      "https://mprg.jp/publications/f20200612_komatsu"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20200611-kimura",
+    "title": "Repulsion Lossを導入した Single Stage Headless構造による遠方歩行者検出",
+    "authors": [
+      "木村秋斗",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200611_kimura",
+    "sources": [
+      "https://mprg.jp/publications/f20200611_kimura"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20200610-goto",
+    "title": "インタラクションを考慮したマルチブランチネットワークによる深層強化学習",
+    "authors": [
+      "五藤強志",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200610_goto",
+    "sources": [
+      "https://mprg.jp/publications/f20200610_goto"
+    ],
+    "category": "learning"
+  },
+  {
+    "id": "f20200610-itaya",
+    "title": "A3CにおけるAttention機構を用いた視覚的説明",
+    "authors": [
+      "板谷英典",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "杉浦孔明"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200610_itaya",
+    "sources": [
+      "https://mprg.jp/publications/f20200610_itaya"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20200610-sakashita",
+    "title": "エキスパートの知見を取り入れたマルチスケール・アテンション機構による疾患識別",
+    "authors": [
+      "坂下祐輔",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200610_sakashita",
+    "sources": [
+      "https://mprg.jp/publications/f20200610_sakashita"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20200610-suzuki",
+    "title": "1D-CNNによる全方位LiDARデータのセマンティックセグメンテーション",
+    "authors": [
+      "鈴木貴大",
+      "村瀬卓也",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "画像センシングシンポジウム",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200610_suzuki",
+    "sources": [
+      "https://mprg.jp/publications/f20200610_suzuki"
+    ],
+    "category": "driving"
+  },
+  {
+    "id": "f20200609-ogura",
+    "title": "Multimodal Attention Branch Network に基づく把持命令文の生成",
+    "authors": [
+      "小椋忠志",
+      "Aly Magassouba",
+      "杉浦孔明",
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘",
+      "河井恒"
+    ],
+    "venue": "人工知能学会全国大会",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200609_ogura",
+    "sources": [
+      "https://mprg.jp/publications/f20200609_ogura"
+    ],
+    "category": "vision"
+  },
+  {
+    "id": "f20200522-hirakawa",
+    "title": "遠距離物体検出に適したネットワークアーキテクチャ探索手法",
+    "authors": [
+      "平川翼",
+      "山下隆義",
+      "藤吉弘亘"
+    ],
+    "venue": "自動車技術会春季大会",
+    "year": 2020,
+    "type": "domestic",
+    "url": "https://mprg.jp/publications/f20200522_hirakawa",
+    "sources": [
+      "https://mprg.jp/publications/f20200522_hirakawa"
+    ],
+    "category": "vision"
   }
 ]
