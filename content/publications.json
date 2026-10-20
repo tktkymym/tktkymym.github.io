@@ -109,7 +109,10 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-3-032-29755-6_2"
     ],
-    "category": "education"
+    "category": "education",
+    "featured": 14,
+    "summary_ja": "知識の自己評価のずれをグラフで捉え、学習者に合わせた適応的なフィードバックにつなげる枠組みを提案しています。",
+    "summary_en": "A graph-based framework that estimates how well learners monitor their own knowledge and supports adaptive feedback."
   },
   {
     "id": "frequency-domain-ai-image-detection",
@@ -169,7 +172,10 @@
       "https://mprg.jp/en/publications/c20260702_yasuda"
     ],
     "category": "education",
-    "venue_short": "EDM"
+    "venue_short": "EDM",
+    "featured": 13,
+    "summary_ja": "学習行動の文脈情報を考慮して、教師なしで学習ログ中の異常な行動を検知する手法を研究しています。",
+    "summary_en": "Unsupervised detection of anomalous learning behaviors that takes the context of learning logs into account."
   },
   {
     "id": "yukuiv2",
@@ -504,7 +510,10 @@
     "sources": [
       "https://link.springer.com/chapter/10.1007/978-981-96-8186-0_24"
     ],
-    "category": "education"
+    "category": "education",
+    "featured": 15,
+    "summary_ja": "学生の振り返りを自動で評価するために、単一エージェントと複数エージェントのLLM戦略を比較しています。",
+    "summary_en": "Comparing single-agent and multi-agent LLM strategies for automatically assessing student reflections."
   },
   {
     "id": "action-query-transformer",
