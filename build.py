@@ -81,6 +81,13 @@ def icon(kind):
         <path d="M22 92 62 70 102 78 142 44 182 52 228 24" stroke="#326b93" stroke-width="2.5" stroke-linejoin="round"/>
         <g fill="#dceaf4" stroke="#a7c3d8"><rect x="34" y="82" width="16" height="26"/><rect x="74" y="64" width="16" height="44"/><rect x="114" y="70" width="16" height="38"/><rect x="154" y="46" width="16" height="62"/><rect x="194" y="38" width="16" height="70"/></g>
         <g fill="#326b93"><circle cx="62" cy="70" r="5"/><circle cx="102" cy="78" r="5"/><circle cx="142" cy="44" r="5"/><circle cx="182" cy="52" r="5"/><circle cx="228" cy="24" r="5"/></g>'''
+    elif kind == "robotics":
+        shape = '''<path d="M8 108h234" stroke="#bbcede"/><rect x="40" y="94" width="62" height="14" fill="#dceaf4" stroke="#a7c3d8"/>
+        <path d="M71 94V70l50-38 40 22" stroke="#326b93" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+        <g fill="#f5f8fb" stroke="#326b93" stroke-width="2"><circle cx="71" cy="70" r="7"/><circle cx="121" cy="32" r="7"/><circle cx="161" cy="54" r="6"/></g>
+        <path d="M161 60v14m-9 0h18m-18 0v10m18-10v10" stroke="#326b93" stroke-width="3" stroke-linecap="round"/>
+        <rect x="176" y="92" width="34" height="16" fill="#a9c3d8"/><circle cx="193" cy="86" r="6" fill="#dceaf4" stroke="#a7c3d8"/>
+        <path d="M205 40h28M205 50h18" stroke="#9bb4c8"/>'''
     elif kind == "learning":
         edges = ""
         for a in (28, 62, 96):
@@ -152,7 +159,8 @@ def filter_bar(lang):
     labels = {"all": "All" if lang == "en" else "すべて", "vision": "Vision" if lang == "en" else "画像認識",
               "driving": "Driving" if lang == "en" else "自動運転", "learning": "Learning" if lang == "en" else "機械学習",
               "biology": "Biology" if lang == "en" else "生命科学",
-              "education": "Learning Analytics" if lang == "en" else "ラーニングアナリティクス"}
+              "education": "Learning Analytics" if lang == "en" else "ラーニングアナリティクス",
+              "robotics": "Robotics" if lang == "en" else "ロボティクス"}
     return '<div class="filter-bar" role="group" aria-label="' + ("Research field" if lang == "en" else "論文の研究分野") + '">' + "".join(
         f'<button class="filter-chip" type="button" data-filter="{k}" aria-pressed="{"true" if k=="all" else "false"}">{v}</button>' for k,v in labels.items()) + '</div>'
 
@@ -189,6 +197,7 @@ def main_page(lang):
         ("education", "教育支援・ラーニングアナリティクス", "Learning analytics", "学習ログや振り返りの分析から、学習状況の把握・成績予測・早期の支援につなげます。教育データを活かして、学び手と教員を支える技術に取り組みます。", "Analyzing learning logs and student reflections to understand learning progress, predict performance, and support learners early.", "Learning analytics · Educational data mining"),
         ("driving", "自動運転・環境理解", "Autonomous driving", "道路シーンの認識とリスク評価、3次元シーンの再構成。安全な自動運転を支える知覚・評価技術に取り組みます。", "Road-scene perception, risk assessment, and 3D reconstruction for safer autonomous systems and realistic simulation.", "Scene understanding · 3D reconstruction"),
         ("learning", "機械学習の効率化・適応", "Efficient & adaptive learning", "モデルの軽量化と継続学習。限られた計算資源を生かし、変化するデータから学び続ける仕組みを探究します。", "Model compression and continual learning: using limited computing resources effectively and learning from changing data.", "Model compression · Continual learning"),
+        ("robotics", "ロボティクス・行動獲得", "Robotics", "ロボットによる物体把持と6D姿勢推定、深層強化学習による行動の獲得と判断根拠の可視化に取り組みます。", "Robot grasping and 6D pose estimation, plus deep reinforcement learning for acquiring actions and visualizing the basis of decisions.", "Grasping · Reinforcement learning"),
         ("biology", "生命科学・遺伝子発現", "AI for biology", "単一細胞の遺伝子発現から細胞の状態を学習。Mouse-Geneformerを通じ、細胞種分類とin silico摂動解析に取り組みます。", "Learning from single-cell gene expression. Mouse-Geneformer supports cell-type classification, in silico perturbation analysis, and cross-species research.", "Single-cell analysis · Geneformer"),
     ]
     cards = ""

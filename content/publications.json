@@ -534,7 +534,10 @@
       "https://ieeexplore.ieee.org/document/10938565",
       "https://thirakawa.github.io/pub_journal_en/"
     ],
-    "category": "learning"
+    "category": "robotics",
+    "featured": 18,
+    "summary_ja": "深層強化学習の判断根拠を可視化し、拡張現実を通じてロボットの行動を視覚的にフィードバックします。",
+    "summary_en": "Visualizing the basis of deep reinforcement learning decisions and giving visual feedback on robot actions through augmented reality."
   },
   {
     "id": "vllm-human-like-guidance",
@@ -986,7 +989,7 @@
       "https://ieeexplore.ieee.org/document/10560007",
       "https://thirakawa.github.io/pub_journal_en/"
     ],
-    "category": "learning"
+    "category": "robotics"
   },
   {
     "id": "nearest-neighbor-future-captioning",
@@ -1009,7 +1012,7 @@
       "https://doi.org/10.1080/01691864.2024.2388114",
       "https://thirakawa.github.io/pub_journal_en/"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "overlap-suppression-tracking",
@@ -1176,7 +1179,7 @@
       "https://mprg.jp/publications?y=2022",
       "https://www.tandfonline.com/doi/abs/10.1080/01691864.2022.2136504"
     ],
-    "category": "vision",
+    "category": "robotics",
     "venue_short": "Advanced Robotics"
   },
   {
@@ -1502,7 +1505,7 @@
       "https://mprg.jp/publications/b20230622_itaya",
       "https://mprg.jp/publications?y=2023"
     ],
-    "category": "learning",
+    "category": "robotics",
     "venue_short": "IJCNN"
   },
   {
@@ -1665,7 +1668,7 @@
       "https://mprg.jp/publications/b20220302_araki",
       "https://mprg.jp/publications/?y=2022&page=2"
     ],
-    "category": "vision",
+    "category": "robotics",
     "venue_short": "Advanced Robotics"
   },
   {
@@ -1750,8 +1753,11 @@
       "https://mprg.jp/publications/b20220901_pattar",
       "https://mprg.jp/publications?y=2022"
     ],
-    "category": "vision",
-    "venue_short": "IEICE Trans. IS"
+    "category": "robotics",
+    "venue_short": "IEICE Trans. IS",
+    "featured": 17,
+    "summary_ja": "合成データで学習した浅いネットワークにより、対称形状の物体に対する吸着把持位置を検出します。",
+    "summary_en": "Detecting suction grasp positions for symmetric objects with shallow networks trained on synthetic data."
   },
   {
     "id": "c20220604-goto",
@@ -1853,7 +1859,7 @@
       "https://www.jstage.jst.go.jp/article/jrsj/40/3/40_40_212/_article/-char/ja",
       "https://doi.org/10.7210/jrsj.40.212"
     ],
-    "category": "learning",
+    "category": "robotics",
     "venue_short": "日本ロボット学会誌"
   },
   {
@@ -2107,8 +2113,11 @@
       "https://mprg.jp/publications/c20210929_araki",
       "https://mprg.jp/publications?y=2021"
     ],
-    "category": "vision",
-    "venue_short": "IROS"
+    "category": "robotics",
+    "venue_short": "IROS",
+    "featured": 16,
+    "summary_ja": "画像生成ネットワークの逆伝播を使った繰り返し更新で、物体の6D姿勢を粗い推定から精密な推定へ段階的に求めます。",
+    "summary_en": "Iteratively refining 6D object pose from coarse to fine by back-propagating through an image-generation network."
   },
   {
     "id": "c20210920-masaki",
@@ -2173,7 +2182,7 @@
       "https://mprg.jp/publications/b20210416_hirakawa",
       "https://mprg.jp/publications/?y=2021&page=2"
     ],
-    "category": "vision",
+    "category": "robotics",
     "venue_short": "Advanced Robotics"
   },
   {
@@ -2258,7 +2267,7 @@
       "https://mprg.jp/publications/c20210720_itaya",
       "https://mprg.jp/publications/?y=2021&page=2"
     ],
-    "category": "learning",
+    "category": "robotics",
     "venue_short": "IJCNN"
   },
   {
@@ -2299,7 +2308,7 @@
       "https://research-db.chubu.ac.jp/chbhp/KgApp/k05/resid/S002210/868?lang=ja",
       "https://www.kobelco.co.jp/r-d/technology-review/pdf/74_2/103-107.pdf"
     ],
-    "category": "vision",
+    "category": "robotics",
     "venue_short": "溶接技術"
   },
   {
@@ -2385,7 +2394,7 @@
     "sources": [
       "https://sites.google.com/view/miru2020/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0"
     ],
-    "category": "driving"
+    "category": "robotics"
   },
   {
     "id": "miru2020-os2-2b-5",
@@ -3285,7 +3294,7 @@
     "sources": [
       "https://miru-committee.github.io/miru2024/program/timetable/"
     ],
-    "category": "learning"
+    "category": "robotics"
   },
   {
     "id": "miru2024-is-2-047",
@@ -4258,7 +4267,7 @@
     "sources": [
       "https://mprg.jp/publications/f20240906_suzukik"
     ],
-    "category": "learning"
+    "category": "robotics"
   },
   {
     "id": "f20240904-noda",
@@ -4276,7 +4285,7 @@
     "sources": [
       "https://mprg.jp/publications/f20240904_noda"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20240828-harada",
@@ -4526,7 +4535,7 @@
     "sources": [
       "https://mprg.jp/publications/f20230913_yin"
     ],
-    "category": "driving"
+    "category": "robotics"
   },
   {
     "id": "f20230615-domatsu",
@@ -4735,7 +4744,7 @@
     "sources": [
       "https://mprg.jp/publications/f20220908_honda"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20220616-muramoto",
@@ -4920,7 +4929,7 @@
     "sources": [
       "https://mprg.jp/publications/f20210910_kawai"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20210825-hamaji",
@@ -5164,7 +5173,7 @@
     "sources": [
       "https://mprg.jp/publications/f20201009_araki"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20201009-seo",
@@ -5292,7 +5301,7 @@
     "sources": [
       "https://mprg.jp/publications/f20200610_itaya"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20200610-sakashita",
@@ -5350,7 +5359,7 @@
     "sources": [
       "https://mprg.jp/publications/f20200609_ogura"
     ],
-    "category": "vision"
+    "category": "robotics"
   },
   {
     "id": "f20200522-hirakawa",
